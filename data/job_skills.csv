@@ -1,0 +1,4881 @@
+posting_id,skill_name,category
+adzuna_5879136999,SQL,Language
+adzuna_5890063533,SQL,Language
+adzuna_5890063533,Power BI,BI
+adzuna_5890063533,Excel,BI
+adzuna_5837574861,SQL,Language
+adzuna_5837574861,Python,Language
+adzuna_5837574861,Pandas,Library
+adzuna_5837574861,NumPy,Library
+adzuna_5845835260,SQL,Language
+adzuna_5845835260,Python,Language
+adzuna_5845835260,Databricks,Warehouse
+adzuna_5845835260,Looker,BI
+adzuna_5845835260,Statistics,Statistics
+adzuna_5903298425,Excel,BI
+adzuna_5894628495,Excel,BI
+adzuna_5719936223,SQL,Language
+adzuna_5719936223,Python,Language
+adzuna_5719936223,Looker,BI
+adzuna_5719936223,GCP,Cloud
+adzuna_5766198211,SQL,Language
+adzuna_5766198211,Python,Language
+adzuna_5766198211,Tableau,BI
+adzuna_5766198211,Power BI,BI
+adzuna_5766198211,Looker,BI
+adzuna_5766198211,Pandas,Library
+adzuna_5834199195,Power BI,BI
+adzuna_5834199195,Excel,BI
+adzuna_5834199195,Statistics,Statistics
+adzuna_5845835227,SQL,Language
+adzuna_5845835227,Python,Language
+adzuna_5845835227,Statistics,Statistics
+adzuna_5850362813,SQL,Language
+adzuna_5850362813,Power BI,BI
+adzuna_5902291931,SQL,Language
+adzuna_5902291931,Power BI,BI
+adzuna_5902291931,Excel,BI
+adzuna_5899052880,SQL,Language
+adzuna_5899052880,Spark,Big Data
+adzuna_5759280503,Excel,BI
+adzuna_5570657527,Hadoop,Big Data
+adzuna_5570657527,GCP,Cloud
+adzuna_5871267994,SQL,Language
+adzuna_5871267994,Python,Language
+adzuna_5871267994,Spark,Big Data
+adzuna_5871267994,Databricks,Warehouse
+adzuna_5871267994,Power BI,BI
+adzuna_5871267994,Azure,Cloud
+adzuna_5871267960,SQL,Language
+adzuna_5871267960,Python,Language
+adzuna_5871267960,Spark,Big Data
+adzuna_5871267960,Databricks,Warehouse
+adzuna_5871267960,Power BI,BI
+adzuna_5871267960,Azure,Cloud
+adzuna_5843808561,Excel,BI
+adzuna_5906882669,SQL,Language
+adzuna_5906882669,Spark,Big Data
+adzuna_5906882669,Machine Learning,ML Area
+adzuna_5893454709,SQL,Language
+adzuna_5893454709,Python,Language
+adzuna_5893454709,Git,DevOps
+adzuna_5790474271,SQL,Language
+adzuna_5790474271,Power BI,BI
+adzuna_5890063537,SQL,Language
+adzuna_5890063537,Excel,BI
+adzuna_5875077586,SQL,Language
+adzuna_5875077586,Python,Language
+adzuna_5875077586,Scala,Language
+adzuna_5875077586,Java,Language
+adzuna_5875077586,Spark,Big Data
+adzuna_5875077586,Hadoop,Big Data
+adzuna_5875077586,Machine Learning,ML Area
+adzuna_5875077586,NLP,ML Area
+adzuna_5886996392,SQL,Language
+adzuna_5886996392,dbt,Transformation
+adzuna_5886996392,Snowflake,Warehouse
+adzuna_5886996392,LLM / GenAI,ML Area
+adzuna_5869810298,SQL,Language
+adzuna_5869810298,Hadoop,Big Data
+adzuna_5869810298,BigQuery,Warehouse
+adzuna_5869810298,GCP,Cloud
+adzuna_5848651322,Excel,BI
+adzuna_5903298315,SQL,Language
+adzuna_5903298315,Databricks,Warehouse
+adzuna_5903298315,Power BI,BI
+adzuna_5903298315,Azure,Cloud
+adzuna_5876875083,SQL,Language
+adzuna_5876875083,Python,Language
+adzuna_5876875083,Scala,Language
+adzuna_5876875083,Java,Language
+adzuna_5876875081,SQL,Language
+adzuna_5876875081,Python,Language
+adzuna_5876875081,Scala,Language
+adzuna_5876875081,Java,Language
+adzuna_5857504770,Excel,BI
+adzuna_5887246607,SQL,Language
+adzuna_5903636954,SQL,Language
+adzuna_5903636954,Power BI,BI
+adzuna_5903636954,Git,DevOps
+adzuna_5853436940,SQL,Language
+adzuna_5894945684,SQL,Language
+adzuna_5894945684,Power BI,BI
+adzuna_5894945684,Excel,BI
+adzuna_5880761872,SQL,Language
+adzuna_5880761872,Python,Language
+adzuna_5880761872,GCP,Cloud
+adzuna_5873243036,Databricks,Warehouse
+adzuna_5873243036,Azure,Cloud
+adzuna_5815332392,SQL,Language
+adzuna_5815332392,Python,Language
+adzuna_5868517693,SQL,Language
+adzuna_5868517693,Python,Language
+adzuna_5868517693,Scala,Language
+adzuna_5868517693,Java,Language
+adzuna_5868517693,Power BI,BI
+adzuna_5872873565,SQL,Language
+adzuna_5872873565,Python,Language
+adzuna_5872873565,Spark,Big Data
+adzuna_5872873565,Databricks,Warehouse
+adzuna_5872873565,Power BI,BI
+adzuna_5872873565,Azure,Cloud
+adzuna_5869319376,Snowflake,Warehouse
+adzuna_5870231523,SQL,Language
+adzuna_5822312739,Databricks,Warehouse
+adzuna_5822312739,Looker,BI
+adzuna_5886519715,SQL,Language
+adzuna_5855572777,Tableau,BI
+adzuna_5871673904,Tableau,BI
+adzuna_5871673904,Machine Learning,ML Area
+adzuna_4802288090,SQL,Language
+adzuna_4802288953,SQL,Language
+adzuna_5885467631,SQL,Language
+adzuna_5885467631,Kafka,Big Data
+adzuna_5828594922,SQL,Language
+adzuna_5886996413,LLM / GenAI,ML Area
+adzuna_5876874962,SQL,Language
+adzuna_5672452256,Snowflake,Warehouse
+adzuna_5887339906,SQL,Language
+adzuna_5887339906,Snowflake,Warehouse
+adzuna_5887339905,SQL,Language
+adzuna_5887339905,Snowflake,Warehouse
+adzuna_5887339908,SQL,Language
+adzuna_5887339908,Snowflake,Warehouse
+adzuna_5887339909,SQL,Language
+adzuna_5887339909,Snowflake,Warehouse
+adzuna_5850947163,Databricks,Warehouse
+adzuna_5850947163,Looker,BI
+adzuna_5616191204,Airflow,Orchestration
+adzuna_5616191204,BigQuery,Warehouse
+adzuna_5616191204,Redshift,Warehouse
+adzuna_5616191204,GCP,Cloud
+adzuna_5616191204,Statistics,Statistics
+adzuna_5880763069,Excel,BI
+adzuna_5891502026,Power BI,BI
+adzuna_5906333498,SQL,Language
+adzuna_5895661824,SQL,Language
+adzuna_5895661824,Spark,Big Data
+adzuna_5879137032,Excel,BI
+adzuna_5899445996,SQL,Language
+adzuna_5899445996,Python,Language
+adzuna_5899445996,Airflow,Orchestration
+adzuna_5899445996,dbt,Transformation
+adzuna_5899445996,Snowflake,Warehouse
+adzuna_5899445996,Tableau,BI
+adzuna_5899445996,Azure,Cloud
+adzuna_5899445996,Git,DevOps
+adzuna_5887339786,SQL,Language
+adzuna_5887339786,Python,Language
+adzuna_5887339786,Airflow,Orchestration
+adzuna_5887339786,BigQuery,Warehouse
+adzuna_5887339786,Tableau,BI
+adzuna_5887339786,Power BI,BI
+adzuna_5887339786,Looker,BI
+adzuna_5887339786,GCP,Cloud
+adzuna_5887339786,Git,DevOps
+adzuna_5887339786,Machine Learning,ML Area
+adzuna_5887339786,NLP,ML Area
+adzuna_5887339786,LLM / GenAI,ML Area
+adzuna_5886996463,SQL,Language
+adzuna_5886996463,Snowflake,Warehouse
+adzuna_5886996463,BigQuery,Warehouse
+adzuna_5886996463,Databricks,Warehouse
+adzuna_5886996463,Power BI,BI
+adzuna_5886996463,Azure,Cloud
+adzuna_5886996463,Git,DevOps
+adzuna_5880762964,SQL,Language
+adzuna_5880762964,Python,Language
+adzuna_5880762964,Spark,Big Data
+adzuna_5880762964,Power BI,BI
+adzuna_5880762964,Azure,Cloud
+adzuna_5890334082,SQL,Language
+adzuna_5888927985,Python,Language
+adzuna_5888927985,Git,DevOps
+adzuna_5889647681,Statistics,Statistics
+adzuna_5904127337,dbt,Transformation
+adzuna_5900449415,SQL,Language
+adzuna_5900449415,Python,Language
+adzuna_5899446457,SQL,Language
+adzuna_5899446457,Python,Language
+adzuna_5899446457,Tableau,BI
+adzuna_5899446457,Power BI,BI
+adzuna_5891502111,SQL,Language
+adzuna_5789497027,BigQuery,Warehouse
+adzuna_5789497027,Looker,BI
+adzuna_5789497027,GCP,Cloud
+adzuna_5791659500,BigQuery,Warehouse
+adzuna_5791659500,GCP,Cloud
+adzuna_5818296173,Python,Language
+adzuna_5794128535,SQL,Language
+adzuna_5794128535,Python,Language
+adzuna_5900449575,Python,Language
+adzuna_5900449575,BigQuery,Warehouse
+adzuna_5900449575,GCP,Cloud
+adzuna_5900449575,LLM / GenAI,ML Area
+adzuna_5881189368,Hadoop,Big Data
+adzuna_5881189368,GCP,Cloud
+adzuna_5871673783,Hadoop,Big Data
+adzuna_5871673783,GCP,Cloud
+adzuna_5728614825,SQL,Language
+adzuna_5728614825,Python,Language
+adzuna_5728614825,Git,DevOps
+adzuna_5843808551,Statistics,Statistics
+adzuna_5856528740,Python,Language
+adzuna_5856528740,Java,Language
+adzuna_5856528740,Kafka,Big Data
+adzuna_5482259763,BigQuery,Warehouse
+adzuna_5482259763,Looker,BI
+adzuna_5840228634,Kafka,Big Data
+adzuna_5879137064,SQL,Language
+adzuna_5879137064,Excel,BI
+adzuna_5879137019,SQL,Language
+adzuna_5879137019,Python,Language
+adzuna_5879137019,Tableau,BI
+adzuna_5879137019,Git,DevOps
+adzuna_5879137019,Machine Learning,ML Area
+adzuna_5885832926,Python,Language
+adzuna_5885832926,BigQuery,Warehouse
+adzuna_5885832926,GCP,Cloud
+adzuna_5885832926,LLM / GenAI,ML Area
+adzuna_5891501941,SQL,Language
+adzuna_5819711197,SQL,Language
+adzuna_5819711197,Python,Language
+adzuna_5819711197,AWS,Cloud
+adzuna_5899445186,SQL,Language
+adzuna_5899445186,dbt,Transformation
+adzuna_5899445186,Snowflake,Warehouse
+adzuna_5899445093,SQL,Language
+adzuna_5899445093,dbt,Transformation
+adzuna_5899445093,Snowflake,Warehouse
+adzuna_5899445149,SQL,Language
+adzuna_5899445149,dbt,Transformation
+adzuna_5899445149,Snowflake,Warehouse
+adzuna_5899445210,SQL,Language
+adzuna_5899445210,dbt,Transformation
+adzuna_5899445210,Snowflake,Warehouse
+adzuna_5879434044,SQL,Language
+adzuna_5879434044,Python,Language
+adzuna_5879434044,GCP,Cloud
+adzuna_5879434013,SQL,Language
+adzuna_5879434013,Python,Language
+adzuna_5879434013,Tableau,BI
+adzuna_5879434013,GCP,Cloud
+adzuna_5879434013,Git,DevOps
+adzuna_5885832496,SQL,Language
+adzuna_5885832496,Databricks,Warehouse
+adzuna_5885832496,Azure,Cloud
+adzuna_5880763077,SQL,Language
+adzuna_5880763077,Hadoop,Big Data
+adzuna_5880763076,SQL,Language
+adzuna_5880763076,Hadoop,Big Data
+adzuna_5880763075,SQL,Language
+adzuna_5880763075,Hadoop,Big Data
+adzuna_5880763073,SQL,Language
+adzuna_5880763073,Hadoop,Big Data
+adzuna_5822312671,Spark,Big Data
+adzuna_5794128693,SQL,Language
+adzuna_5794128693,Power BI,BI
+adzuna_5905235366,SQL,Language
+adzuna_5905235366,Python,Language
+adzuna_5905235366,Excel,BI
+adzuna_5856738717,AWS,Cloud
+adzuna_5878750907,Databricks,Warehouse
+adzuna_5878750907,Azure,Cloud
+adzuna_5885832465,Excel,BI
+adzuna_5816881934,Spark,Big Data
+adzuna_5852205207,SQL,Language
+adzuna_5852205207,Python,Language
+adzuna_5852205207,Spark,Big Data
+adzuna_5852205207,Tableau,BI
+adzuna_5852205207,Power BI,BI
+adzuna_5852205207,AWS,Cloud
+adzuna_5852205207,Azure,Cloud
+adzuna_5822696138,SQL,Language
+adzuna_5822696138,Python,Language
+adzuna_5822696138,Databricks,Warehouse
+adzuna_5822696138,Azure,Cloud
+adzuna_5811519767,Tableau,BI
+adzuna_5865307191,Snowflake,Warehouse
+adzuna_5900450501,Azure,Cloud
+adzuna_5900450501,GCP,Cloud
+adzuna_5880459256,SQL,Language
+adzuna_5880459256,Java,Language
+adzuna_5880459256,Kafka,Big Data
+adzuna_5906148360,Databricks,Warehouse
+adzuna_5819711946,SQL,Language
+adzuna_5898060064,SQL,Language
+adzuna_5898060064,BigQuery,Warehouse
+adzuna_5898060064,Looker,BI
+adzuna_5898060064,GCP,Cloud
+adzuna_5898060064,Machine Learning,ML Area
+adzuna_5878158429,SQL,Language
+adzuna_5878158429,Python,Language
+adzuna_5878158429,Spark,Big Data
+adzuna_5878158429,Kafka,Big Data
+adzuna_5878158429,dbt,Transformation
+adzuna_5878158429,Databricks,Warehouse
+adzuna_5878158429,Azure,Cloud
+adzuna_5878158429,Git,DevOps
+adzuna_5900798846,Snowflake,Warehouse
+adzuna_5901555534,Tableau,BI
+adzuna_5882401228,SQL,Language
+adzuna_5882401228,Tableau,BI
+adzuna_5882401228,Git,DevOps
+adzuna_5882401228,Machine Learning,ML Area
+adzuna_5869810355,SQL,Language
+adzuna_5869810355,Python,Language
+adzuna_5869810355,Spark,Big Data
+adzuna_5869810355,Databricks,Warehouse
+adzuna_5869810355,Azure,Cloud
+adzuna_5894946795,SQL,Language
+adzuna_5894946795,Python,Language
+adzuna_5894946795,Looker,BI
+adzuna_5890333440,Spark,Big Data
+adzuna_5890333440,Snowflake,Warehouse
+adzuna_5890333440,Tableau,BI
+adzuna_5872184098,Spark,Big Data
+adzuna_5882401071,dbt,Transformation
+adzuna_5882401071,Snowflake,Warehouse
+adzuna_5882401071,Azure,Cloud
+adzuna_5875077563,SQL,Language
+adzuna_5875077563,Python,Language
+adzuna_5875077563,Spark,Big Data
+adzuna_5875077563,Airflow,Orchestration
+adzuna_5875077563,Databricks,Warehouse
+adzuna_5875077563,Azure,Cloud
+adzuna_5875077563,GCP,Cloud
+adzuna_5880459325,SQL,Language
+adzuna_5880459325,Python,Language
+adzuna_5880459325,Azure,Cloud
+adzuna_5899052954,Airflow,Orchestration
+adzuna_5899052954,BigQuery,Warehouse
+adzuna_5899052954,GCP,Cloud
+adzuna_5899052954,Git,DevOps
+adzuna_5814793299,SQL,Language
+adzuna_5814793299,Python,Language
+adzuna_5814793299,Spark,Big Data
+adzuna_5814793299,Kafka,Big Data
+adzuna_5814793299,Airflow,Orchestration
+adzuna_5814793299,dbt,Transformation
+adzuna_5814793299,Snowflake,Warehouse
+adzuna_5814793299,BigQuery,Warehouse
+adzuna_5814793299,Redshift,Warehouse
+adzuna_5814793299,GCP,Cloud
+adzuna_5814793299,Pandas,Library
+adzuna_5875077606,Python,Language
+adzuna_5814793474,SQL,Language
+adzuna_5814793474,Tableau,BI
+adzuna_5814793474,Power BI,BI
+adzuna_5903298387,SQL,Language
+adzuna_5903298387,Python,Language
+adzuna_5903298387,Spark,Big Data
+adzuna_5903298387,Airflow,Orchestration
+adzuna_5903298387,GCP,Cloud
+adzuna_5843808484,SQL,Language
+adzuna_5843808484,Java,Language
+adzuna_5843808484,Spark,Big Data
+adzuna_5843808484,Airflow,Orchestration
+adzuna_5843808484,Git,DevOps
+adzuna_5879137122,Python,Language
+adzuna_5879137122,Spark,Big Data
+adzuna_5879137122,Databricks,Warehouse
+adzuna_5879137122,Azure,Cloud
+adzuna_5845835198,Python,Language
+adzuna_5845835198,Scala,Language
+adzuna_5845835198,Java,Language
+adzuna_5845835198,Spark,Big Data
+adzuna_5845835198,Kafka,Big Data
+adzuna_5845835198,Airflow,Orchestration
+adzuna_5845835198,Docker,DevOps
+adzuna_5904510348,Python,Language
+adzuna_5904510348,Snowflake,Warehouse
+adzuna_5904510348,AWS,Cloud
+adzuna_5890063600,SQL,Language
+adzuna_5890063600,Python,Language
+adzuna_5890063600,Spark,Big Data
+adzuna_5890063600,Databricks,Warehouse
+adzuna_5903298350,Snowflake,Warehouse
+adzuna_5903298350,Power BI,BI
+adzuna_5775554012,SQL,Language
+adzuna_5775554012,Python,Language
+adzuna_5775554012,Scala,Language
+adzuna_5871268001,Databricks,Warehouse
+adzuna_5748511902,SQL,Language
+adzuna_5748511902,Python,Language
+adzuna_5748511902,Scala,Language
+adzuna_5748511902,Java,Language
+adzuna_5748511902,Spark,Big Data
+adzuna_5748511902,Kafka,Big Data
+adzuna_5748511902,AWS,Cloud
+adzuna_5748511902,Azure,Cloud
+adzuna_5890063594,SQL,Language
+adzuna_5890063594,Python,Language
+adzuna_5890063594,Azure,Cloud
+adzuna_5869810330,SQL,Language
+adzuna_5869810330,Python,Language
+adzuna_5869810330,Azure,Cloud
+adzuna_5808721423,SQL,Language
+adzuna_5808721423,Python,Language
+adzuna_5808721423,Spark,Big Data
+adzuna_5808721423,Airflow,Orchestration
+adzuna_5808721423,dbt,Transformation
+adzuna_5808721423,BigQuery,Warehouse
+adzuna_5808721423,Power BI,BI
+adzuna_5808721423,GCP,Cloud
+adzuna_5854874735,SQL,Language
+adzuna_5854874735,Python,Language
+adzuna_5854874735,Spark,Big Data
+adzuna_5854874735,Databricks,Warehouse
+adzuna_5854874735,Azure,Cloud
+adzuna_5854874735,Git,DevOps
+adzuna_5821846871,SQL,Language
+adzuna_5821846871,dbt,Transformation
+adzuna_5821846871,Snowflake,Warehouse
+adzuna_5821846871,Databricks,Warehouse
+adzuna_5821846871,AWS,Cloud
+adzuna_5821846871,Azure,Cloud
+adzuna_5871268009,SQL,Language
+adzuna_5871268009,Python,Language
+adzuna_5871268009,Spark,Big Data
+adzuna_5871268009,Databricks,Warehouse
+adzuna_5871268009,Machine Learning,ML Area
+adzuna_5796396621,Python,Language
+adzuna_5796396621,Scala,Language
+adzuna_5796396621,Spark,Big Data
+adzuna_5796396621,Kafka,Big Data
+adzuna_5796396621,Airflow,Orchestration
+adzuna_5796396621,Kubernetes,DevOps
+adzuna_5845835187,Python,Language
+adzuna_5845835187,Scala,Language
+adzuna_5845835187,Java,Language
+adzuna_5845835187,Spark,Big Data
+adzuna_5845835187,Kafka,Big Data
+adzuna_5845835187,Airflow,Orchestration
+adzuna_5890063592,SQL,Language
+adzuna_5890063592,Python,Language
+adzuna_5890063592,Airflow,Orchestration
+adzuna_5890063592,Databricks,Warehouse
+adzuna_5869810331,SQL,Language
+adzuna_5869810331,Python,Language
+adzuna_5869810331,Airflow,Orchestration
+adzuna_5869810331,Databricks,Warehouse
+adzuna_5904509911,SQL,Language
+adzuna_5904509920,SQL,Language
+adzuna_5904509920,Spark,Big Data
+adzuna_5904509920,Databricks,Warehouse
+adzuna_5904509920,AWS,Cloud
+adzuna_5904509920,Azure,Cloud
+adzuna_5904509920,GCP,Cloud
+adzuna_5875077566,SQL,Language
+adzuna_5875077566,Python,Language
+adzuna_5875077566,Scala,Language
+adzuna_5875077566,Spark,Big Data
+adzuna_5875077566,Hadoop,Big Data
+adzuna_5875077566,Airflow,Orchestration
+adzuna_5875077566,GCP,Cloud
+adzuna_5850362500,Python,Language
+adzuna_5850362500,Scala,Language
+adzuna_5850362500,Spark,Big Data
+adzuna_5850362500,Kafka,Big Data
+adzuna_5729882826,SQL,Language
+adzuna_5729882826,Python,Language
+adzuna_5729882826,Scala,Language
+adzuna_5729882826,Tableau,BI
+adzuna_5729882826,Power BI,BI
+adzuna_5729882826,Looker,BI
+adzuna_5748511911,SQL,Language
+adzuna_5748511911,Python,Language
+adzuna_5748511911,Java,Language
+adzuna_5748511911,Kafka,Big Data
+adzuna_5748511911,AWS,Cloud
+adzuna_5748511911,Azure,Cloud
+adzuna_5859109932,SQL,Language
+adzuna_5859109932,Python,Language
+adzuna_5859109932,Spark,Big Data
+adzuna_5859109932,Databricks,Warehouse
+adzuna_5859109932,Azure,Cloud
+adzuna_5890063590,SQL,Language
+adzuna_5890063590,Python,Language
+adzuna_5890063590,Databricks,Warehouse
+adzuna_5890063590,Azure,Cloud
+adzuna_5869810329,SQL,Language
+adzuna_5869810329,Python,Language
+adzuna_5869810329,Databricks,Warehouse
+adzuna_5869810329,Azure,Cloud
+adzuna_5645593514,SQL,Language
+adzuna_5645593514,Python,Language
+adzuna_5645593514,Scala,Language
+adzuna_5645593514,Java,Language
+adzuna_5645593514,Airflow,Orchestration
+adzuna_5645593514,AWS,Cloud
+adzuna_5645593514,Azure,Cloud
+adzuna_5645593514,GCP,Cloud
+adzuna_5871267961,SQL,Language
+adzuna_5871267961,Spark,Big Data
+adzuna_5871267961,Hadoop,Big Data
+adzuna_5871267961,GCP,Cloud
+adzuna_5748511906,Python,Language
+adzuna_5748511906,Spark,Big Data
+adzuna_5748511906,AWS,Cloud
+adzuna_5790474260,Airflow,Orchestration
+adzuna_5790474260,BigQuery,Warehouse
+adzuna_5790474260,GCP,Cloud
+adzuna_5885467683,SQL,Language
+adzuna_5885467683,Python,Language
+adzuna_5885467683,Power BI,BI
+adzuna_5885467683,Azure,Cloud
+adzuna_5876475397,SQL,Language
+adzuna_5876475397,Python,Language
+adzuna_5876475397,Spark,Big Data
+adzuna_5869810211,SQL,Language
+adzuna_5869810211,Python,Language
+adzuna_5869810211,Pandas,Library
+adzuna_5854874698,Python,Language
+adzuna_5854874698,Git,DevOps
+adzuna_5904509916,SQL,Language
+adzuna_5897761983,Python,Language
+adzuna_5897761983,Spark,Big Data
+adzuna_5897761983,Databricks,Warehouse
+adzuna_5897761983,Git,DevOps
+adzuna_5897761922,Python,Language
+adzuna_5897761922,Java,Language
+adzuna_5897761922,Spark,Big Data
+adzuna_5897761922,Kafka,Big Data
+adzuna_5897761922,Databricks,Warehouse
+adzuna_5897761922,Azure,Cloud
+adzuna_5897761922,Kubernetes,DevOps
+adzuna_5902291568,SQL,Language
+adzuna_5902291568,Scala,Language
+adzuna_5902291568,Java,Language
+adzuna_5902291568,BigQuery,Warehouse
+adzuna_5897762004,Python,Language
+adzuna_5897762004,Java,Language
+adzuna_5897762004,Spark,Big Data
+adzuna_5890063556,SQL,Language
+adzuna_5890063556,Python,Language
+adzuna_5890063556,Snowflake,Warehouse
+adzuna_5890063556,Pandas,Library
+adzuna_5890063556,NumPy,Library
+adzuna_5859109897,SQL,Language
+adzuna_5859109897,Python,Language
+adzuna_5859109897,Spark,Big Data
+adzuna_5859109897,Databricks,Warehouse
+adzuna_5859109897,Azure,Cloud
+adzuna_5869810348,SQL,Language
+adzuna_5869810348,Python,Language
+adzuna_5869810348,AWS,Cloud
+adzuna_5869810348,Azure,Cloud
+adzuna_5869810348,GCP,Cloud
+adzuna_5730928641,SQL,Language
+adzuna_5730928641,Python,Language
+adzuna_5730928641,Spark,Big Data
+adzuna_5730928641,Hadoop,Big Data
+adzuna_5730928641,Databricks,Warehouse
+adzuna_5730928641,AWS,Cloud
+adzuna_5730928641,Azure,Cloud
+adzuna_5730928641,GCP,Cloud
+adzuna_5857730490,SQL,Language
+adzuna_5857730490,Python,Language
+adzuna_5857730490,Spark,Big Data
+adzuna_5857730490,Databricks,Warehouse
+adzuna_5857730490,Azure,Cloud
+adzuna_5869810215,SQL,Language
+adzuna_5869810215,Python,Language
+adzuna_5869810215,LLM / GenAI,ML Area
+adzuna_5904510184,SQL,Language
+adzuna_5904510184,Python,Language
+adzuna_5904510184,Databricks,Warehouse
+adzuna_5888533779,SQL,Language
+adzuna_5888533779,Python,Language
+adzuna_5888533779,Spark,Big Data
+adzuna_5888533779,Snowflake,Warehouse
+adzuna_5888533779,Databricks,Warehouse
+adzuna_5888533779,GCP,Cloud
+adzuna_5884167654,SQL,Language
+adzuna_5884167654,Python,Language
+adzuna_5884167654,Databricks,Warehouse
+adzuna_5884167654,Azure,Cloud
+adzuna_5897761564,SQL,Language
+adzuna_5897761564,Python,Language
+adzuna_5712162018,Databricks,Warehouse
+adzuna_5712162018,Azure,Cloud
+adzuna_5712162018,Kubernetes,DevOps
+adzuna_5903298452,SQL,Language
+adzuna_5903298452,Python,Language
+adzuna_5903298452,Spark,Big Data
+adzuna_5903298452,Databricks,Warehouse
+adzuna_5903298452,Azure,Cloud
+adzuna_5871267962,Spark,Big Data
+adzuna_5880459380,SQL,Language
+adzuna_5880459380,Python,Language
+adzuna_5880459380,GCP,Cloud
+adzuna_5869810187,SQL,Language
+adzuna_5869810187,Spark,Big Data
+adzuna_5869810187,Databricks,Warehouse
+adzuna_5869810187,Power BI,BI
+adzuna_5894628387,SQL,Language
+adzuna_5894628387,Python,Language
+adzuna_5894628387,Spark,Big Data
+adzuna_5894628387,Airflow,Orchestration
+adzuna_5894628387,Docker,DevOps
+adzuna_5894628387,Kubernetes,DevOps
+adzuna_5903298380,Python,Language
+adzuna_5903298380,Snowflake,Warehouse
+adzuna_5903298380,AWS,Cloud
+adzuna_5888533600,Databricks,Warehouse
+adzuna_5888533600,Azure,Cloud
+adzuna_5906882566,SQL,Language
+adzuna_5906882566,Spark,Big Data
+adzuna_5906882566,Databricks,Warehouse
+adzuna_5906882566,FastAPI,MLOps
+adzuna_5890063577,SQL,Language
+adzuna_5890063577,Kafka,Big Data
+adzuna_5890063577,Snowflake,Warehouse
+adzuna_5854874701,Python,Language
+adzuna_5854874701,Scala,Language
+adzuna_5854874701,Machine Learning,ML Area
+adzuna_5854874701,Statistics,Statistics
+adzuna_5766198012,SQL,Language
+adzuna_5766198012,Scala,Language
+adzuna_5766198012,Spark,Big Data
+adzuna_5766198012,Hadoop,Big Data
+adzuna_5766198012,Airflow,Orchestration
+adzuna_5766198012,Git,DevOps
+adzuna_5884167595,SQL,Language
+adzuna_5884167595,Python,Language
+adzuna_5884167595,Databricks,Warehouse
+adzuna_5884167595,Azure,Cloud
+adzuna_5884167595,Git,DevOps
+adzuna_5884167628,SQL,Language
+adzuna_5884167628,Python,Language
+adzuna_5884167628,Databricks,Warehouse
+adzuna_5884167628,Azure,Cloud
+adzuna_5884167628,Git,DevOps
+adzuna_5903298361,Databricks,Warehouse
+adzuna_5903298361,Azure,Cloud
+adzuna_5896111312,SQL,Language
+adzuna_5896111312,Python,Language
+adzuna_5896111312,Spark,Big Data
+adzuna_5896111312,Databricks,Warehouse
+adzuna_5896111312,Azure,Cloud
+adzuna_5896111312,Git,DevOps
+adzuna_5897762011,SQL,Language
+adzuna_5897762011,Python,Language
+adzuna_5897762011,Spark,Big Data
+adzuna_5897762011,Power BI,BI
+adzuna_5897762011,Azure,Cloud
+adzuna_5897762011,Git,DevOps
+adzuna_5897762011,Pandas,Library
+adzuna_5906883017,Databricks,Warehouse
+adzuna_5906883017,Azure,Cloud
+adzuna_5903298393,SQL,Language
+adzuna_5903298393,Python,Language
+adzuna_5903298393,Databricks,Warehouse
+adzuna_5903298393,Azure,Cloud
+adzuna_5903298393,Git,DevOps
+adzuna_5899052995,Spark,Big Data
+adzuna_5899052995,Databricks,Warehouse
+adzuna_5899052995,Azure,Cloud
+adzuna_5888533824,SQL,Language
+adzuna_5888533824,Python,Language
+adzuna_5888533824,AWS,Cloud
+adzuna_5888533824,Azure,Cloud
+adzuna_5888533824,GCP,Cloud
+adzuna_5897761992,Python,Language
+adzuna_5897761992,AWS,Cloud
+adzuna_5821846924,SQL,Language
+adzuna_5821846924,Snowflake,Warehouse
+adzuna_5821846924,Azure,Cloud
+adzuna_5871267952,Snowflake,Warehouse
+adzuna_5871267952,Redshift,Warehouse
+adzuna_5871267952,AWS,Cloud
+adzuna_5871267952,Docker,DevOps
+adzuna_5863692033,SQL,Language
+adzuna_5602548697,SQL,Language
+adzuna_5602548697,Snowflake,Warehouse
+adzuna_5602548697,Azure,Cloud
+adzuna_5897761802,SQL,Language
+adzuna_5897761802,Scala,Language
+adzuna_5897761802,Java,Language
+adzuna_5897761802,Spark,Big Data
+adzuna_5890063636,SQL,Language
+adzuna_5890063636,Spark,Big Data
+adzuna_5890063636,Snowflake,Warehouse
+adzuna_5890063636,Databricks,Warehouse
+adzuna_5890063636,Azure,Cloud
+adzuna_5890063636,MLflow,MLOps
+adzuna_5686695045,SQL,Language
+adzuna_5686695045,Python,Language
+adzuna_5686695045,Databricks,Warehouse
+adzuna_5686695045,AWS,Cloud
+adzuna_5686695045,Azure,Cloud
+adzuna_5686695045,GCP,Cloud
+adzuna_5879136952,SQL,Language
+adzuna_5879136952,Kafka,Big Data
+adzuna_5879136952,LLM / GenAI,ML Area
+adzuna_5879136952,FastAPI,MLOps
+adzuna_5854874722,SQL,Language
+adzuna_5854874722,Python,Language
+adzuna_5854874722,Airflow,Orchestration
+adzuna_5854874722,BigQuery,Warehouse
+adzuna_5854874722,GCP,Cloud
+adzuna_5854874722,Git,DevOps
+adzuna_5859109952,SQL,Language
+adzuna_5859109952,Python,Language
+adzuna_5859109952,Spark,Big Data
+adzuna_5859109952,Kafka,Big Data
+adzuna_5859109952,Airflow,Orchestration
+adzuna_5859109952,dbt,Transformation
+adzuna_5859109952,Snowflake,Warehouse
+adzuna_5859109952,BigQuery,Warehouse
+adzuna_5859109952,Redshift,Warehouse
+adzuna_5859109952,AWS,Cloud
+adzuna_5859109952,Docker,DevOps
+adzuna_5859109952,Kubernetes,DevOps
+adzuna_5869810325,SQL,Language
+adzuna_5879137016,Databricks,Warehouse
+adzuna_5879137016,Azure,Cloud
+adzuna_5897761621,SQL,Language
+adzuna_5897761621,Java,Language
+adzuna_5897761621,GCP,Cloud
+adzuna_5897762001,SQL,Language
+adzuna_5890063532,SQL,Language
+adzuna_5890063532,Python,Language
+adzuna_5890063532,Java,Language
+adzuna_5879137037,SQL,Language
+adzuna_5879137037,Python,Language
+adzuna_5879137037,Java,Language
+adzuna_5871268037,Python,Language
+adzuna_5871268037,AWS,Cloud
+adzuna_5871268037,Pandas,Library
+adzuna_5888533699,SQL,Language
+adzuna_5888533699,Python,Language
+adzuna_5888533699,Snowflake,Warehouse
+adzuna_5888533699,Git,DevOps
+adzuna_5869810284,AWS,Cloud
+adzuna_5869810284,GCP,Cloud
+adzuna_5879136980,SQL,Language
+adzuna_5879136980,AWS,Cloud
+adzuna_5879136980,Azure,Cloud
+adzuna_5879136980,Git,DevOps
+adzuna_5790509951,SQL,Language
+adzuna_5790509951,Python,Language
+adzuna_5790509951,Git,DevOps
+adzuna_5872873564,SQL,Language
+adzuna_5872873564,Spark,Big Data
+adzuna_5872873564,GCP,Cloud
+adzuna_5861999197,SQL,Language
+adzuna_5861999197,Python,Language
+adzuna_5861999197,Spark,Big Data
+adzuna_5861999197,AWS,Cloud
+adzuna_5861999197,Azure,Cloud
+adzuna_5861999197,Machine Learning,ML Area
+adzuna_5861999197,SageMaker,MLOps
+adzuna_5873243028,Spark,Big Data
+adzuna_5890333959,SQL,Language
+adzuna_5890333959,Python,Language
+adzuna_5890333959,Spark,Big Data
+adzuna_5890333959,Kubernetes,DevOps
+adzuna_5890333959,Machine Learning,ML Area
+adzuna_5890333441,SQL,Language
+adzuna_5890333441,Python,Language
+adzuna_5890333441,Spark,Big Data
+adzuna_5890333441,Kubernetes,DevOps
+adzuna_5890333441,Machine Learning,ML Area
+adzuna_5810820096,Machine Learning,ML Area
+adzuna_5896529614,SQL,Language
+adzuna_5871675005,LLM / GenAI,ML Area
+adzuna_5899982340,SQL,Language
+adzuna_5899982340,Python,Language
+adzuna_5899982340,Scala,Language
+adzuna_5899982340,Java,Language
+adzuna_5899982340,Airflow,Orchestration
+adzuna_5899982340,AWS,Cloud
+adzuna_5899982340,Azure,Cloud
+adzuna_5899982340,GCP,Cloud
+adzuna_5891500255,SQL,Language
+adzuna_5891500255,GCP,Cloud
+adzuna_5890333566,Python,Language
+adzuna_5890333566,Java,Language
+adzuna_5890333566,Kafka,Big Data
+adzuna_5890333566,Hadoop,Big Data
+adzuna_5890333566,AWS,Cloud
+adzuna_5890333566,Docker,DevOps
+adzuna_5890333566,Kubernetes,DevOps
+adzuna_5850724474,SQL,Language
+adzuna_5850724474,Python,Language
+adzuna_5850724474,Scala,Language
+adzuna_5850724474,Spark,Big Data
+adzuna_5850724474,Databricks,Warehouse
+adzuna_5850724474,Power BI,BI
+adzuna_5850724474,Azure,Cloud
+adzuna_5856529414,Python,Language
+adzuna_5856529414,Git,DevOps
+adzuna_5899444811,Python,Language
+adzuna_5899444811,Git,DevOps
+adzuna_5900449823,SQL,Language
+adzuna_5900449823,Python,Language
+adzuna_5900449823,Spark,Big Data
+adzuna_5900449823,Kafka,Big Data
+adzuna_5900449823,Databricks,Warehouse
+adzuna_5900449823,Tableau,BI
+adzuna_5900449823,Power BI,BI
+adzuna_5900449823,Azure,Cloud
+adzuna_5900449823,Git,DevOps
+adzuna_5859471570,SQL,Language
+adzuna_5859471570,Python,Language
+adzuna_5859471570,Spark,Big Data
+adzuna_5859471570,Kafka,Big Data
+adzuna_5859471570,BigQuery,Warehouse
+adzuna_5859471570,Databricks,Warehouse
+adzuna_5859471570,Azure,Cloud
+adzuna_5859471570,GCP,Cloud
+adzuna_5866684674,SQL,Language
+adzuna_5866684674,Python,Language
+adzuna_5866684674,Spark,Big Data
+adzuna_5866684674,Databricks,Warehouse
+adzuna_5866684674,GCP,Cloud
+adzuna_5871029917,Python,Language
+adzuna_5871029917,Spark,Big Data
+adzuna_5871029917,Airflow,Orchestration
+adzuna_5871029917,BigQuery,Warehouse
+adzuna_5871029917,GCP,Cloud
+adzuna_5872872129,SQL,Language
+adzuna_5872872129,GCP,Cloud
+adzuna_5872872129,Kubernetes,DevOps
+adzuna_5822520064,SQL,Language
+adzuna_5822520064,Python,Language
+adzuna_5822520064,Spark,Big Data
+adzuna_5822520064,Databricks,Warehouse
+adzuna_5870230814,SQL,Language
+adzuna_5870230814,Python,Language
+adzuna_5870230814,Databricks,Warehouse
+adzuna_5870230814,Azure,Cloud
+adzuna_5870230814,PyTorch,ML Framework
+adzuna_5809265603,Spark,Big Data
+adzuna_5809265603,Kafka,Big Data
+adzuna_5809265603,AWS,Cloud
+adzuna_5809265603,GCP,Cloud
+adzuna_5809265603,Machine Learning,ML Area
+adzuna_5822313281,SQL,Language
+adzuna_5822313281,Python,Language
+adzuna_5822313281,Spark,Big Data
+adzuna_5822313281,Databricks,Warehouse
+adzuna_5878157966,Machine Learning,ML Area
+adzuna_5878157966,Statistics,Statistics
+adzuna_5900449554,SQL,Language
+adzuna_5900449554,Python,Language
+adzuna_5900449554,Spark,Big Data
+adzuna_5900449554,Airflow,Orchestration
+adzuna_5896528213,SQL,Language
+adzuna_5896528213,Python,Language
+adzuna_5896528213,AWS,Cloud
+adzuna_5894945615,SQL,Language
+adzuna_5894945615,Python,Language
+adzuna_5900450657,SQL,Language
+adzuna_5900450657,Python,Language
+adzuna_5887339220,Python,Language
+adzuna_5887339220,Java,Language
+adzuna_5887339220,Hadoop,Big Data
+adzuna_5887339220,Airflow,Orchestration
+adzuna_5887339220,GCP,Cloud
+adzuna_5887339220,Git,DevOps
+adzuna_5891502102,SQL,Language
+adzuna_5891502102,Python,Language
+adzuna_5891502102,Kafka,Big Data
+adzuna_5891502102,Power BI,BI
+adzuna_5891502102,Azure,Cloud
+adzuna_5891502102,Git,DevOps
+adzuna_5872873577,Python,Language
+adzuna_5872873577,Git,DevOps
+adzuna_5872873577,Machine Learning,ML Area
+adzuna_4905675501,Azure,Cloud
+adzuna_5851309494,SQL,Language
+adzuna_5851309494,dbt,Transformation
+adzuna_5849556563,SQL,Language
+adzuna_5849556563,dbt,Transformation
+adzuna_5819710303,Spark,Big Data
+adzuna_5819710303,Databricks,Warehouse
+adzuna_5851308431,GCP,Cloud
+adzuna_5723188046,GCP,Cloud
+adzuna_5898016493,Airflow,Orchestration
+adzuna_5898016493,dbt,Transformation
+adzuna_5898016493,AWS,Cloud
+adzuna_5896955599,Snowflake,Warehouse
+adzuna_5896955599,Databricks,Warehouse
+adzuna_5896955599,AWS,Cloud
+adzuna_5880786690,SQL,Language
+adzuna_5880786690,BigQuery,Warehouse
+adzuna_5853748706,SQL,Language
+adzuna_5853748706,Python,Language
+adzuna_5853748706,Spark,Big Data
+adzuna_5853748706,Databricks,Warehouse
+adzuna_5853748706,Excel,BI
+adzuna_5853748706,Azure,Cloud
+adzuna_5853748706,Git,DevOps
+adzuna_5855309986,SQL,Language
+adzuna_5855309986,Python,Language
+adzuna_5855309986,Spark,Big Data
+adzuna_5855309986,Databricks,Warehouse
+adzuna_5855309986,Excel,BI
+adzuna_5855309986,Azure,Cloud
+adzuna_5855309986,Git,DevOps
+adzuna_5850947182,SQL,Language
+adzuna_5850947182,Python,Language
+adzuna_5850947182,Kafka,Big Data
+adzuna_5850947182,Azure,Cloud
+adzuna_5779530415,Snowflake,Warehouse
+adzuna_5904131771,Azure,Cloud
+adzuna_5628987832,Databricks,Warehouse
+adzuna_5628987832,Azure,Cloud
+adzuna_5850724473,SQL,Language
+adzuna_5850724473,Python,Language
+adzuna_5850724473,Scala,Language
+adzuna_5850724473,Spark,Big Data
+adzuna_5850724473,Databricks,Warehouse
+adzuna_5850724473,Power BI,BI
+adzuna_5850724473,Azure,Cloud
+adzuna_5810817575,Machine Learning,ML Area
+adzuna_5898060674,SQL,Language
+adzuna_5898060674,GCP,Cloud
+adzuna_5742747692,GCP,Cloud
+adzuna_5890333790,Python,Language
+adzuna_5890333790,Airflow,Orchestration
+adzuna_5890333790,dbt,Transformation
+adzuna_5890333790,GCP,Cloud
+adzuna_5890333790,Git,DevOps
+adzuna_5888926969,Python,Language
+adzuna_5888926969,Spark,Big Data
+adzuna_5888926969,Databricks,Warehouse
+adzuna_5888926969,Azure,Cloud
+adzuna_5888926969,PyTorch,ML Framework
+adzuna_5879967027,Spark,Big Data
+adzuna_5879967027,Databricks,Warehouse
+adzuna_5819711751,Snowflake,Warehouse
+adzuna_5819711751,Azure,Cloud
+adzuna_5846625029,Azure,Cloud
+adzuna_5872182809,Machine Learning,ML Area
+adzuna_5872182809,Time Series,ML Area
+adzuna_5896529779,SQL,Language
+adzuna_5896529779,Kafka,Big Data
+adzuna_5896529779,Snowflake,Warehouse
+adzuna_5896529779,AWS,Cloud
+adzuna_5804815475,Databricks,Warehouse
+adzuna_5890333055,SQL,Language
+adzuna_5890333055,Python,Language
+adzuna_5890333055,Spark,Big Data
+adzuna_5890333055,Airflow,Orchestration
+adzuna_5890333055,Databricks,Warehouse
+adzuna_5890333055,AWS,Cloud
+adzuna_5890333055,Azure,Cloud
+adzuna_5890333055,GCP,Cloud
+adzuna_5890333055,Git,DevOps
+adzuna_5871558763,Machine Learning,ML Area
+adzuna_5871558763,Time Series,ML Area
+adzuna_5891501838,SQL,Language
+adzuna_5891501838,Python,Language
+adzuna_5891501838,Databricks,Warehouse
+adzuna_5891501838,Azure,Cloud
+adzuna_5891501838,LLM / GenAI,ML Area
+adzuna_5891501834,SQL,Language
+adzuna_5891501834,Python,Language
+adzuna_5891501834,Databricks,Warehouse
+adzuna_5891501834,Azure,Cloud
+adzuna_5891501834,LLM / GenAI,ML Area
+adzuna_5891501842,SQL,Language
+adzuna_5891501842,Python,Language
+adzuna_5891501842,Databricks,Warehouse
+adzuna_5891501842,Azure,Cloud
+adzuna_5891501842,LLM / GenAI,ML Area
+adzuna_5891501837,SQL,Language
+adzuna_5891501837,Python,Language
+adzuna_5891501837,Databricks,Warehouse
+adzuna_5891501837,Azure,Cloud
+adzuna_5891501837,LLM / GenAI,ML Area
+adzuna_5891501831,SQL,Language
+adzuna_5891501831,Python,Language
+adzuna_5891501831,Databricks,Warehouse
+adzuna_5891501831,Azure,Cloud
+adzuna_5891501831,LLM / GenAI,ML Area
+adzuna_5888926876,Azure,Cloud
+adzuna_5899446080,SQL,Language
+adzuna_5899446080,Python,Language
+adzuna_5899446080,Spark,Big Data
+adzuna_5899446080,Databricks,Warehouse
+adzuna_5899446080,Power BI,BI
+adzuna_5899446080,Azure,Cloud
+adzuna_5857917270,Databricks,Warehouse
+adzuna_5857917270,Azure,Cloud
+adzuna_5872873560,Spark,Big Data
+adzuna_5821043771,SQL,Language
+adzuna_5821043771,Snowflake,Warehouse
+adzuna_5821043771,Databricks,Warehouse
+adzuna_5792383965,SQL,Language
+adzuna_5893168278,GCP,Cloud
+adzuna_5849556122,Azure,Cloud
+adzuna_5880763290,SQL,Language
+adzuna_5880763290,Python,Language
+adzuna_5880763290,AWS,Cloud
+adzuna_5880763149,SQL,Language
+adzuna_5895699615,GCP,Cloud
+adzuna_5833389136,SQL,Language
+adzuna_5810818114,SQL,Language
+adzuna_5900450636,Python,Language
+adzuna_5900450636,Spark,Big Data
+adzuna_5900450636,Snowflake,Warehouse
+adzuna_5900450636,BigQuery,Warehouse
+adzuna_5900450636,Databricks,Warehouse
+adzuna_5900450636,Power BI,BI
+adzuna_5900450636,Azure,Cloud
+adzuna_5900450606,Python,Language
+adzuna_5900450606,Spark,Big Data
+adzuna_5900450606,Snowflake,Warehouse
+adzuna_5900450606,BigQuery,Warehouse
+adzuna_5900450606,Databricks,Warehouse
+adzuna_5900450606,Power BI,BI
+adzuna_5900450606,Azure,Cloud
+adzuna_5900920855,SQL,Language
+adzuna_5900920855,Snowflake,Warehouse
+adzuna_5900920855,BigQuery,Warehouse
+adzuna_5900920855,GCP,Cloud
+adzuna_5882400505,SQL,Language
+adzuna_5882400505,Python,Language
+adzuna_5882400505,Java,Language
+adzuna_5882400505,Spark,Big Data
+adzuna_5882400505,Kafka,Big Data
+adzuna_5882400505,Databricks,Warehouse
+adzuna_5882400505,Azure,Cloud
+adzuna_5829011559,Snowflake,Warehouse
+adzuna_5829011559,Azure,Cloud
+adzuna_5900450481,SQL,Language
+adzuna_5900450481,Python,Language
+adzuna_5900450481,Spark,Big Data
+adzuna_5900450481,Kafka,Big Data
+adzuna_5900450481,Databricks,Warehouse
+adzuna_5900450481,Tableau,BI
+adzuna_5900450481,Power BI,BI
+adzuna_5900450481,Azure,Cloud
+adzuna_5900450481,Git,DevOps
+adzuna_5866684166,SQL,Language
+adzuna_5866684166,Python,Language
+adzuna_5866684166,BigQuery,Warehouse
+adzuna_5866684166,GCP,Cloud
+adzuna_5852206101,SQL,Language
+adzuna_5852206101,Python,Language
+adzuna_5852206101,Git,DevOps
+adzuna_5894946392,SQL,Language
+adzuna_5894946392,Spark,Big Data
+adzuna_5894946392,Kafka,Big Data
+adzuna_5894946392,Databricks,Warehouse
+adzuna_5894946392,Azure,Cloud
+adzuna_5845429965,SQL,Language
+adzuna_5871673915,Python,Language
+adzuna_5871673915,Tableau,BI
+adzuna_5871673915,Machine Learning,ML Area
+adzuna_5880762327,SQL,Language
+adzuna_5880762327,Python,Language
+adzuna_5880762327,GCP,Cloud
+adzuna_5880762327,Docker,DevOps
+adzuna_5880762327,Kubernetes,DevOps
+adzuna_5880762327,Git,DevOps
+adzuna_5885832703,Python,Language
+adzuna_5885832703,AWS,Cloud
+adzuna_5885832703,Azure,Cloud
+adzuna_5885832703,Git,DevOps
+adzuna_5885832703,Pandas,Library
+adzuna_5859471935,SQL,Language
+adzuna_5859471935,Python,Language
+adzuna_5859471935,Scala,Language
+adzuna_5859471935,Java,Language
+adzuna_5859471935,Spark,Big Data
+adzuna_5859471935,Kafka,Big Data
+adzuna_5859471935,Airflow,Orchestration
+adzuna_5859471935,Databricks,Warehouse
+adzuna_5859471935,AWS,Cloud
+adzuna_5859471935,Docker,DevOps
+adzuna_5859471935,Kubernetes,DevOps
+adzuna_5859471885,SQL,Language
+adzuna_5859471885,Python,Language
+adzuna_5859471885,Scala,Language
+adzuna_5859471885,Java,Language
+adzuna_5859471885,Spark,Big Data
+adzuna_5859471885,Kafka,Big Data
+adzuna_5859471885,Airflow,Orchestration
+adzuna_5859471885,Databricks,Warehouse
+adzuna_5859471885,AWS,Cloud
+adzuna_5859471885,Docker,DevOps
+adzuna_5859471885,Kubernetes,DevOps
+adzuna_5859471826,SQL,Language
+adzuna_5859471826,Python,Language
+adzuna_5859471826,Scala,Language
+adzuna_5859471826,Java,Language
+adzuna_5859471826,Spark,Big Data
+adzuna_5859471826,Kafka,Big Data
+adzuna_5859471826,Airflow,Orchestration
+adzuna_5859471826,Databricks,Warehouse
+adzuna_5859471826,AWS,Cloud
+adzuna_5859471826,Docker,DevOps
+adzuna_5859471826,Kubernetes,DevOps
+adzuna_5859471830,SQL,Language
+adzuna_5859471830,Python,Language
+adzuna_5859471830,Scala,Language
+adzuna_5859471830,Java,Language
+adzuna_5859471830,Spark,Big Data
+adzuna_5859471830,Kafka,Big Data
+adzuna_5859471830,Airflow,Orchestration
+adzuna_5859471830,Databricks,Warehouse
+adzuna_5859471830,AWS,Cloud
+adzuna_5859471830,Docker,DevOps
+adzuna_5859471830,Kubernetes,DevOps
+adzuna_5859471832,SQL,Language
+adzuna_5859471832,Python,Language
+adzuna_5859471832,Scala,Language
+adzuna_5859471832,Java,Language
+adzuna_5859471832,Spark,Big Data
+adzuna_5859471832,Kafka,Big Data
+adzuna_5859471832,Airflow,Orchestration
+adzuna_5859471832,Databricks,Warehouse
+adzuna_5859471832,AWS,Cloud
+adzuna_5859471832,Docker,DevOps
+adzuna_5859471832,Kubernetes,DevOps
+adzuna_5859471824,SQL,Language
+adzuna_5859471824,Python,Language
+adzuna_5859471824,Scala,Language
+adzuna_5859471824,Java,Language
+adzuna_5859471824,Spark,Big Data
+adzuna_5859471824,Kafka,Big Data
+adzuna_5859471824,Airflow,Orchestration
+adzuna_5859471824,Databricks,Warehouse
+adzuna_5859471824,AWS,Cloud
+adzuna_5859471824,Docker,DevOps
+adzuna_5859471824,Kubernetes,DevOps
+adzuna_5859471868,SQL,Language
+adzuna_5859471868,Python,Language
+adzuna_5859471868,Scala,Language
+adzuna_5859471868,Java,Language
+adzuna_5859471868,Spark,Big Data
+adzuna_5859471868,Kafka,Big Data
+adzuna_5859471868,Airflow,Orchestration
+adzuna_5859471868,Databricks,Warehouse
+adzuna_5859471868,AWS,Cloud
+adzuna_5859471868,Docker,DevOps
+adzuna_5859471868,Kubernetes,DevOps
+adzuna_5888922171,SQL,Language
+adzuna_5888922171,Python,Language
+adzuna_5888922171,Spark,Big Data
+adzuna_5888922171,Kafka,Big Data
+adzuna_5888922171,Airflow,Orchestration
+adzuna_5888922171,Databricks,Warehouse
+adzuna_5888922171,Power BI,BI
+adzuna_5888922171,Azure,Cloud
+adzuna_5895689360,SQL,Language
+adzuna_5895689360,Python,Language
+adzuna_5895689360,Spark,Big Data
+adzuna_5895689360,Kafka,Big Data
+adzuna_5895689360,Airflow,Orchestration
+adzuna_5895689360,Databricks,Warehouse
+adzuna_5895689360,Power BI,BI
+adzuna_5895689360,Azure,Cloud
+adzuna_5870230640,SQL,Language
+adzuna_5870230640,Python,Language
+adzuna_5870230640,Spark,Big Data
+adzuna_5870230640,Kafka,Big Data
+adzuna_5870230640,Airflow,Orchestration
+adzuna_5870230640,Databricks,Warehouse
+adzuna_5870230640,Power BI,BI
+adzuna_5870230640,Azure,Cloud
+adzuna_5889752263,SQL,Language
+adzuna_5889752263,Python,Language
+adzuna_5889752263,Spark,Big Data
+adzuna_5889752263,Kafka,Big Data
+adzuna_5889752263,Airflow,Orchestration
+adzuna_5889752263,Databricks,Warehouse
+adzuna_5889752263,Power BI,BI
+adzuna_5889752263,Azure,Cloud
+adzuna_5888922143,SQL,Language
+adzuna_5888922143,Python,Language
+adzuna_5888922143,Spark,Big Data
+adzuna_5888922143,Kafka,Big Data
+adzuna_5888922143,Airflow,Orchestration
+adzuna_5888922143,Databricks,Warehouse
+adzuna_5888922143,Power BI,BI
+adzuna_5888922143,Azure,Cloud
+adzuna_5889752262,SQL,Language
+adzuna_5889752262,Python,Language
+adzuna_5889752262,Spark,Big Data
+adzuna_5889752262,Kafka,Big Data
+adzuna_5889752262,Airflow,Orchestration
+adzuna_5889752262,Databricks,Warehouse
+adzuna_5889752262,Power BI,BI
+adzuna_5889752262,Azure,Cloud
+adzuna_5856529156,SQL,Language
+adzuna_5856529156,Python,Language
+adzuna_5856529156,Spark,Big Data
+adzuna_5856529156,Power BI,BI
+adzuna_5856529156,Azure,Cloud
+adzuna_5856529156,Git,DevOps
+adzuna_5907674507,SQL,Language
+adzuna_5907674507,Python,Language
+adzuna_5907674507,Databricks,Warehouse
+adzuna_5907674507,Excel,BI
+adzuna_5907674507,Azure,Cloud
+adzuna_5907674686,SQL,Language
+adzuna_5907674686,Python,Language
+adzuna_5907674686,Scala,Language
+adzuna_5907674686,Java,Language
+adzuna_5907674686,Spark,Big Data
+adzuna_5907674686,Kafka,Big Data
+adzuna_5907674686,Airflow,Orchestration
+adzuna_5907674686,Snowflake,Warehouse
+adzuna_5907674686,Databricks,Warehouse
+adzuna_5907674686,AWS,Cloud
+adzuna_5907674686,Docker,DevOps
+adzuna_5907674686,Kubernetes,DevOps
+adzuna_5907674683,SQL,Language
+adzuna_5907674683,Python,Language
+adzuna_5907674683,Scala,Language
+adzuna_5907674683,Java,Language
+adzuna_5907674683,Spark,Big Data
+adzuna_5907674683,Kafka,Big Data
+adzuna_5907674683,Airflow,Orchestration
+adzuna_5907674683,Snowflake,Warehouse
+adzuna_5907674683,Databricks,Warehouse
+adzuna_5907674683,AWS,Cloud
+adzuna_5907674683,Docker,DevOps
+adzuna_5907674683,Kubernetes,DevOps
+adzuna_5907674682,SQL,Language
+adzuna_5907674682,Python,Language
+adzuna_5907674682,Scala,Language
+adzuna_5907674682,Java,Language
+adzuna_5907674682,Spark,Big Data
+adzuna_5907674682,Kafka,Big Data
+adzuna_5907674682,Airflow,Orchestration
+adzuna_5907674682,Snowflake,Warehouse
+adzuna_5907674682,Databricks,Warehouse
+adzuna_5907674682,AWS,Cloud
+adzuna_5907674682,Docker,DevOps
+adzuna_5907674682,Kubernetes,DevOps
+adzuna_5907674680,SQL,Language
+adzuna_5907674680,Python,Language
+adzuna_5907674680,Scala,Language
+adzuna_5907674680,Java,Language
+adzuna_5907674680,Spark,Big Data
+adzuna_5907674680,Kafka,Big Data
+adzuna_5907674680,Airflow,Orchestration
+adzuna_5907674680,Snowflake,Warehouse
+adzuna_5907674680,Databricks,Warehouse
+adzuna_5907674680,AWS,Cloud
+adzuna_5907674680,Docker,DevOps
+adzuna_5907674680,Kubernetes,DevOps
+adzuna_5907674692,SQL,Language
+adzuna_5907674692,Python,Language
+adzuna_5907674692,Scala,Language
+adzuna_5907674692,Java,Language
+adzuna_5907674692,Spark,Big Data
+adzuna_5907674692,Kafka,Big Data
+adzuna_5907674692,Airflow,Orchestration
+adzuna_5907674692,Snowflake,Warehouse
+adzuna_5907674692,Databricks,Warehouse
+adzuna_5907674692,AWS,Cloud
+adzuna_5907674692,Docker,DevOps
+adzuna_5907674692,Kubernetes,DevOps
+adzuna_5872872739,Git,DevOps
+adzuna_5878157523,Machine Learning,ML Area
+adzuna_5872872198,Python,Language
+adzuna_5872872198,Scala,Language
+adzuna_5872872198,Java,Language
+adzuna_5872872198,Spark,Big Data
+adzuna_5872872198,Kafka,Big Data
+adzuna_5872872198,Airflow,Orchestration
+adzuna_5872872198,Snowflake,Warehouse
+adzuna_5872872198,Databricks,Warehouse
+adzuna_5872872198,AWS,Cloud
+adzuna_5872872198,Docker,DevOps
+adzuna_5872872197,Python,Language
+adzuna_5872872197,Scala,Language
+adzuna_5872872197,Java,Language
+adzuna_5872872197,Spark,Big Data
+adzuna_5872872197,Kafka,Big Data
+adzuna_5872872197,Airflow,Orchestration
+adzuna_5872872197,Snowflake,Warehouse
+adzuna_5872872197,Databricks,Warehouse
+adzuna_5872872197,AWS,Cloud
+adzuna_5872872197,Docker,DevOps
+adzuna_5900450021,SQL,Language
+adzuna_5900450021,Python,Language
+adzuna_5900450021,Snowflake,Warehouse
+adzuna_5900450021,Databricks,Warehouse
+adzuna_5900450021,AWS,Cloud
+adzuna_5900450021,Azure,Cloud
+adzuna_5900450021,GCP,Cloud
+adzuna_5872872194,Python,Language
+adzuna_5872872194,Scala,Language
+adzuna_5872872194,Java,Language
+adzuna_5872872194,Spark,Big Data
+adzuna_5872872194,Kafka,Big Data
+adzuna_5872872194,Airflow,Orchestration
+adzuna_5872872194,Snowflake,Warehouse
+adzuna_5872872194,Databricks,Warehouse
+adzuna_5872872194,AWS,Cloud
+adzuna_5872872194,Docker,DevOps
+adzuna_5872872199,Python,Language
+adzuna_5872872199,Scala,Language
+adzuna_5872872199,Java,Language
+adzuna_5872872199,Spark,Big Data
+adzuna_5872872199,Kafka,Big Data
+adzuna_5872872199,Airflow,Orchestration
+adzuna_5872872199,Snowflake,Warehouse
+adzuna_5872872199,Databricks,Warehouse
+adzuna_5872872199,AWS,Cloud
+adzuna_5872872199,Docker,DevOps
+adzuna_5872872196,Python,Language
+adzuna_5872872196,Scala,Language
+adzuna_5872872196,Java,Language
+adzuna_5872872196,Spark,Big Data
+adzuna_5872872196,Kafka,Big Data
+adzuna_5872872196,Airflow,Orchestration
+adzuna_5872872196,Snowflake,Warehouse
+adzuna_5872872196,Databricks,Warehouse
+adzuna_5872872196,AWS,Cloud
+adzuna_5872872196,Docker,DevOps
+adzuna_5800771330,GCP,Cloud
+adzuna_5857134781,Time Series,ML Area
+adzuna_5363436120,Azure,Cloud
+adzuna_5886519598,Machine Learning,ML Area
+adzuna_5886519598,MLOps,MLOps
+adzuna_5899904518,GCP,Cloud
+adzuna_5871030524,Databricks,Warehouse
+adzuna_5826863285,Databricks,Warehouse
+adzuna_5826863280,Databricks,Warehouse
+adzuna_5826863280,Azure,Cloud
+adzuna_5871031045,Databricks,Warehouse
+adzuna_5871031045,Azure,Cloud
+adzuna_5885168381,BigQuery,Warehouse
+adzuna_5885168381,GCP,Cloud
+adzuna_5845835181,Python,Language
+adzuna_5845835181,scikit-learn,ML Framework
+adzuna_5845835181,TensorFlow,ML Framework
+adzuna_5845835181,PyTorch,ML Framework
+adzuna_5845835181,Machine Learning,ML Area
+adzuna_5845835181,NLP,ML Area
+adzuna_5845835181,LLM / GenAI,ML Area
+adzuna_5845835181,Computer Vision,ML Area
+adzuna_5792833872,Databricks,Warehouse
+adzuna_5871267954,Python,Language
+adzuna_5871267954,Snowflake,Warehouse
+adzuna_5896111351,A/B Testing,Statistics
+adzuna_5850362508,SQL,Language
+adzuna_5850362508,Java,Language
+adzuna_5850362508,Spark,Big Data
+adzuna_5850362508,LLM / GenAI,ML Area
+adzuna_5882401096,SQL,Language
+adzuna_5882401096,Python,Language
+adzuna_5882401096,Azure,Cloud
+adzuna_5859863749,Databricks,Warehouse
+adzuna_5859863749,Azure,Cloud
+adzuna_5895689361,SQL,Language
+adzuna_5895689361,Python,Language
+adzuna_5895689361,Databricks,Warehouse
+adzuna_5895689361,Azure,Cloud
+adzuna_5895689361,LLM / GenAI,ML Area
+adzuna_5889752256,SQL,Language
+adzuna_5889752256,Python,Language
+adzuna_5889752256,Databricks,Warehouse
+adzuna_5889752256,Azure,Cloud
+adzuna_5889752256,LLM / GenAI,ML Area
+adzuna_5889752261,SQL,Language
+adzuna_5889752261,Python,Language
+adzuna_5889752261,Databricks,Warehouse
+adzuna_5889752261,Azure,Cloud
+adzuna_5889752261,LLM / GenAI,ML Area
+adzuna_5870230630,SQL,Language
+adzuna_5870230630,Python,Language
+adzuna_5870230630,Databricks,Warehouse
+adzuna_5870230630,Azure,Cloud
+adzuna_5870230630,LLM / GenAI,ML Area
+adzuna_5870230629,SQL,Language
+adzuna_5870230629,Python,Language
+adzuna_5870230629,Databricks,Warehouse
+adzuna_5870230629,Azure,Cloud
+adzuna_5870230629,LLM / GenAI,ML Area
+adzuna_5850723923,Python,Language
+adzuna_5850723923,Scala,Language
+adzuna_5850723923,Java,Language
+adzuna_5849556143,Scala,Language
+adzuna_5903076923,Redshift,Warehouse
+adzuna_5903076923,Databricks,Warehouse
+adzuna_5903076923,AWS,Cloud
+adzuna_5704009844,SQL,Language
+adzuna_5704009844,Python,Language
+adzuna_5704009844,Spark,Big Data
+adzuna_5704009844,Databricks,Warehouse
+adzuna_5704009844,Azure,Cloud
+adzuna_5849555518,SQL,Language
+adzuna_5898611075,Spark,Big Data
+adzuna_5898611075,Databricks,Warehouse
+adzuna_5898611075,Azure,Cloud
+adzuna_5833390079,SQL,Language
+adzuna_5833390079,Spark,Big Data
+adzuna_5833390079,Databricks,Warehouse
+adzuna_5833390079,Azure,Cloud
+adzuna_5819711044,Snowflake,Warehouse
+adzuna_5819711044,Azure,Cloud
+adzuna_5899446539,SQL,Language
+adzuna_5899446539,Python,Language
+adzuna_5899446539,Spark,Big Data
+adzuna_5899446539,Databricks,Warehouse
+adzuna_5899446539,Azure,Cloud
+adzuna_5899446539,Git,DevOps
+adzuna_5878157818,SQL,Language
+adzuna_5878157818,GCP,Cloud
+adzuna_5872872914,Spark,Big Data
+adzuna_5872872914,Azure,Cloud
+adzuna_5836637206,AWS,Cloud
+adzuna_5770108603,Spark,Big Data
+adzuna_5770108603,Azure,Cloud
+adzuna_5870230990,SQL,Language
+adzuna_5870230990,Python,Language
+adzuna_5870230990,AWS,Cloud
+adzuna_5849556262,Azure,Cloud
+adzuna_5833388969,SQL,Language
+adzuna_5833388969,Snowflake,Warehouse
+adzuna_5833388969,Excel,BI
+adzuna_5846625112,Azure,Cloud
+adzuna_5832179553,Snowflake,Warehouse
+adzuna_5889647493,Databricks,Warehouse
+adzuna_5856528730,SQL,Language
+adzuna_5856528730,Python,Language
+adzuna_5856528730,Git,DevOps
+adzuna_5856738748,SQL,Language
+adzuna_5856738748,Scala,Language
+adzuna_5856738748,Snowflake,Warehouse
+adzuna_5876874827,SQL,Language
+adzuna_5876874827,Python,Language
+adzuna_5876874827,Spark,Big Data
+adzuna_5876874827,Databricks,Warehouse
+adzuna_5876874827,Machine Learning,ML Area
+adzuna_5829011566,Snowflake,Warehouse
+adzuna_5829011566,Azure,Cloud
+adzuna_5858189557,SQL,Language
+adzuna_5858189557,Snowflake,Warehouse
+adzuna_5849555853,Snowflake,Warehouse
+adzuna_5891500399,Databricks,Warehouse
+adzuna_5891500399,Azure,Cloud
+adzuna_5848523771,Snowflake,Warehouse
+adzuna_5891501851,SQL,Language
+adzuna_5891501851,Python,Language
+adzuna_5891501851,Spark,Big Data
+adzuna_5891501851,Kafka,Big Data
+adzuna_5891501851,Airflow,Orchestration
+adzuna_5891501851,Databricks,Warehouse
+adzuna_5891501851,Power BI,BI
+adzuna_5891501851,Azure,Cloud
+adzuna_5891501855,SQL,Language
+adzuna_5891501855,Python,Language
+adzuna_5891501855,Spark,Big Data
+adzuna_5891501855,Kafka,Big Data
+adzuna_5891501855,Airflow,Orchestration
+adzuna_5891501855,Databricks,Warehouse
+adzuna_5891501855,Power BI,BI
+adzuna_5891501855,Azure,Cloud
+adzuna_5891501854,SQL,Language
+adzuna_5891501854,Python,Language
+adzuna_5891501854,Spark,Big Data
+adzuna_5891501854,Kafka,Big Data
+adzuna_5891501854,Airflow,Orchestration
+adzuna_5891501854,Databricks,Warehouse
+adzuna_5891501854,Power BI,BI
+adzuna_5891501854,Azure,Cloud
+adzuna_5891501848,SQL,Language
+adzuna_5891501848,Python,Language
+adzuna_5891501848,Spark,Big Data
+adzuna_5891501848,Kafka,Big Data
+adzuna_5891501848,Airflow,Orchestration
+adzuna_5891501848,Databricks,Warehouse
+adzuna_5891501848,Power BI,BI
+adzuna_5891501848,Azure,Cloud
+adzuna_5889647263,GCP,Cloud
+adzuna_5891351558,Databricks,Warehouse
+adzuna_5891351558,Azure,Cloud
+adzuna_5891501753,SQL,Language
+adzuna_5891501753,Python,Language
+adzuna_5891501753,dbt,Transformation
+adzuna_5891501753,BigQuery,Warehouse
+adzuna_5891501753,GCP,Cloud
+adzuna_5885828535,SQL,Language
+adzuna_5885828535,BigQuery,Warehouse
+adzuna_5885828535,GCP,Cloud
+adzuna_5859471852,SQL,Language
+adzuna_5859471852,Python,Language
+adzuna_5859471852,Scala,Language
+adzuna_5859471852,Java,Language
+adzuna_5859471852,Spark,Big Data
+adzuna_5859471852,Kafka,Big Data
+adzuna_5859471852,Airflow,Orchestration
+adzuna_5859471852,Databricks,Warehouse
+adzuna_5859471852,AWS,Cloud
+adzuna_5859471852,Docker,DevOps
+adzuna_5859471852,Kubernetes,DevOps
+adzuna_5859471877,SQL,Language
+adzuna_5859471877,Python,Language
+adzuna_5859471877,Scala,Language
+adzuna_5859471877,Java,Language
+adzuna_5859471877,Spark,Big Data
+adzuna_5859471877,Kafka,Big Data
+adzuna_5859471877,Airflow,Orchestration
+adzuna_5859471877,Databricks,Warehouse
+adzuna_5859471877,AWS,Cloud
+adzuna_5859471877,Docker,DevOps
+adzuna_5859471877,Kubernetes,DevOps
+adzuna_5859471854,SQL,Language
+adzuna_5859471854,Python,Language
+adzuna_5859471854,Scala,Language
+adzuna_5859471854,Java,Language
+adzuna_5859471854,Spark,Big Data
+adzuna_5859471854,Kafka,Big Data
+adzuna_5859471854,Airflow,Orchestration
+adzuna_5859471854,Databricks,Warehouse
+adzuna_5859471854,AWS,Cloud
+adzuna_5859471854,Docker,DevOps
+adzuna_5859471854,Kubernetes,DevOps
+adzuna_5859471886,SQL,Language
+adzuna_5859471886,Python,Language
+adzuna_5859471886,Scala,Language
+adzuna_5859471886,Java,Language
+adzuna_5859471886,Spark,Big Data
+adzuna_5859471886,Kafka,Big Data
+adzuna_5859471886,Airflow,Orchestration
+adzuna_5859471886,Databricks,Warehouse
+adzuna_5859471886,AWS,Cloud
+adzuna_5859471886,Docker,DevOps
+adzuna_5859471886,Kubernetes,DevOps
+adzuna_5859471865,SQL,Language
+adzuna_5859471865,Python,Language
+adzuna_5859471865,Scala,Language
+adzuna_5859471865,Java,Language
+adzuna_5859471865,Spark,Big Data
+adzuna_5859471865,Kafka,Big Data
+adzuna_5859471865,Airflow,Orchestration
+adzuna_5859471865,Databricks,Warehouse
+adzuna_5859471865,AWS,Cloud
+adzuna_5859471865,Docker,DevOps
+adzuna_5859471865,Kubernetes,DevOps
+adzuna_5859471834,SQL,Language
+adzuna_5859471834,Python,Language
+adzuna_5859471834,Scala,Language
+adzuna_5859471834,Java,Language
+adzuna_5859471834,Spark,Big Data
+adzuna_5859471834,Kafka,Big Data
+adzuna_5859471834,Airflow,Orchestration
+adzuna_5859471834,Databricks,Warehouse
+adzuna_5859471834,AWS,Cloud
+adzuna_5859471834,Docker,DevOps
+adzuna_5859471834,Kubernetes,DevOps
+adzuna_5859471850,SQL,Language
+adzuna_5859471850,Python,Language
+adzuna_5859471850,Scala,Language
+adzuna_5859471850,Java,Language
+adzuna_5859471850,Spark,Big Data
+adzuna_5859471850,Kafka,Big Data
+adzuna_5859471850,Airflow,Orchestration
+adzuna_5859471850,Databricks,Warehouse
+adzuna_5859471850,AWS,Cloud
+adzuna_5859471850,Docker,DevOps
+adzuna_5859471850,Kubernetes,DevOps
+adzuna_5889752255,SQL,Language
+adzuna_5889752255,Python,Language
+adzuna_5889752255,Spark,Big Data
+adzuna_5889752255,Kafka,Big Data
+adzuna_5889752255,Airflow,Orchestration
+adzuna_5889752255,Databricks,Warehouse
+adzuna_5889752255,Power BI,BI
+adzuna_5889752255,Azure,Cloud
+adzuna_5870230668,SQL,Language
+adzuna_5870230668,Python,Language
+adzuna_5870230668,Spark,Big Data
+adzuna_5870230668,Kafka,Big Data
+adzuna_5870230668,Airflow,Orchestration
+adzuna_5870230668,Databricks,Warehouse
+adzuna_5870230668,Power BI,BI
+adzuna_5870230668,Azure,Cloud
+adzuna_5888922164,SQL,Language
+adzuna_5888922164,Python,Language
+adzuna_5888922164,Spark,Big Data
+adzuna_5888922164,Kafka,Big Data
+adzuna_5888922164,Airflow,Orchestration
+adzuna_5888922164,Databricks,Warehouse
+adzuna_5888922164,Power BI,BI
+adzuna_5888922164,Azure,Cloud
+adzuna_5893118368,SQL,Language
+adzuna_5893118368,Python,Language
+adzuna_5893118368,Spark,Big Data
+adzuna_5893118368,Kafka,Big Data
+adzuna_5893118368,Airflow,Orchestration
+adzuna_5893118368,Databricks,Warehouse
+adzuna_5893118368,Power BI,BI
+adzuna_5893118368,Azure,Cloud
+adzuna_5870230666,SQL,Language
+adzuna_5870230666,Python,Language
+adzuna_5870230666,Spark,Big Data
+adzuna_5870230666,Kafka,Big Data
+adzuna_5870230666,Airflow,Orchestration
+adzuna_5870230666,Databricks,Warehouse
+adzuna_5870230666,Power BI,BI
+adzuna_5870230666,Azure,Cloud
+adzuna_5895689348,SQL,Language
+adzuna_5895689348,Python,Language
+adzuna_5895689348,Spark,Big Data
+adzuna_5895689348,Kafka,Big Data
+adzuna_5895689348,Airflow,Orchestration
+adzuna_5895689348,Databricks,Warehouse
+adzuna_5895689348,Power BI,BI
+adzuna_5895689348,Azure,Cloud
+adzuna_5822521398,Python,Language
+adzuna_5822521398,Kafka,Big Data
+adzuna_5822521398,AWS,Cloud
+adzuna_5872873572,SQL,Language
+adzuna_5872873572,Python,Language
+adzuna_5872873572,Java,Language
+adzuna_5872873572,Kafka,Big Data
+adzuna_5872873572,GCP,Cloud
+adzuna_5872873572,Docker,DevOps
+adzuna_5872873572,Kubernetes,DevOps
+adzuna_5885097109,SQL,Language
+adzuna_5885097109,Python,Language
+adzuna_5885097109,Pandas,Library
+adzuna_5330831913,Databricks,Warehouse
+adzuna_5330831913,Power BI,BI
+adzuna_5330831913,Azure,Cloud
+adzuna_5879966691,SQL,Language
+adzuna_5879966691,Python,Language
+adzuna_5376205486,Machine Learning,ML Area
+adzuna_5376205486,LLM / GenAI,ML Area
+adzuna_5890868426,Databricks,Warehouse
+adzuna_5890868426,Azure,Cloud
+adzuna_5871029576,Databricks,Warehouse
+adzuna_5871029576,Machine Learning,ML Area
+adzuna_5871030010,Python,Language
+adzuna_5871030010,Databricks,Warehouse
+adzuna_5832321274,Scala,Language
+adzuna_5840672502,Machine Learning,ML Area
+adzuna_5904129181,Scala,Language
+adzuna_5802803819,SQL,Language
+adzuna_5802803819,Airflow,Orchestration
+adzuna_5802803819,AWS,Cloud
+adzuna_5896530516,Databricks,Warehouse
+adzuna_5896530516,Azure,Cloud
+adzuna_5896530657,Databricks,Warehouse
+adzuna_5896530657,Azure,Cloud
+adzuna_5896530593,Databricks,Warehouse
+adzuna_5896530593,Azure,Cloud
+adzuna_5896530549,Databricks,Warehouse
+adzuna_5896530549,Azure,Cloud
+adzuna_5896530614,Databricks,Warehouse
+adzuna_5896530614,Azure,Cloud
+adzuna_5896530505,Databricks,Warehouse
+adzuna_5896530505,Azure,Cloud
+adzuna_5896530586,Databricks,Warehouse
+adzuna_5896530586,Azure,Cloud
+adzuna_5845835184,Python,Language
+adzuna_5845835184,scikit-learn,ML Framework
+adzuna_5845835184,TensorFlow,ML Framework
+adzuna_5845835184,PyTorch,ML Framework
+adzuna_5845835184,Machine Learning,ML Area
+adzuna_5845835184,Deep Learning,ML Area
+adzuna_5845835184,NLP,ML Area
+adzuna_5845835184,LLM / GenAI,ML Area
+adzuna_5845835184,Computer Vision,ML Area
+adzuna_5845835182,Python,Language
+adzuna_5845835182,scikit-learn,ML Framework
+adzuna_5845835182,TensorFlow,ML Framework
+adzuna_5845835182,PyTorch,ML Framework
+adzuna_5845835182,Machine Learning,ML Area
+adzuna_5845835182,Deep Learning,ML Area
+adzuna_5845835182,NLP,ML Area
+adzuna_5845835182,LLM / GenAI,ML Area
+adzuna_5845835182,Computer Vision,ML Area
+adzuna_5878550649,GCP,Cloud
+adzuna_5478998142,Airflow,Orchestration
+adzuna_5838648030,SQL,Language
+adzuna_5838648030,Python,Language
+adzuna_5838648030,Databricks,Warehouse
+adzuna_5890063620,Python,Language
+adzuna_5890063620,Spark,Big Data
+adzuna_5890063620,A/B Testing,Statistics
+adzuna_5821349769,Databricks,Warehouse
+adzuna_5871267953,SQL,Language
+adzuna_5871267953,Python,Language
+adzuna_5871267953,Scala,Language
+adzuna_5871267953,Spark,Big Data
+adzuna_5871267953,Snowflake,Warehouse
+adzuna_5871267953,AWS,Cloud
+adzuna_5871267953,Azure,Cloud
+adzuna_5871267953,GCP,Cloud
+adzuna_5871267953,Docker,DevOps
+adzuna_5871267953,Kubernetes,DevOps
+adzuna_5871267953,Git,DevOps
+adzuna_5854874790,Java,Language
+adzuna_5854874790,Kafka,Big Data
+adzuna_5820889153,Databricks,Warehouse
+adzuna_5859863147,Databricks,Warehouse
+adzuna_5859863147,Azure,Cloud
+adzuna_5870230611,SQL,Language
+adzuna_5870230611,Python,Language
+adzuna_5870230611,dbt,Transformation
+adzuna_5870230611,Databricks,Warehouse
+adzuna_5870230611,Azure,Cloud
+adzuna_5889752259,SQL,Language
+adzuna_5889752259,Python,Language
+adzuna_5889752259,dbt,Transformation
+adzuna_5889752259,Databricks,Warehouse
+adzuna_5889752259,Azure,Cloud
+adzuna_5889752257,SQL,Language
+adzuna_5889752257,Python,Language
+adzuna_5889752257,dbt,Transformation
+adzuna_5889752257,Databricks,Warehouse
+adzuna_5889752257,Azure,Cloud
+adzuna_5889752252,SQL,Language
+adzuna_5889752252,Python,Language
+adzuna_5889752252,dbt,Transformation
+adzuna_5889752252,Databricks,Warehouse
+adzuna_5889752252,Azure,Cloud
+adzuna_5870230612,SQL,Language
+adzuna_5870230612,Python,Language
+adzuna_5870230612,dbt,Transformation
+adzuna_5870230612,Databricks,Warehouse
+adzuna_5870230612,Azure,Cloud
+adzuna_5899908446,Snowflake,Warehouse
+adzuna_5899908446,AWS,Cloud
+adzuna_5889786132,Snowflake,Warehouse
+adzuna_5889786132,Azure,Cloud
+adzuna_5831914845,SQL,Language
+adzuna_5831914845,Snowflake,Warehouse
+adzuna_5831914845,Git,DevOps
+adzuna_5905235134,Databricks,Warehouse
+adzuna_5905235134,Azure,Cloud
+adzuna_5891501801,SQL,Language
+adzuna_5891501801,Python,Language
+adzuna_5891501801,Scala,Language
+adzuna_5891501801,Java,Language
+adzuna_5891501801,Spark,Big Data
+adzuna_5891501801,Kafka,Big Data
+adzuna_5891501801,Hadoop,Big Data
+adzuna_5891501801,Airflow,Orchestration
+adzuna_5891501801,dbt,Transformation
+adzuna_5891501801,Snowflake,Warehouse
+adzuna_5891501801,BigQuery,Warehouse
+adzuna_5891501801,Redshift,Warehouse
+adzuna_5891501801,Databricks,Warehouse
+adzuna_5891501801,AWS,Cloud
+adzuna_5891501801,Azure,Cloud
+adzuna_5891501801,GCP,Cloud
+adzuna_5891501801,Docker,DevOps
+adzuna_5891501801,Kubernetes,DevOps
+adzuna_5891501801,Git,DevOps
+adzuna_5872873097,SQL,Language
+adzuna_5872873097,Python,Language
+adzuna_5872873097,Airflow,Orchestration
+adzuna_5872873097,dbt,Transformation
+adzuna_5872873097,Snowflake,Warehouse
+adzuna_5872873097,AWS,Cloud
+adzuna_5843053919,Python,Language
+adzuna_5843053919,Snowflake,Warehouse
+adzuna_5843053919,AWS,Cloud
+adzuna_5843053915,Python,Language
+adzuna_5843053915,Snowflake,Warehouse
+adzuna_5843053915,AWS,Cloud
+adzuna_5843053899,Python,Language
+adzuna_5843053899,Snowflake,Warehouse
+adzuna_5843053899,AWS,Cloud
+adzuna_5843053902,Python,Language
+adzuna_5843053902,Snowflake,Warehouse
+adzuna_5843053902,AWS,Cloud
+adzuna_5843053906,Python,Language
+adzuna_5843053906,Snowflake,Warehouse
+adzuna_5843053906,AWS,Cloud
+adzuna_5843053893,Python,Language
+adzuna_5843053893,Snowflake,Warehouse
+adzuna_5843053893,AWS,Cloud
+adzuna_5843053903,Python,Language
+adzuna_5843053903,Snowflake,Warehouse
+adzuna_5843053903,AWS,Cloud
+adzuna_5900450627,SQL,Language
+adzuna_5900450627,Python,Language
+adzuna_5900450627,Spark,Big Data
+adzuna_5900450627,Databricks,Warehouse
+adzuna_5894947086,Azure,Cloud
+adzuna_5905235120,Spark,Big Data
+adzuna_5905235120,Databricks,Warehouse
+adzuna_5905235120,Git,DevOps
+adzuna_5882401047,SQL,Language
+adzuna_5882401047,Python,Language
+adzuna_5882401047,GCP,Cloud
+adzuna_5882401047,Git,DevOps
+adzuna_5903175003,SQL,Language
+adzuna_5903175003,Python,Language
+adzuna_5903175003,Spark,Big Data
+adzuna_5903175003,Databricks,Warehouse
+adzuna_5903175003,Azure,Cloud
+adzuna_5849555404,Airflow,Orchestration
+adzuna_5849555404,dbt,Transformation
+adzuna_5849555404,Redshift,Warehouse
+adzuna_5849555404,AWS,Cloud
+adzuna_5890869150,AWS,Cloud
+adzuna_5850948597,Spark,Big Data
+adzuna_5850948597,AWS,Cloud
+adzuna_5850948597,Machine Learning,ML Area
+adzuna_5850948597,LLM / GenAI,ML Area
+adzuna_5887339822,Python,Language
+adzuna_5887339822,Java,Language
+adzuna_5887339822,Spark,Big Data
+adzuna_5887339822,Hadoop,Big Data
+adzuna_5887339822,Airflow,Orchestration
+adzuna_5887339822,BigQuery,Warehouse
+adzuna_5887339822,GCP,Cloud
+adzuna_5887339822,Git,DevOps
+adzuna_5878157730,Spark,Big Data
+adzuna_5878157730,AWS,Cloud
+adzuna_5878157730,Azure,Cloud
+adzuna_5878157730,GCP,Cloud
+adzuna_5890333437,SQL,Language
+adzuna_5890333437,Python,Language
+adzuna_5890333437,Spark,Big Data
+adzuna_5890333437,Kafka,Big Data
+adzuna_5890333437,Airflow,Orchestration
+adzuna_5890333437,Snowflake,Warehouse
+adzuna_5890333437,Databricks,Warehouse
+adzuna_5890333437,AWS,Cloud
+adzuna_5890333437,Azure,Cloud
+adzuna_5890333437,Docker,DevOps
+adzuna_5890333437,Kubernetes,DevOps
+adzuna_5890333437,PyTorch,ML Framework
+adzuna_5816886809,Machine Learning,ML Area
+adzuna_5861327581,Snowflake,Warehouse
+adzuna_5861327581,Databricks,Warehouse
+adzuna_5861327581,AWS,Cloud
+adzuna_5861327581,GCP,Cloud
+adzuna_5861327581,LLM / GenAI,ML Area
+adzuna_5886519683,Snowflake,Warehouse
+adzuna_5886519683,Databricks,Warehouse
+adzuna_5886519683,AWS,Cloud
+adzuna_5886519683,GCP,Cloud
+adzuna_5871029972,Airflow,Orchestration
+adzuna_5871029972,GCP,Cloud
+adzuna_5871029955,Snowflake,Warehouse
+adzuna_5871029955,Databricks,Warehouse
+adzuna_5871029955,AWS,Cloud
+adzuna_5871029955,Azure,Cloud
+adzuna_5871029501,LLM / GenAI,ML Area
+adzuna_5871030099,Java,Language
+adzuna_5871030099,Kafka,Big Data
+adzuna_5899906457,GCP,Cloud
+adzuna_5900797956,Databricks,Warehouse
+adzuna_5900797956,Azure,Cloud
+adzuna_5794129126,SQL,Language
+adzuna_5794129126,Kafka,Big Data
+adzuna_5794129126,BigQuery,Warehouse
+adzuna_5794129126,GCP,Cloud
+adzuna_5858189489,AWS,Cloud
+adzuna_5831915016,Snowflake,Warehouse
+adzuna_5831915016,AWS,Cloud
+adzuna_5796896384,Databricks,Warehouse
+adzuna_5796896384,AWS,Cloud
+adzuna_5796896384,Azure,Cloud
+adzuna_5868517633,SQL,Language
+adzuna_5868517633,Python,Language
+adzuna_5868517633,Spark,Big Data
+adzuna_5868517633,Docker,DevOps
+adzuna_5855383483,SQL,Language
+adzuna_5855383483,Kafka,Big Data
+adzuna_5855383483,BigQuery,Warehouse
+adzuna_5758650076,SQL,Language
+adzuna_5758650076,Kafka,Big Data
+adzuna_5758650076,Snowflake,Warehouse
+adzuna_5766198227,Python,Language
+adzuna_5766198227,Machine Learning,ML Area
+adzuna_5766198227,Statistics,Statistics
+adzuna_5891501930,SQL,Language
+adzuna_5891501930,Python,Language
+adzuna_5891501930,Databricks,Warehouse
+adzuna_5891501930,Azure,Cloud
+adzuna_5891501930,Git,DevOps
+adzuna_5808721437,SQL,Language
+adzuna_5808721437,Python,Language
+adzuna_5808721437,Spark,Big Data
+adzuna_5808721437,Airflow,Orchestration
+adzuna_5808721437,dbt,Transformation
+adzuna_5808721437,Snowflake,Warehouse
+adzuna_5808721437,BigQuery,Warehouse
+adzuna_5808721437,Power BI,BI
+adzuna_5808721437,GCP,Cloud
+adzuna_5880762658,SQL,Language
+adzuna_5880762658,Python,Language
+adzuna_5880762658,Databricks,Warehouse
+adzuna_5880762658,Tableau,BI
+adzuna_5880762658,Power BI,BI
+adzuna_5880762658,AWS,Cloud
+adzuna_5880762658,Azure,Cloud
+adzuna_5880762659,SQL,Language
+adzuna_5880762659,Python,Language
+adzuna_5880762659,Databricks,Warehouse
+adzuna_5880762659,Tableau,BI
+adzuna_5880762659,Power BI,BI
+adzuna_5880762659,AWS,Cloud
+adzuna_5880762659,Azure,Cloud
+adzuna_5797407320,Databricks,Warehouse
+adzuna_5797407320,AWS,Cloud
+adzuna_5797407320,Azure,Cloud
+adzuna_5906151447,Databricks,Warehouse
+adzuna_5906151447,Azure,Cloud
+adzuna_5813781637,Databricks,Warehouse
+adzuna_5813781637,Azure,Cloud
+adzuna_5904132414,Spark,Big Data
+adzuna_5904132414,GCP,Cloud
+adzuna_5898061320,AWS,Cloud
+adzuna_5809265684,Python,Language
+adzuna_5856528590,SQL,Language
+adzuna_5856528590,Python,Language
+adzuna_5856528590,Scala,Language
+adzuna_5856528590,Kafka,Big Data
+adzuna_5856528590,Docker,DevOps
+adzuna_5856528590,Kubernetes,DevOps
+adzuna_5856528590,PyTorch,ML Framework
+adzuna_5856528590,LLM / GenAI,ML Area
+adzuna_5887340057,Python,Language
+adzuna_5887340057,Spark,Big Data
+adzuna_5887340057,Hadoop,Big Data
+adzuna_5887340057,Snowflake,Warehouse
+adzuna_5887340057,Databricks,Warehouse
+adzuna_5887340052,Python,Language
+adzuna_5887340052,Spark,Big Data
+adzuna_5887340052,Hadoop,Big Data
+adzuna_5887340052,Snowflake,Warehouse
+adzuna_5887340052,Databricks,Warehouse
+adzuna_5887340047,Python,Language
+adzuna_5887340047,Spark,Big Data
+adzuna_5887340047,Hadoop,Big Data
+adzuna_5887340047,Snowflake,Warehouse
+adzuna_5887340047,Databricks,Warehouse
+adzuna_5887340053,Python,Language
+adzuna_5887340053,Spark,Big Data
+adzuna_5887340053,Hadoop,Big Data
+adzuna_5887340053,Snowflake,Warehouse
+adzuna_5887340053,Databricks,Warehouse
+adzuna_5887340042,Python,Language
+adzuna_5887340042,Spark,Big Data
+adzuna_5887340042,Hadoop,Big Data
+adzuna_5887340042,Snowflake,Warehouse
+adzuna_5887340042,Databricks,Warehouse
+adzuna_5887340048,Python,Language
+adzuna_5887340048,Spark,Big Data
+adzuna_5887340048,Hadoop,Big Data
+adzuna_5887340048,Snowflake,Warehouse
+adzuna_5887340048,Databricks,Warehouse
+adzuna_5887340055,Python,Language
+adzuna_5887340055,Spark,Big Data
+adzuna_5887340055,Hadoop,Big Data
+adzuna_5887340055,Snowflake,Warehouse
+adzuna_5887340055,Databricks,Warehouse
+adzuna_5887340041,Python,Language
+adzuna_5887340041,Spark,Big Data
+adzuna_5887340041,Hadoop,Big Data
+adzuna_5887340041,Snowflake,Warehouse
+adzuna_5887340041,Databricks,Warehouse
+adzuna_5887340050,Python,Language
+adzuna_5887340050,Spark,Big Data
+adzuna_5887340050,Hadoop,Big Data
+adzuna_5887340050,Snowflake,Warehouse
+adzuna_5887340050,Databricks,Warehouse
+adzuna_5887340051,Python,Language
+adzuna_5887340051,Spark,Big Data
+adzuna_5887340051,Hadoop,Big Data
+adzuna_5887340051,Snowflake,Warehouse
+adzuna_5887340051,Databricks,Warehouse
+adzuna_5887340049,Python,Language
+adzuna_5887340049,Spark,Big Data
+adzuna_5887340049,Hadoop,Big Data
+adzuna_5887340049,Snowflake,Warehouse
+adzuna_5887340049,Databricks,Warehouse
+adzuna_5887340044,Python,Language
+adzuna_5887340044,Spark,Big Data
+adzuna_5887340044,Hadoop,Big Data
+adzuna_5887340044,Snowflake,Warehouse
+adzuna_5887340044,Databricks,Warehouse
+adzuna_5887340054,Python,Language
+adzuna_5887340054,Spark,Big Data
+adzuna_5887340054,Hadoop,Big Data
+adzuna_5887340054,Snowflake,Warehouse
+adzuna_5887340054,Databricks,Warehouse
+adzuna_5887340045,Python,Language
+adzuna_5887340045,Spark,Big Data
+adzuna_5887340045,Hadoop,Big Data
+adzuna_5887340045,Snowflake,Warehouse
+adzuna_5887340045,Databricks,Warehouse
+adzuna_5900920790,SQL,Language
+adzuna_5900920790,Python,Language
+adzuna_5900920790,Spark,Big Data
+adzuna_5900920790,Airflow,Orchestration
+adzuna_5900920790,Snowflake,Warehouse
+adzuna_5900920790,BigQuery,Warehouse
+adzuna_5900920790,Databricks,Warehouse
+adzuna_5900920790,GCP,Cloud
+adzuna_5898680634,SQL,Language
+adzuna_5898680634,Python,Language
+adzuna_5898680634,Spark,Big Data
+adzuna_5898680634,Airflow,Orchestration
+adzuna_5898680634,Snowflake,Warehouse
+adzuna_5898680634,BigQuery,Warehouse
+adzuna_5898680634,Databricks,Warehouse
+adzuna_5898680634,GCP,Cloud
+adzuna_5898680624,SQL,Language
+adzuna_5898680624,Python,Language
+adzuna_5898680624,Spark,Big Data
+adzuna_5898680624,Airflow,Orchestration
+adzuna_5898680624,Snowflake,Warehouse
+adzuna_5898680624,BigQuery,Warehouse
+adzuna_5898680624,Databricks,Warehouse
+adzuna_5898680624,GCP,Cloud
+adzuna_5898680602,SQL,Language
+adzuna_5898680602,Python,Language
+adzuna_5898680602,Spark,Big Data
+adzuna_5898680602,Airflow,Orchestration
+adzuna_5898680602,Snowflake,Warehouse
+adzuna_5898680602,BigQuery,Warehouse
+adzuna_5898680602,Databricks,Warehouse
+adzuna_5898680602,GCP,Cloud
+adzuna_5898680610,SQL,Language
+adzuna_5898680610,Python,Language
+adzuna_5898680610,Spark,Big Data
+adzuna_5898680610,Airflow,Orchestration
+adzuna_5898680610,Snowflake,Warehouse
+adzuna_5898680610,BigQuery,Warehouse
+adzuna_5898680610,Databricks,Warehouse
+adzuna_5898680610,GCP,Cloud
+adzuna_5898680639,SQL,Language
+adzuna_5898680639,Python,Language
+adzuna_5898680639,Spark,Big Data
+adzuna_5898680639,Airflow,Orchestration
+adzuna_5898680639,Snowflake,Warehouse
+adzuna_5898680639,BigQuery,Warehouse
+adzuna_5898680639,Databricks,Warehouse
+adzuna_5898680639,GCP,Cloud
+adzuna_5898680640,SQL,Language
+adzuna_5898680640,Python,Language
+adzuna_5898680640,Spark,Big Data
+adzuna_5898680640,Airflow,Orchestration
+adzuna_5898680640,Snowflake,Warehouse
+adzuna_5898680640,BigQuery,Warehouse
+adzuna_5898680640,Databricks,Warehouse
+adzuna_5898680640,GCP,Cloud
+adzuna_5898680614,SQL,Language
+adzuna_5898680614,Python,Language
+adzuna_5898680614,Spark,Big Data
+adzuna_5898680614,Airflow,Orchestration
+adzuna_5898680614,Snowflake,Warehouse
+adzuna_5898680614,BigQuery,Warehouse
+adzuna_5898680614,Databricks,Warehouse
+adzuna_5898680614,GCP,Cloud
+adzuna_5902648370,SQL,Language
+adzuna_5902648370,Python,Language
+adzuna_5902648370,Spark,Big Data
+adzuna_5902648370,Airflow,Orchestration
+adzuna_5902648370,Snowflake,Warehouse
+adzuna_5902648370,BigQuery,Warehouse
+adzuna_5902648370,Databricks,Warehouse
+adzuna_5902648370,GCP,Cloud
+adzuna_5898680625,SQL,Language
+adzuna_5898680625,Python,Language
+adzuna_5898680625,Spark,Big Data
+adzuna_5898680625,Airflow,Orchestration
+adzuna_5898680625,Snowflake,Warehouse
+adzuna_5898680625,BigQuery,Warehouse
+adzuna_5898680625,Databricks,Warehouse
+adzuna_5898680625,GCP,Cloud
+adzuna_5898680617,SQL,Language
+adzuna_5898680617,Python,Language
+adzuna_5898680617,Spark,Big Data
+adzuna_5898680617,Airflow,Orchestration
+adzuna_5898680617,Snowflake,Warehouse
+adzuna_5898680617,BigQuery,Warehouse
+adzuna_5898680617,Databricks,Warehouse
+adzuna_5898680617,GCP,Cloud
+adzuna_5898680636,SQL,Language
+adzuna_5898680636,Python,Language
+adzuna_5898680636,Spark,Big Data
+adzuna_5898680636,Airflow,Orchestration
+adzuna_5898680636,Snowflake,Warehouse
+adzuna_5898680636,BigQuery,Warehouse
+adzuna_5898680636,Databricks,Warehouse
+adzuna_5898680636,GCP,Cloud
+adzuna_5898680633,SQL,Language
+adzuna_5898680633,Python,Language
+adzuna_5898680633,Spark,Big Data
+adzuna_5898680633,Airflow,Orchestration
+adzuna_5898680633,Snowflake,Warehouse
+adzuna_5898680633,BigQuery,Warehouse
+adzuna_5898680633,Databricks,Warehouse
+adzuna_5898680633,GCP,Cloud
+adzuna_5898680631,SQL,Language
+adzuna_5898680631,Python,Language
+adzuna_5898680631,Spark,Big Data
+adzuna_5898680631,Airflow,Orchestration
+adzuna_5898680631,Snowflake,Warehouse
+adzuna_5898680631,BigQuery,Warehouse
+adzuna_5898680631,Databricks,Warehouse
+adzuna_5898680631,GCP,Cloud
+adzuna_5876083309,SQL,Language
+adzuna_5876083309,BigQuery,Warehouse
+adzuna_5876083309,GCP,Cloud
+adzuna_5853437043,SQL,Language
+adzuna_5853437043,Python,Language
+adzuna_5853437043,Spark,Big Data
+adzuna_5853437043,Azure,Cloud
+adzuna_5853437043,Git,DevOps
+adzuna_5849806519,GCP,Cloud
+adzuna_5887340307,SQL,Language
+adzuna_5887340307,Python,Language
+adzuna_5887340307,Spark,Big Data
+adzuna_5887340307,Hadoop,Big Data
+adzuna_5887340307,Airflow,Orchestration
+adzuna_5887340307,Snowflake,Warehouse
+adzuna_5887340307,Databricks,Warehouse
+adzuna_5887340307,Docker,DevOps
+adzuna_5887340313,SQL,Language
+adzuna_5887340313,Python,Language
+adzuna_5887340313,Spark,Big Data
+adzuna_5887340313,Hadoop,Big Data
+adzuna_5887340313,Airflow,Orchestration
+adzuna_5887340313,Snowflake,Warehouse
+adzuna_5887340313,Databricks,Warehouse
+adzuna_5887340313,Docker,DevOps
+adzuna_5887340310,SQL,Language
+adzuna_5887340310,Python,Language
+adzuna_5887340310,Spark,Big Data
+adzuna_5887340310,Hadoop,Big Data
+adzuna_5887340310,Airflow,Orchestration
+adzuna_5887340310,Snowflake,Warehouse
+adzuna_5887340310,Databricks,Warehouse
+adzuna_5887340310,Docker,DevOps
+adzuna_5887340308,SQL,Language
+adzuna_5887340308,Python,Language
+adzuna_5887340308,Spark,Big Data
+adzuna_5887340308,Hadoop,Big Data
+adzuna_5887340308,Airflow,Orchestration
+adzuna_5887340308,Snowflake,Warehouse
+adzuna_5887340308,Databricks,Warehouse
+adzuna_5887340308,Docker,DevOps
+adzuna_5872873629,SQL,Language
+adzuna_5872873629,Scala,Language
+adzuna_5872873629,Spark,Big Data
+adzuna_5872873629,Kafka,Big Data
+adzuna_5872873629,Hadoop,Big Data
+adzuna_5872873629,Airflow,Orchestration
+adzuna_5872873629,Kubernetes,DevOps
+adzuna_5872873629,Git,DevOps
+adzuna_5872873631,SQL,Language
+adzuna_5872873631,Scala,Language
+adzuna_5872873631,Spark,Big Data
+adzuna_5872873631,Kafka,Big Data
+adzuna_5872873631,Hadoop,Big Data
+adzuna_5872873631,Airflow,Orchestration
+adzuna_5872873631,Kubernetes,DevOps
+adzuna_5872873631,Git,DevOps
+adzuna_5849556230,GCP,Cloud
+adzuna_5882400210,SQL,Language
+adzuna_5882400210,Python,Language
+adzuna_5882400210,Spark,Big Data
+adzuna_5882400210,Kafka,Big Data
+adzuna_5882400210,Airflow,Orchestration
+adzuna_5882400210,Snowflake,Warehouse
+adzuna_5882400210,Databricks,Warehouse
+adzuna_5882400210,Azure,Cloud
+adzuna_5882400213,SQL,Language
+adzuna_5882400213,Python,Language
+adzuna_5882400213,Spark,Big Data
+adzuna_5882400213,Kafka,Big Data
+adzuna_5882400213,Airflow,Orchestration
+adzuna_5882400213,Snowflake,Warehouse
+adzuna_5882400213,Databricks,Warehouse
+adzuna_5882400213,Azure,Cloud
+adzuna_5882400219,SQL,Language
+adzuna_5882400219,Python,Language
+adzuna_5882400219,Spark,Big Data
+adzuna_5882400219,Kafka,Big Data
+adzuna_5882400219,Airflow,Orchestration
+adzuna_5882400219,Snowflake,Warehouse
+adzuna_5882400219,Databricks,Warehouse
+adzuna_5882400219,Azure,Cloud
+adzuna_5882400211,SQL,Language
+adzuna_5882400211,Python,Language
+adzuna_5882400211,Spark,Big Data
+adzuna_5882400211,Kafka,Big Data
+adzuna_5882400211,Airflow,Orchestration
+adzuna_5882400211,Snowflake,Warehouse
+adzuna_5882400211,Databricks,Warehouse
+adzuna_5882400211,Azure,Cloud
+adzuna_5882400222,SQL,Language
+adzuna_5882400222,Python,Language
+adzuna_5882400222,Spark,Big Data
+adzuna_5882400222,Kafka,Big Data
+adzuna_5882400222,Airflow,Orchestration
+adzuna_5882400222,Snowflake,Warehouse
+adzuna_5882400222,Databricks,Warehouse
+adzuna_5882400222,Azure,Cloud
+adzuna_5882400218,SQL,Language
+adzuna_5882400218,Python,Language
+adzuna_5882400218,Spark,Big Data
+adzuna_5882400218,Kafka,Big Data
+adzuna_5882400218,Airflow,Orchestration
+adzuna_5882400218,Snowflake,Warehouse
+adzuna_5882400218,Databricks,Warehouse
+adzuna_5882400218,Azure,Cloud
+adzuna_5882400220,SQL,Language
+adzuna_5882400220,Python,Language
+adzuna_5882400220,Spark,Big Data
+adzuna_5882400220,Kafka,Big Data
+adzuna_5882400220,Airflow,Orchestration
+adzuna_5882400220,Snowflake,Warehouse
+adzuna_5882400220,Databricks,Warehouse
+adzuna_5882400220,Azure,Cloud
+adzuna_5882400214,SQL,Language
+adzuna_5882400214,Python,Language
+adzuna_5882400214,Spark,Big Data
+adzuna_5882400214,Kafka,Big Data
+adzuna_5882400214,Airflow,Orchestration
+adzuna_5882400214,Snowflake,Warehouse
+adzuna_5882400214,Databricks,Warehouse
+adzuna_5882400214,Azure,Cloud
+adzuna_5882400216,SQL,Language
+adzuna_5882400216,Python,Language
+adzuna_5882400216,Spark,Big Data
+adzuna_5882400216,Kafka,Big Data
+adzuna_5882400216,Airflow,Orchestration
+adzuna_5882400216,Snowflake,Warehouse
+adzuna_5882400216,Databricks,Warehouse
+adzuna_5882400216,Azure,Cloud
+adzuna_5882400221,SQL,Language
+adzuna_5882400221,Python,Language
+adzuna_5882400221,Spark,Big Data
+adzuna_5882400221,Kafka,Big Data
+adzuna_5882400221,Airflow,Orchestration
+adzuna_5882400221,Snowflake,Warehouse
+adzuna_5882400221,Databricks,Warehouse
+adzuna_5882400221,Azure,Cloud
+adzuna_5882400224,SQL,Language
+adzuna_5882400224,Python,Language
+adzuna_5882400224,Spark,Big Data
+adzuna_5882400224,Kafka,Big Data
+adzuna_5882400224,Airflow,Orchestration
+adzuna_5882400224,Snowflake,Warehouse
+adzuna_5882400224,Databricks,Warehouse
+adzuna_5882400224,Azure,Cloud
+adzuna_5882400223,SQL,Language
+adzuna_5882400223,Python,Language
+adzuna_5882400223,Spark,Big Data
+adzuna_5882400223,Kafka,Big Data
+adzuna_5882400223,Airflow,Orchestration
+adzuna_5882400223,Snowflake,Warehouse
+adzuna_5882400223,Databricks,Warehouse
+adzuna_5882400223,Azure,Cloud
+adzuna_5882400217,SQL,Language
+adzuna_5882400217,Python,Language
+adzuna_5882400217,Spark,Big Data
+adzuna_5882400217,Kafka,Big Data
+adzuna_5882400217,Airflow,Orchestration
+adzuna_5882400217,Snowflake,Warehouse
+adzuna_5882400217,Databricks,Warehouse
+adzuna_5882400217,Azure,Cloud
+adzuna_5882400225,SQL,Language
+adzuna_5882400225,Python,Language
+adzuna_5882400225,Spark,Big Data
+adzuna_5882400225,Kafka,Big Data
+adzuna_5882400225,Airflow,Orchestration
+adzuna_5882400225,Snowflake,Warehouse
+adzuna_5882400225,Databricks,Warehouse
+adzuna_5882400225,Azure,Cloud
+adzuna_5882400212,SQL,Language
+adzuna_5882400212,Python,Language
+adzuna_5882400212,Spark,Big Data
+adzuna_5882400212,Kafka,Big Data
+adzuna_5882400212,Airflow,Orchestration
+adzuna_5882400212,Snowflake,Warehouse
+adzuna_5882400212,Databricks,Warehouse
+adzuna_5882400212,Azure,Cloud
+adzuna_5882400208,SQL,Language
+adzuna_5882400208,Python,Language
+adzuna_5882400208,Spark,Big Data
+adzuna_5882400208,Kafka,Big Data
+adzuna_5882400208,Airflow,Orchestration
+adzuna_5882400208,Snowflake,Warehouse
+adzuna_5882400208,Databricks,Warehouse
+adzuna_5882400208,Azure,Cloud
+adzuna_5882400215,SQL,Language
+adzuna_5882400215,Python,Language
+adzuna_5882400215,Spark,Big Data
+adzuna_5882400215,Kafka,Big Data
+adzuna_5882400215,Airflow,Orchestration
+adzuna_5882400215,Snowflake,Warehouse
+adzuna_5882400215,Databricks,Warehouse
+adzuna_5882400215,Azure,Cloud
+adzuna_5829012506,Snowflake,Warehouse
+adzuna_5899446100,SQL,Language
+adzuna_5899446100,Python,Language
+adzuna_5899446100,Scala,Language
+adzuna_5899446100,Java,Language
+adzuna_5899446100,Spark,Big Data
+adzuna_5899446100,Kafka,Big Data
+adzuna_5899446100,Airflow,Orchestration
+adzuna_5899446100,Databricks,Warehouse
+adzuna_5899446100,AWS,Cloud
+adzuna_5899446100,Docker,DevOps
+adzuna_5899446100,Kubernetes,DevOps
+adzuna_5899446070,SQL,Language
+adzuna_5899446070,Python,Language
+adzuna_5899446070,Scala,Language
+adzuna_5899446070,Java,Language
+adzuna_5899446070,Spark,Big Data
+adzuna_5899446070,Kafka,Big Data
+adzuna_5899446070,Airflow,Orchestration
+adzuna_5899446070,Databricks,Warehouse
+adzuna_5899446070,AWS,Cloud
+adzuna_5899446070,Docker,DevOps
+adzuna_5899446070,Kubernetes,DevOps
+adzuna_5899446099,SQL,Language
+adzuna_5899446099,Python,Language
+adzuna_5899446099,Scala,Language
+adzuna_5899446099,Java,Language
+adzuna_5899446099,Spark,Big Data
+adzuna_5899446099,Kafka,Big Data
+adzuna_5899446099,Airflow,Orchestration
+adzuna_5899446099,Databricks,Warehouse
+adzuna_5899446099,AWS,Cloud
+adzuna_5899446099,Docker,DevOps
+adzuna_5899446099,Kubernetes,DevOps
+adzuna_5899446091,SQL,Language
+adzuna_5899446091,Python,Language
+adzuna_5899446091,Scala,Language
+adzuna_5899446091,Java,Language
+adzuna_5899446091,Spark,Big Data
+adzuna_5899446091,Kafka,Big Data
+adzuna_5899446091,Airflow,Orchestration
+adzuna_5899446091,Databricks,Warehouse
+adzuna_5899446091,AWS,Cloud
+adzuna_5899446091,Docker,DevOps
+adzuna_5899446091,Kubernetes,DevOps
+adzuna_5899446087,SQL,Language
+adzuna_5899446087,Python,Language
+adzuna_5899446087,Scala,Language
+adzuna_5899446087,Java,Language
+adzuna_5899446087,Spark,Big Data
+adzuna_5899446087,Kafka,Big Data
+adzuna_5899446087,Airflow,Orchestration
+adzuna_5899446087,Databricks,Warehouse
+adzuna_5899446087,AWS,Cloud
+adzuna_5899446087,Docker,DevOps
+adzuna_5899446087,Kubernetes,DevOps
+adzuna_5899446121,SQL,Language
+adzuna_5899446121,Python,Language
+adzuna_5899446121,Scala,Language
+adzuna_5899446121,Java,Language
+adzuna_5899446121,Spark,Big Data
+adzuna_5899446121,Kafka,Big Data
+adzuna_5899446121,Airflow,Orchestration
+adzuna_5899446121,Databricks,Warehouse
+adzuna_5899446121,AWS,Cloud
+adzuna_5899446121,Docker,DevOps
+adzuna_5899446121,Kubernetes,DevOps
+adzuna_5899446163,SQL,Language
+adzuna_5899446163,Python,Language
+adzuna_5899446163,Scala,Language
+adzuna_5899446163,Java,Language
+adzuna_5899446163,Spark,Big Data
+adzuna_5899446163,Kafka,Big Data
+adzuna_5899446163,Airflow,Orchestration
+adzuna_5899446163,Databricks,Warehouse
+adzuna_5899446163,AWS,Cloud
+adzuna_5899446163,Docker,DevOps
+adzuna_5899446163,Kubernetes,DevOps
+adzuna_5882401109,SQL,Language
+adzuna_5882401109,Python,Language
+adzuna_5882401109,Snowflake,Warehouse
+adzuna_5899446184,SQL,Language
+adzuna_5899446184,Python,Language
+adzuna_5899446184,Scala,Language
+adzuna_5899446184,Java,Language
+adzuna_5899446184,Spark,Big Data
+adzuna_5899446184,Kafka,Big Data
+adzuna_5899446184,Airflow,Orchestration
+adzuna_5899446184,Databricks,Warehouse
+adzuna_5899446184,AWS,Cloud
+adzuna_5899446184,Docker,DevOps
+adzuna_5899446184,Kubernetes,DevOps
+adzuna_5899446124,SQL,Language
+adzuna_5899446124,Python,Language
+adzuna_5899446124,Scala,Language
+adzuna_5899446124,Java,Language
+adzuna_5899446124,Spark,Big Data
+adzuna_5899446124,Kafka,Big Data
+adzuna_5899446124,Airflow,Orchestration
+adzuna_5899446124,Databricks,Warehouse
+adzuna_5899446124,AWS,Cloud
+adzuna_5899446124,Docker,DevOps
+adzuna_5899446124,Kubernetes,DevOps
+adzuna_5899446112,SQL,Language
+adzuna_5899446112,Python,Language
+adzuna_5899446112,Scala,Language
+adzuna_5899446112,Java,Language
+adzuna_5899446112,Spark,Big Data
+adzuna_5899446112,Kafka,Big Data
+adzuna_5899446112,Airflow,Orchestration
+adzuna_5899446112,Databricks,Warehouse
+adzuna_5899446112,AWS,Cloud
+adzuna_5899446112,Docker,DevOps
+adzuna_5899446112,Kubernetes,DevOps
+adzuna_5899446114,SQL,Language
+adzuna_5899446114,Python,Language
+adzuna_5899446114,Scala,Language
+adzuna_5899446114,Java,Language
+adzuna_5899446114,Spark,Big Data
+adzuna_5899446114,Kafka,Big Data
+adzuna_5899446114,Airflow,Orchestration
+adzuna_5899446114,Databricks,Warehouse
+adzuna_5899446114,AWS,Cloud
+adzuna_5899446114,Docker,DevOps
+adzuna_5899446114,Kubernetes,DevOps
+adzuna_5899446164,SQL,Language
+adzuna_5899446164,Python,Language
+adzuna_5899446164,Scala,Language
+adzuna_5899446164,Java,Language
+adzuna_5899446164,Spark,Big Data
+adzuna_5899446164,Kafka,Big Data
+adzuna_5899446164,Airflow,Orchestration
+adzuna_5899446164,Databricks,Warehouse
+adzuna_5899446164,AWS,Cloud
+adzuna_5899446164,Docker,DevOps
+adzuna_5899446164,Kubernetes,DevOps
+adzuna_5899446176,SQL,Language
+adzuna_5899446176,Python,Language
+adzuna_5899446176,Scala,Language
+adzuna_5899446176,Java,Language
+adzuna_5899446176,Spark,Big Data
+adzuna_5899446176,Kafka,Big Data
+adzuna_5899446176,Airflow,Orchestration
+adzuna_5899446176,Databricks,Warehouse
+adzuna_5899446176,AWS,Cloud
+adzuna_5899446176,Docker,DevOps
+adzuna_5899446176,Kubernetes,DevOps
+adzuna_5899446108,SQL,Language
+adzuna_5899446108,Python,Language
+adzuna_5899446108,Scala,Language
+adzuna_5899446108,Java,Language
+adzuna_5899446108,Spark,Big Data
+adzuna_5899446108,Kafka,Big Data
+adzuna_5899446108,Airflow,Orchestration
+adzuna_5899446108,Databricks,Warehouse
+adzuna_5899446108,AWS,Cloud
+adzuna_5899446108,Docker,DevOps
+adzuna_5899446108,Kubernetes,DevOps
+adzuna_5900449830,SQL,Language
+adzuna_5900449830,Python,Language
+adzuna_5900449830,Spark,Big Data
+adzuna_5900449830,Azure,Cloud
+adzuna_5900449830,PyTorch,ML Framework
+adzuna_5895450520,FastAPI,MLOps
+adzuna_5896402173,FastAPI,MLOps
+adzuna_5878157609,SQL,Language
+adzuna_5878157609,Python,Language
+adzuna_5766045638,GCP,Cloud
+adzuna_5871030173,Airflow,Orchestration
+adzuna_5886520106,Snowflake,Warehouse
+adzuna_5886520106,Databricks,Warehouse
+adzuna_5886520106,AWS,Cloud
+adzuna_5886520106,GCP,Cloud
+adzuna_5819005798,SQL,Language
+adzuna_5819005798,Snowflake,Warehouse
+adzuna_5819005798,Azure,Cloud
+adzuna_5839010031,Azure,Cloud
+adzuna_5796896168,GCP,Cloud
+adzuna_5880763102,SQL,Language
+adzuna_5880763102,Spark,Big Data
+adzuna_5880763102,Hadoop,Big Data
+adzuna_5880763102,GCP,Cloud
+adzuna_5906882992,Python,Language
+adzuna_5906882992,Pandas,Library
+adzuna_5789438100,Databricks,Warehouse
+adzuna_5789438100,Azure,Cloud
+adzuna_5795555767,Databricks,Warehouse
+adzuna_5795555767,Azure,Cloud
+adzuna_5856738885,Scala,Language
+adzuna_5856738885,Java,Language
+adzuna_5752477302,Kafka,Big Data
+adzuna_5906151123,SQL,Language
+adzuna_5906151123,Databricks,Warehouse
+adzuna_5853436562,SQL,Language
+adzuna_5853436562,Python,Language
+adzuna_5853436562,Scala,Language
+adzuna_5853436562,Java,Language
+adzuna_5853436562,Spark,Big Data
+adzuna_5853436562,Airflow,Orchestration
+adzuna_5860869608,BigQuery,Warehouse
+adzuna_5860869608,GCP,Cloud
+adzuna_5852205362,SQL,Language
+adzuna_5852205362,Spark,Big Data
+adzuna_5852205362,dbt,Transformation
+adzuna_5852205362,Snowflake,Warehouse
+adzuna_5872873227,SQL,Language
+adzuna_5872873227,Scala,Language
+adzuna_5872873227,Java,Language
+adzuna_5872873227,Spark,Big Data
+adzuna_5872873227,Snowflake,Warehouse
+adzuna_5872873227,Databricks,Warehouse
+adzuna_5872873227,AWS,Cloud
+adzuna_5836636984,Java,Language
+adzuna_5836636984,Spark,Big Data
+adzuna_5871030046,Python,Language
+adzuna_5871030046,Databricks,Warehouse
+adzuna_5871030046,Azure,Cloud
+adzuna_5898610630,Spark,Big Data
+adzuna_5898610630,Snowflake,Warehouse
+adzuna_5883409893,SQL,Language
+adzuna_5883409893,Python,Language
+adzuna_5883409893,Scala,Language
+adzuna_5883409893,Java,Language
+adzuna_5883409893,Kafka,Big Data
+adzuna_5883409893,Airflow,Orchestration
+adzuna_5883409893,Snowflake,Warehouse
+adzuna_5883409893,BigQuery,Warehouse
+adzuna_5883409893,Azure,Cloud
+adzuna_5883409893,GCP,Cloud
+adzuna_5883409893,Docker,DevOps
+adzuna_5883409893,Kubernetes,DevOps
+adzuna_5860869789,SQL,Language
+adzuna_5860869789,Python,Language
+adzuna_5860869789,BigQuery,Warehouse
+adzuna_5860869789,GCP,Cloud
+adzuna_5860869789,Git,DevOps
+adzuna_5780598592,Machine Learning,ML Area
+adzuna_5816886898,Snowflake,Warehouse
+adzuna_5843285225,LLM / GenAI,ML Area
+adzuna_5855514636,Databricks,Warehouse
+adzuna_5805604873,SQL,Language
+adzuna_5805604873,Python,Language
+adzuna_5805604873,Spark,Big Data
+adzuna_5805604873,Snowflake,Warehouse
+adzuna_5805604873,Databricks,Warehouse
+adzuna_5805604873,GCP,Cloud
+adzuna_5846620562,LLM / GenAI,ML Area
+adzuna_5882795738,Azure,Cloud
+adzuna_5884382280,Azure,Cloud
+adzuna_5872872195,SQL,Language
+adzuna_5872872195,Java,Language
+adzuna_5872872195,Docker,DevOps
+adzuna_5872872195,Git,DevOps
+adzuna_5869316885,Power BI,BI
+adzuna_5870127367,Power BI,BI
+adzuna_5899446428,Python,Language
+adzuna_5899446428,Spark,Big Data
+adzuna_5899446428,Databricks,Warehouse
+adzuna_5899446428,Azure,Cloud
+adzuna_5899446353,Python,Language
+adzuna_5899446353,Spark,Big Data
+adzuna_5899446353,Databricks,Warehouse
+adzuna_5899446353,Azure,Cloud
+adzuna_5899446417,Python,Language
+adzuna_5899446417,Spark,Big Data
+adzuna_5899446417,Databricks,Warehouse
+adzuna_5899446417,Azure,Cloud
+adzuna_5899446454,Python,Language
+adzuna_5899446454,Spark,Big Data
+adzuna_5899446454,Databricks,Warehouse
+adzuna_5899446454,Azure,Cloud
+adzuna_5899446354,Python,Language
+adzuna_5899446354,Spark,Big Data
+adzuna_5899446354,Databricks,Warehouse
+adzuna_5899446354,Azure,Cloud
+adzuna_5899446450,Python,Language
+adzuna_5899446450,Spark,Big Data
+adzuna_5899446450,Databricks,Warehouse
+adzuna_5899446450,Azure,Cloud
+adzuna_5899446341,Python,Language
+adzuna_5899446341,Spark,Big Data
+adzuna_5899446341,Databricks,Warehouse
+adzuna_5899446341,Azure,Cloud
+adzuna_5899446361,Python,Language
+adzuna_5899446361,Spark,Big Data
+adzuna_5899446361,Databricks,Warehouse
+adzuna_5899446361,Azure,Cloud
+adzuna_5899446355,Python,Language
+adzuna_5899446355,Spark,Big Data
+adzuna_5899446355,Databricks,Warehouse
+adzuna_5899446355,Azure,Cloud
+adzuna_5899446385,Python,Language
+adzuna_5899446385,Spark,Big Data
+adzuna_5899446385,Databricks,Warehouse
+adzuna_5899446385,Azure,Cloud
+adzuna_5899446408,Python,Language
+adzuna_5899446408,Spark,Big Data
+adzuna_5899446408,Databricks,Warehouse
+adzuna_5899446408,Azure,Cloud
+adzuna_5899446318,Python,Language
+adzuna_5899446318,Spark,Big Data
+adzuna_5899446318,Databricks,Warehouse
+adzuna_5899446318,Azure,Cloud
+adzuna_5899446388,Python,Language
+adzuna_5899446388,Spark,Big Data
+adzuna_5899446388,Databricks,Warehouse
+adzuna_5899446388,Azure,Cloud
+adzuna_5899446395,Python,Language
+adzuna_5899446395,Spark,Big Data
+adzuna_5899446395,Databricks,Warehouse
+adzuna_5899446395,Azure,Cloud
+adzuna_5878157901,SQL,Language
+adzuna_5878157901,Python,Language
+adzuna_5878157901,Spark,Big Data
+adzuna_5878157901,AWS,Cloud
+adzuna_5878157901,Azure,Cloud
+adzuna_5878157901,GCP,Cloud
+adzuna_5878157901,Docker,DevOps
+adzuna_5878157901,Kubernetes,DevOps
+adzuna_5860870374,Python,Language
+adzuna_5860870374,AWS,Cloud
+adzuna_5860870374,Pandas,Library
+adzuna_5860870367,Python,Language
+adzuna_5860870367,AWS,Cloud
+adzuna_5860870367,Pandas,Library
+adzuna_5860870375,Python,Language
+adzuna_5860870375,AWS,Cloud
+adzuna_5860870375,Pandas,Library
+adzuna_5860870365,Python,Language
+adzuna_5860870365,AWS,Cloud
+adzuna_5860870365,Pandas,Library
+adzuna_5860870363,Python,Language
+adzuna_5860870363,AWS,Cloud
+adzuna_5860870363,Pandas,Library
+adzuna_5860870361,Python,Language
+adzuna_5860870361,AWS,Cloud
+adzuna_5860870361,Pandas,Library
+adzuna_5860870366,Python,Language
+adzuna_5860870366,AWS,Cloud
+adzuna_5860870366,Pandas,Library
+adzuna_5860870376,Python,Language
+adzuna_5860870376,AWS,Cloud
+adzuna_5860870376,Pandas,Library
+adzuna_5860870362,Python,Language
+adzuna_5860870362,AWS,Cloud
+adzuna_5860870362,Pandas,Library
+adzuna_5860870369,Python,Language
+adzuna_5860870369,AWS,Cloud
+adzuna_5860870369,Pandas,Library
+adzuna_5860870371,Python,Language
+adzuna_5860870371,AWS,Cloud
+adzuna_5860870371,Pandas,Library
+adzuna_5860870370,Python,Language
+adzuna_5860870370,AWS,Cloud
+adzuna_5860870370,Pandas,Library
+adzuna_5860870372,Python,Language
+adzuna_5860870372,AWS,Cloud
+adzuna_5860870372,Pandas,Library
+adzuna_5860870364,Python,Language
+adzuna_5860870364,AWS,Cloud
+adzuna_5860870364,Pandas,Library
+adzuna_5907674859,Python,Language
+adzuna_5907674859,Spark,Big Data
+adzuna_5907674859,Databricks,Warehouse
+adzuna_5907674859,Azure,Cloud
+adzuna_5885095368,SQL,Language
+adzuna_5885095368,Java,Language
+adzuna_5885095368,GCP,Cloud
+adzuna_5894947412,Python,Language
+adzuna_5894947412,Databricks,Warehouse
+adzuna_5894947412,Git,DevOps
+adzuna_5899446483,SQL,Language
+adzuna_5899446483,Java,Language
+adzuna_5899446483,GCP,Cloud
+adzuna_5894947406,Python,Language
+adzuna_5894947406,Databricks,Warehouse
+adzuna_5894947406,Git,DevOps
+adzuna_5894947354,Python,Language
+adzuna_5894947354,Databricks,Warehouse
+adzuna_5894947354,Git,DevOps
+adzuna_5894947343,Python,Language
+adzuna_5894947343,Databricks,Warehouse
+adzuna_5894947343,Git,DevOps
+adzuna_5894947356,Python,Language
+adzuna_5894947356,Databricks,Warehouse
+adzuna_5894947356,Git,DevOps
+adzuna_5894947459,Python,Language
+adzuna_5894947459,Databricks,Warehouse
+adzuna_5894947459,Git,DevOps
+adzuna_5894947364,Python,Language
+adzuna_5894947364,Databricks,Warehouse
+adzuna_5894947364,Git,DevOps
+adzuna_5894947396,Python,Language
+adzuna_5894947396,Databricks,Warehouse
+adzuna_5894947396,Git,DevOps
+adzuna_5894947462,Python,Language
+adzuna_5894947462,Databricks,Warehouse
+adzuna_5894947462,Git,DevOps
+adzuna_5894947416,Python,Language
+adzuna_5894947416,Databricks,Warehouse
+adzuna_5894947416,Git,DevOps
+adzuna_5894947413,Python,Language
+adzuna_5894947413,Databricks,Warehouse
+adzuna_5894947413,Git,DevOps
+adzuna_5894947408,Python,Language
+adzuna_5894947408,Databricks,Warehouse
+adzuna_5894947408,Git,DevOps
+adzuna_5894947395,Python,Language
+adzuna_5894947395,Databricks,Warehouse
+adzuna_5894947395,Git,DevOps
+adzuna_5894947370,Python,Language
+adzuna_5894947370,Databricks,Warehouse
+adzuna_5894947370,Git,DevOps
+adzuna_5799901685,Machine Learning,ML Area
+adzuna_5871673959,SQL,Language
+adzuna_5871673959,Python,Language
+adzuna_5871673959,Spark,Big Data
+adzuna_5871673959,Databricks,Warehouse
+adzuna_5871673959,Azure,Cloud
+adzuna_5871673948,SQL,Language
+adzuna_5871673948,Python,Language
+adzuna_5871673948,Spark,Big Data
+adzuna_5871673948,Databricks,Warehouse
+adzuna_5871673948,Azure,Cloud
+adzuna_5871673951,SQL,Language
+adzuna_5871673951,Python,Language
+adzuna_5871673951,Spark,Big Data
+adzuna_5871673951,Databricks,Warehouse
+adzuna_5871673951,Azure,Cloud
+adzuna_5871673949,SQL,Language
+adzuna_5871673949,Python,Language
+adzuna_5871673949,Spark,Big Data
+adzuna_5871673949,Databricks,Warehouse
+adzuna_5871673949,Azure,Cloud
+adzuna_5871673955,SQL,Language
+adzuna_5871673955,Python,Language
+adzuna_5871673955,Spark,Big Data
+adzuna_5871673955,Databricks,Warehouse
+adzuna_5871673955,Azure,Cloud
+adzuna_5871673960,SQL,Language
+adzuna_5871673960,Python,Language
+adzuna_5871673960,Spark,Big Data
+adzuna_5871673960,Databricks,Warehouse
+adzuna_5871673960,Azure,Cloud
+adzuna_5871673961,SQL,Language
+adzuna_5871673961,Python,Language
+adzuna_5871673961,Spark,Big Data
+adzuna_5871673961,Databricks,Warehouse
+adzuna_5871673961,Azure,Cloud
+adzuna_5871673957,SQL,Language
+adzuna_5871673957,Python,Language
+adzuna_5871673957,Spark,Big Data
+adzuna_5871673957,Databricks,Warehouse
+adzuna_5871673957,Azure,Cloud
+adzuna_5871673954,SQL,Language
+adzuna_5871673954,Python,Language
+adzuna_5871673954,Spark,Big Data
+adzuna_5871673954,Databricks,Warehouse
+adzuna_5871673954,Azure,Cloud
+adzuna_5871673953,SQL,Language
+adzuna_5871673953,Python,Language
+adzuna_5871673953,Spark,Big Data
+adzuna_5871673953,Databricks,Warehouse
+adzuna_5871673953,Azure,Cloud
+adzuna_5871673952,SQL,Language
+adzuna_5871673952,Python,Language
+adzuna_5871673952,Spark,Big Data
+adzuna_5871673952,Databricks,Warehouse
+adzuna_5871673952,Azure,Cloud
+adzuna_5871673962,SQL,Language
+adzuna_5871673962,Python,Language
+adzuna_5871673962,Spark,Big Data
+adzuna_5871673962,Databricks,Warehouse
+adzuna_5871673962,Azure,Cloud
+adzuna_5871673956,SQL,Language
+adzuna_5871673956,Python,Language
+adzuna_5871673956,Spark,Big Data
+adzuna_5871673956,Databricks,Warehouse
+adzuna_5871673956,Azure,Cloud
+adzuna_5871673958,SQL,Language
+adzuna_5871673958,Python,Language
+adzuna_5871673958,Spark,Big Data
+adzuna_5871673958,Databricks,Warehouse
+adzuna_5871673958,Azure,Cloud
+adzuna_5882401294,Python,Language
+adzuna_5882401294,Databricks,Warehouse
+adzuna_5882401294,Azure,Cloud
+adzuna_5882401294,Machine Learning,ML Area
+adzuna_5882401294,MLOps,MLOps
+adzuna_5810818317,Python,Language
+adzuna_5810818317,Airflow,Orchestration
+adzuna_5810818317,Snowflake,Warehouse
+adzuna_5810818317,AWS,Cloud
+adzuna_5890063513,Python,Language
+adzuna_5890063513,AWS,Cloud
+adzuna_5890063513,Azure,Cloud
+adzuna_5890063513,GCP,Cloud
+adzuna_5833388636,Scala,Language
+adzuna_5833388636,Spark,Big Data
+adzuna_5794822526,Snowflake,Warehouse
+adzuna_5794822526,AWS,Cloud
+adzuna_5872872189,Python,Language
+adzuna_5872872189,Snowflake,Warehouse
+adzuna_5872872189,AWS,Cloud
+adzuna_5872872189,Azure,Cloud
+adzuna_5872872189,GCP,Cloud
+adzuna_5872872189,Docker,DevOps
+adzuna_5872872189,Kubernetes,DevOps
+adzuna_5872872190,Python,Language
+adzuna_5872872190,Snowflake,Warehouse
+adzuna_5872872190,AWS,Cloud
+adzuna_5872872190,Azure,Cloud
+adzuna_5872872190,GCP,Cloud
+adzuna_5872872190,Docker,DevOps
+adzuna_5872872190,Kubernetes,DevOps
+adzuna_5872872187,Python,Language
+adzuna_5872872187,Snowflake,Warehouse
+adzuna_5872872187,AWS,Cloud
+adzuna_5872872187,Azure,Cloud
+adzuna_5872872187,GCP,Cloud
+adzuna_5872872187,Docker,DevOps
+adzuna_5872872187,Kubernetes,DevOps
+adzuna_5872872191,Python,Language
+adzuna_5872872191,Snowflake,Warehouse
+adzuna_5872872191,AWS,Cloud
+adzuna_5872872191,Azure,Cloud
+adzuna_5872872191,GCP,Cloud
+adzuna_5872872191,Docker,DevOps
+adzuna_5872872191,Kubernetes,DevOps
+adzuna_5872872192,Python,Language
+adzuna_5872872192,Snowflake,Warehouse
+adzuna_5872872192,AWS,Cloud
+adzuna_5872872192,Azure,Cloud
+adzuna_5872872192,GCP,Cloud
+adzuna_5872872192,Docker,DevOps
+adzuna_5872872192,Kubernetes,DevOps
+adzuna_5870231388,SQL,Language
+adzuna_5870231388,Python,Language
+adzuna_5870231388,Databricks,Warehouse
+adzuna_5870231388,Azure,Cloud
+adzuna_5890333451,SQL,Language
+adzuna_5890333451,Kafka,Big Data
+adzuna_5890333451,Kubernetes,DevOps
+adzuna_5810820101,AWS,Cloud
+adzuna_5810820101,Statistics,Statistics
+adzuna_5812257379,Azure,Cloud
+adzuna_5900920905,SQL,Language
+adzuna_5900920905,Spark,Big Data
+adzuna_5822519821,Kubernetes,DevOps
+adzuna_5899446717,SQL,Language
+adzuna_5899446717,Python,Language
+adzuna_5899446717,Spark,Big Data
+adzuna_5899446717,Kafka,Big Data
+adzuna_5899446717,AWS,Cloud
+adzuna_5907675137,SQL,Language
+adzuna_5907675137,Python,Language
+adzuna_5907675137,Databricks,Warehouse
+adzuna_5907675137,AWS,Cloud
+adzuna_5907675137,Git,DevOps
+adzuna_5905236029,SQL,Language
+adzuna_5905236029,Python,Language
+adzuna_5905236029,Airflow,Orchestration
+adzuna_5905236029,BigQuery,Warehouse
+adzuna_5905236029,Power BI,BI
+adzuna_5905236029,GCP,Cloud
+adzuna_5905236034,SQL,Language
+adzuna_5905236034,Python,Language
+adzuna_5905236034,Airflow,Orchestration
+adzuna_5905236034,BigQuery,Warehouse
+adzuna_5905236034,Power BI,BI
+adzuna_5905236034,GCP,Cloud
+adzuna_5905236035,SQL,Language
+adzuna_5905236035,Python,Language
+adzuna_5905236035,Airflow,Orchestration
+adzuna_5905236035,BigQuery,Warehouse
+adzuna_5905236035,Power BI,BI
+adzuna_5905236035,GCP,Cloud
+adzuna_5905236027,SQL,Language
+adzuna_5905236027,Python,Language
+adzuna_5905236027,Airflow,Orchestration
+adzuna_5905236027,BigQuery,Warehouse
+adzuna_5905236027,Power BI,BI
+adzuna_5905236027,GCP,Cloud
+adzuna_5905236026,SQL,Language
+adzuna_5905236026,Python,Language
+adzuna_5905236026,Airflow,Orchestration
+adzuna_5905236026,BigQuery,Warehouse
+adzuna_5905236026,Power BI,BI
+adzuna_5905236026,GCP,Cloud
+adzuna_5905236036,SQL,Language
+adzuna_5905236036,Python,Language
+adzuna_5905236036,Airflow,Orchestration
+adzuna_5905236036,BigQuery,Warehouse
+adzuna_5905236036,Power BI,BI
+adzuna_5905236036,GCP,Cloud
+adzuna_5905236039,SQL,Language
+adzuna_5905236039,Python,Language
+adzuna_5905236039,Airflow,Orchestration
+adzuna_5905236039,BigQuery,Warehouse
+adzuna_5905236039,Power BI,BI
+adzuna_5905236039,GCP,Cloud
+adzuna_5905236040,SQL,Language
+adzuna_5905236040,Python,Language
+adzuna_5905236040,Airflow,Orchestration
+adzuna_5905236040,BigQuery,Warehouse
+adzuna_5905236040,Power BI,BI
+adzuna_5905236040,GCP,Cloud
+adzuna_5905236037,SQL,Language
+adzuna_5905236037,Python,Language
+adzuna_5905236037,Airflow,Orchestration
+adzuna_5905236037,BigQuery,Warehouse
+adzuna_5905236037,Power BI,BI
+adzuna_5905236037,GCP,Cloud
+adzuna_5905236028,SQL,Language
+adzuna_5905236028,Python,Language
+adzuna_5905236028,Airflow,Orchestration
+adzuna_5905236028,BigQuery,Warehouse
+adzuna_5905236028,Power BI,BI
+adzuna_5905236028,GCP,Cloud
+adzuna_5905236033,SQL,Language
+adzuna_5905236033,Python,Language
+adzuna_5905236033,Airflow,Orchestration
+adzuna_5905236033,BigQuery,Warehouse
+adzuna_5905236033,Power BI,BI
+adzuna_5905236033,GCP,Cloud
+adzuna_5905236031,SQL,Language
+adzuna_5905236031,Python,Language
+adzuna_5905236031,Airflow,Orchestration
+adzuna_5905236031,BigQuery,Warehouse
+adzuna_5905236031,Power BI,BI
+adzuna_5905236031,GCP,Cloud
+adzuna_5905236038,SQL,Language
+adzuna_5905236038,Python,Language
+adzuna_5905236038,Airflow,Orchestration
+adzuna_5905236038,BigQuery,Warehouse
+adzuna_5905236038,Power BI,BI
+adzuna_5905236038,GCP,Cloud
+adzuna_5905236032,SQL,Language
+adzuna_5905236032,Python,Language
+adzuna_5905236032,Airflow,Orchestration
+adzuna_5905236032,BigQuery,Warehouse
+adzuna_5905236032,Power BI,BI
+adzuna_5905236032,GCP,Cloud
+adzuna_5869310726,SQL,Language
+adzuna_5869310726,Python,Language
+adzuna_5869310726,Databricks,Warehouse
+adzuna_5896531241,SQL,Language
+adzuna_5896531241,Python,Language
+adzuna_5636067287,Python,Language
+adzuna_5636067287,dbt,Transformation
+adzuna_5636067287,Snowflake,Warehouse
+adzuna_5636067287,AWS,Cloud
+adzuna_5869810212,Azure,Cloud
+adzuna_5814793247,SQL,Language
+adzuna_5814793247,Python,Language
+adzuna_5814793247,GCP,Cloud
+adzuna_5845835185,AWS,Cloud
+adzuna_5845835185,Azure,Cloud
+adzuna_5845835185,GCP,Cloud
+adzuna_5845835185,Machine Learning,ML Area
+adzuna_5850362533,Python,Language
+adzuna_5850362533,Java,Language
+adzuna_5850362521,Python,Language
+adzuna_5850362521,Scala,Language
+adzuna_5850362521,Java,Language
+adzuna_5850362521,Spark,Big Data
+adzuna_5823875196,Snowflake,Warehouse
+adzuna_5823875196,BigQuery,Warehouse
+adzuna_5823875196,Azure,Cloud
+adzuna_5823875196,GCP,Cloud
+adzuna_5797915629,Snowflake,Warehouse
+adzuna_5797915629,BigQuery,Warehouse
+adzuna_5797915629,Azure,Cloud
+adzuna_5797915629,GCP,Cloud
+adzuna_5893454766,SQL,Language
+adzuna_5852206335,Python,Language
+adzuna_5852206335,Java,Language
+adzuna_5852206335,Kafka,Big Data
+adzuna_5831914143,Snowflake,Warehouse
+adzuna_5846619696,Kafka,Big Data
+adzuna_5388168153,Databricks,Warehouse
+adzuna_5388168153,Azure,Cloud
+adzuna_5810817583,AWS,Cloud
+adzuna_5810817583,Statistics,Statistics
+adzuna_5872872981,SQL,Language
+adzuna_5872872981,Python,Language
+adzuna_5872872981,Scala,Language
+adzuna_5872872981,Java,Language
+adzuna_5872872981,Spark,Big Data
+adzuna_5872872981,Kafka,Big Data
+adzuna_5872872981,Databricks,Warehouse
+adzuna_5872872981,AWS,Cloud
+adzuna_5872872981,Azure,Cloud
+adzuna_5872872981,GCP,Cloud
+adzuna_5872872981,Git,DevOps
+adzuna_5872872972,Python,Language
+adzuna_5872872972,Scala,Language
+adzuna_5872872972,Java,Language
+adzuna_5872872972,Spark,Big Data
+adzuna_5872872972,Kafka,Big Data
+adzuna_5872872972,Databricks,Warehouse
+adzuna_5872872972,AWS,Cloud
+adzuna_5872872972,Azure,Cloud
+adzuna_5872872972,GCP,Cloud
+adzuna_5872872972,Git,DevOps
+adzuna_5811518069,SQL,Language
+adzuna_5891500285,Databricks,Warehouse
+adzuna_5889647556,Python,Language
+adzuna_5873241100,Python,Language
+adzuna_5832321314,Airflow,Orchestration
+adzuna_5872793087,Python,Language
+adzuna_5883917743,Java,Language
+adzuna_5883917743,Databricks,Warehouse
+adzuna_5883917743,AWS,Cloud
+adzuna_5906436610,AWS,Cloud
+adzuna_5898310243,Python,Language
+adzuna_5804136779,SQL,Language
+adzuna_5804136779,Scala,Language
+adzuna_5804136779,Java,Language
+adzuna_5804136779,Spark,Big Data
+adzuna_5804136779,Hadoop,Big Data
+adzuna_5804136779,Airflow,Orchestration
+adzuna_5850362613,SQL,Language
+adzuna_5850362613,Scala,Language
+adzuna_5850362613,Java,Language
+adzuna_5850362613,Spark,Big Data
+adzuna_5850362613,Hadoop,Big Data
+adzuna_5850362613,Airflow,Orchestration
+adzuna_5894947505,BigQuery,Warehouse
+adzuna_5894947505,GCP,Cloud
+adzuna_5882400790,Python,Language
+adzuna_5882400790,Spark,Big Data
+adzuna_5882400790,Airflow,Orchestration
+adzuna_5882400790,GCP,Cloud
+adzuna_5882400790,Kubernetes,DevOps
+adzuna_5894305885,SQL,Language
+adzuna_5857133583,Kafka,Big Data
+adzuna_5888793850,Python,Language
+adzuna_5714996641,Snowflake,Warehouse
+adzuna_5714996641,Azure,Cloud
+adzuna_5643007854,SQL,Language
+adzuna_5643007854,Python,Language
+adzuna_5643007854,Java,Language
+adzuna_5643007854,BigQuery,Warehouse
+adzuna_5643007854,GCP,Cloud
+adzuna_5774809525,Databricks,Warehouse
+adzuna_5894946727,SQL,Language
+adzuna_5894946727,Python,Language
+adzuna_5894946727,Spark,Big Data
+adzuna_5894946727,Databricks,Warehouse
+adzuna_5894946727,Power BI,BI
+adzuna_5894946727,Azure,Cloud
+adzuna_5894946727,Git,DevOps
+adzuna_5885832335,SQL,Language
+adzuna_5885832335,Python,Language
+adzuna_5885832335,Databricks,Warehouse
+adzuna_5885832335,Azure,Cloud
+adzuna_5885832335,Git,DevOps
+adzuna_5905235396,SQL,Language
+adzuna_5905235396,Python,Language
+adzuna_5905235396,Spark,Big Data
+adzuna_5905235396,Power BI,BI
+adzuna_5905235396,Azure,Cloud
+adzuna_5905235396,Git,DevOps
+adzuna_5905235395,SQL,Language
+adzuna_5905235395,Python,Language
+adzuna_5905235395,Spark,Big Data
+adzuna_5905235395,Power BI,BI
+adzuna_5905235395,Azure,Cloud
+adzuna_5905235395,Git,DevOps
+adzuna_5830747512,Hadoop,Big Data
+adzuna_5830747512,GCP,Cloud
+adzuna_5891498740,Python,Language
+adzuna_5891498740,AWS,Cloud
+adzuna_5891498740,Docker,DevOps
+adzuna_5891498740,TensorFlow,ML Framework
+adzuna_5891498740,PyTorch,ML Framework
+adzuna_5891498740,Machine Learning,ML Area
+adzuna_5891498740,LLM / GenAI,ML Area
+adzuna_5891498740,MLOps,MLOps
+adzuna_5872873549,Python,Language
+adzuna_5872873549,AWS,Cloud
+adzuna_5872873549,Docker,DevOps
+adzuna_5872873549,TensorFlow,ML Framework
+adzuna_5872873549,PyTorch,ML Framework
+adzuna_5872873549,Machine Learning,ML Area
+adzuna_5872873549,LLM / GenAI,ML Area
+adzuna_5872873549,MLOps,MLOps
+adzuna_5894305816,Python,Language
+adzuna_5894305816,AWS,Cloud
+adzuna_5894305816,Docker,DevOps
+adzuna_5894305816,TensorFlow,ML Framework
+adzuna_5894305816,PyTorch,ML Framework
+adzuna_5894305816,Machine Learning,ML Area
+adzuna_5894305816,LLM / GenAI,ML Area
+adzuna_5894305816,MLOps,MLOps
+adzuna_5893118492,Python,Language
+adzuna_5893118492,AWS,Cloud
+adzuna_5893118492,Docker,DevOps
+adzuna_5893118492,TensorFlow,ML Framework
+adzuna_5893118492,PyTorch,ML Framework
+adzuna_5893118492,Machine Learning,ML Area
+adzuna_5893118492,LLM / GenAI,ML Area
+adzuna_5893118492,MLOps,MLOps
+adzuna_5894305817,Python,Language
+adzuna_5894305817,AWS,Cloud
+adzuna_5894305817,Docker,DevOps
+adzuna_5894305817,TensorFlow,ML Framework
+adzuna_5894305817,PyTorch,ML Framework
+adzuna_5894305817,Machine Learning,ML Area
+adzuna_5894305817,LLM / GenAI,ML Area
+adzuna_5894305817,MLOps,MLOps
+adzuna_5893118489,Python,Language
+adzuna_5893118489,AWS,Cloud
+adzuna_5893118489,Docker,DevOps
+adzuna_5893118489,TensorFlow,ML Framework
+adzuna_5893118489,PyTorch,ML Framework
+adzuna_5893118489,Machine Learning,ML Area
+adzuna_5893118489,LLM / GenAI,ML Area
+adzuna_5893118489,MLOps,MLOps
+adzuna_5678479836,Python,Language
+adzuna_5678479836,Java,Language
+adzuna_5678479836,Spark,Big Data
+adzuna_5678479836,Databricks,Warehouse
+adzuna_5678479836,Pandas,Library
+adzuna_5842027982,Azure,Cloud
+adzuna_5871029989,AWS,Cloud
+adzuna_5829010794,Python,Language
+adzuna_5829010794,Java,Language
+adzuna_5829010794,Spark,Big Data
+adzuna_5829010794,Databricks,Warehouse
+adzuna_5829010794,Pandas,Library
+adzuna_5888928222,Python,Language
+adzuna_5888928222,AWS,Cloud
+adzuna_5888928222,Git,DevOps
+adzuna_5880763099,Spark,Big Data
+adzuna_5872872795,Python,Language
+adzuna_5872872795,Spark,Big Data
+adzuna_5872872795,Azure,Cloud
+adzuna_5872872795,Docker,DevOps
+adzuna_5872872795,Kubernetes,DevOps
+adzuna_5872872795,Machine Learning,ML Area
+adzuna_5770108617,Python,Language
+adzuna_5770108617,Spark,Big Data
+adzuna_5770108617,Databricks,Warehouse
+adzuna_5770108617,Azure,Cloud
+adzuna_5770108617,Machine Learning,ML Area
+adzuna_5770108566,Python,Language
+adzuna_5770108566,Spark,Big Data
+adzuna_5770108566,Databricks,Warehouse
+adzuna_5770108566,Azure,Cloud
+adzuna_5770108566,Machine Learning,ML Area
+adzuna_5790509863,SQL,Language
+adzuna_5790509863,Python,Language
+adzuna_5790509863,Scala,Language
+adzuna_5895445801,MLOps,MLOps
+adzuna_5880761907,Python,Language
+adzuna_5880761907,AWS,Cloud
+adzuna_5880761907,Docker,DevOps
+adzuna_5880761907,Kubernetes,DevOps
+adzuna_5880761907,Machine Learning,ML Area
+adzuna_5880761907,LLM / GenAI,ML Area
+adzuna_5880761905,Python,Language
+adzuna_5880761905,AWS,Cloud
+adzuna_5880761905,Docker,DevOps
+adzuna_5880761905,Kubernetes,DevOps
+adzuna_5880761905,Machine Learning,ML Area
+adzuna_5880761905,LLM / GenAI,ML Area
+adzuna_5891501705,Python,Language
+adzuna_5891501705,AWS,Cloud
+adzuna_5891501705,Docker,DevOps
+adzuna_5891501705,Kubernetes,DevOps
+adzuna_5891501705,Machine Learning,ML Area
+adzuna_5891501705,LLM / GenAI,ML Area
+adzuna_5892032542,Python,Language
+adzuna_5892032542,AWS,Cloud
+adzuna_5892032542,Docker,DevOps
+adzuna_5892032542,Machine Learning,ML Area
+adzuna_5892032542,LLM / GenAI,ML Area
+adzuna_5892032542,MLOps,MLOps
+adzuna_5892032545,Python,Language
+adzuna_5892032545,AWS,Cloud
+adzuna_5892032545,Docker,DevOps
+adzuna_5892032545,Machine Learning,ML Area
+adzuna_5892032545,LLM / GenAI,ML Area
+adzuna_5892032545,MLOps,MLOps
+adzuna_5891501717,Python,Language
+adzuna_5891501717,AWS,Cloud
+adzuna_5891501717,Docker,DevOps
+adzuna_5891501717,Kubernetes,DevOps
+adzuna_5891501717,Machine Learning,ML Area
+adzuna_5891501717,LLM / GenAI,ML Area
+adzuna_5872873531,Python,Language
+adzuna_5872873531,AWS,Cloud
+adzuna_5872873531,Docker,DevOps
+adzuna_5872873531,Machine Learning,ML Area
+adzuna_5872873531,LLM / GenAI,ML Area
+adzuna_5872873531,MLOps,MLOps
+adzuna_5880761904,Python,Language
+adzuna_5880761904,AWS,Cloud
+adzuna_5880761904,Docker,DevOps
+adzuna_5880761904,Kubernetes,DevOps
+adzuna_5880761904,Machine Learning,ML Area
+adzuna_5880761904,LLM / GenAI,ML Area
+adzuna_5880761903,Python,Language
+adzuna_5880761903,AWS,Cloud
+adzuna_5880761903,Docker,DevOps
+adzuna_5880761903,Kubernetes,DevOps
+adzuna_5880761903,Machine Learning,ML Area
+adzuna_5880761903,LLM / GenAI,ML Area
+adzuna_5891498756,Python,Language
+adzuna_5891498756,AWS,Cloud
+adzuna_5891498756,Docker,DevOps
+adzuna_5891498756,Machine Learning,ML Area
+adzuna_5891498756,LLM / GenAI,ML Area
+adzuna_5891498756,MLOps,MLOps
+adzuna_5892032533,Python,Language
+adzuna_5892032533,AWS,Cloud
+adzuna_5892032533,Docker,DevOps
+adzuna_5892032533,Machine Learning,ML Area
+adzuna_5892032533,LLM / GenAI,ML Area
+adzuna_5892032533,MLOps,MLOps
+adzuna_5892032544,Python,Language
+adzuna_5892032544,AWS,Cloud
+adzuna_5892032544,Docker,DevOps
+adzuna_5892032544,Machine Learning,ML Area
+adzuna_5892032544,LLM / GenAI,ML Area
+adzuna_5892032544,MLOps,MLOps
+adzuna_5891501328,SQL,Language
+adzuna_5891501328,Python,Language
+adzuna_5891501328,Databricks,Warehouse
+adzuna_5891501328,Azure,Cloud
+adzuna_5891501328,LLM / GenAI,ML Area
+adzuna_5791659552,Java,Language
+adzuna_5791659552,Kubernetes,DevOps
+adzuna_5881185454,LLM / GenAI,ML Area
+adzuna_5880679757,LLM / GenAI,ML Area
+adzuna_5810004131,Snowflake,Warehouse
+adzuna_5810004131,AWS,Cloud
+adzuna_5810818310,AWS,Cloud
+adzuna_5849555469,Java,Language
+adzuna_5849555469,Kubernetes,DevOps
+adzuna_5858014543,Python,Language
+adzuna_5858014543,Airflow,Orchestration
+adzuna_5858014543,GCP,Cloud
+adzuna_5900450042,Spark,Big Data
+adzuna_5900450042,dbt,Transformation
+adzuna_5900450042,Azure,Cloud
+adzuna_5900450042,Git,DevOps
+adzuna_5900450042,PyTorch,ML Framework
+adzuna_5900450042,NLP,ML Area
+adzuna_5829291318,Power BI,BI
+adzuna_5829291318,Azure,Cloud
+adzuna_5890333058,Python,Language
+adzuna_5890333058,Java,Language
+adzuna_5890333058,Pandas,Library
+adzuna_5890333058,NumPy,Library
+adzuna_5890333058,TensorFlow,ML Framework
+adzuna_5890333058,PyTorch,ML Framework
+adzuna_5890333058,Keras,ML Framework
+adzuna_5890333058,Machine Learning,ML Area
+adzuna_5890333058,NLP,ML Area
+adzuna_5890333058,LLM / GenAI,ML Area
+adzuna_5876874859,SQL,Language
+adzuna_5876874859,Python,Language
+adzuna_5876874859,Spark,Big Data
+adzuna_5876874859,Databricks,Warehouse
+adzuna_5876874859,Power BI,BI
+adzuna_5876874859,Azure,Cloud
+adzuna_5876874860,SQL,Language
+adzuna_5876874860,Python,Language
+adzuna_5876874860,Spark,Big Data
+adzuna_5876874860,Databricks,Warehouse
+adzuna_5876874860,Power BI,BI
+adzuna_5876874860,Azure,Cloud
+adzuna_5882799673,GCP,Cloud
+adzuna_5882799673,LLM / GenAI,ML Area
+adzuna_5799902506,Azure,Cloud
+adzuna_5469838063,Databricks,Warehouse
+adzuna_5469838063,Azure,Cloud
+adzuna_5461263420,LLM / GenAI,ML Area
+adzuna_5899905002,LLM / GenAI,ML Area
+adzuna_5821043139,BigQuery,Warehouse
+adzuna_5821043139,GCP,Cloud
+adzuna_5821043139,Machine Learning,ML Area
+adzuna_5821043139,Vertex AI,MLOps
+adzuna_5893438689,AWS,Cloud
+adzuna_5859471081,SQL,Language
+adzuna_5859471081,AWS,Cloud
+adzuna_5859471081,GCP,Cloud
+adzuna_5906151966,Databricks,Warehouse
+adzuna_5852206864,Python,Language
+adzuna_5852206864,Docker,DevOps
+adzuna_5852206864,Kubernetes,DevOps
+adzuna_5852206824,Python,Language
+adzuna_5852206824,Docker,DevOps
+adzuna_5852206824,Kubernetes,DevOps
+adzuna_5899446213,Python,Language
+adzuna_5899446213,Spark,Big Data
+adzuna_5899446213,Kafka,Big Data
+adzuna_5899446213,Airflow,Orchestration
+adzuna_5899446213,AWS,Cloud
+adzuna_5881189729,Excel,BI
+adzuna_5871030090,Spark,Big Data
+adzuna_5871030090,AWS,Cloud
+adzuna_5871030090,Kubernetes,DevOps
+adzuna_5871030090,FastAPI,MLOps
+adzuna_5872873210,Kafka,Big Data
+adzuna_5872873210,LLM / GenAI,ML Area
+adzuna_5872873353,Azure,Cloud
+adzuna_5872873283,GCP,Cloud
+adzuna_5900449374,SQL,Language
+adzuna_5900449374,Python,Language
+adzuna_5900449374,GCP,Cloud
+adzuna_5898746693,AWS,Cloud
+adzuna_5906151687,Snowflake,Warehouse
+adzuna_5906151687,AWS,Cloud
+adzuna_5906151687,LLM / GenAI,ML Area
+adzuna_5880763403,SQL,Language
+adzuna_5880763403,Python,Language
+adzuna_5880763403,Spark,Big Data
+adzuna_5880763403,Hadoop,Big Data
+adzuna_5880763403,Azure,Cloud
+adzuna_5880763403,GCP,Cloud
+adzuna_5880763403,Machine Learning,ML Area
+adzuna_5880763403,MLOps,MLOps
+adzuna_5827407630,SQL,Language
+adzuna_5827407630,Looker,BI
+adzuna_5838146587,GCP,Cloud
+adzuna_5848523539,SQL,Language
+adzuna_5848523539,Python,Language
+adzuna_5848523539,LLM / GenAI,ML Area
+adzuna_5787596864,Machine Learning,ML Area
+adzuna_5787596864,LLM / GenAI,ML Area
+adzuna_5828185391,Snowflake,Warehouse
+adzuna_5828185391,Databricks,Warehouse
+adzuna_5852206781,Kafka,Big Data
+adzuna_5852206781,Docker,DevOps
+adzuna_5852206781,Kubernetes,DevOps
+adzuna_5899052842,SQL,Language
+adzuna_5899052842,Python,Language
+adzuna_5899052842,Azure,Cloud
+adzuna_5899052842,Pandas,Library
+adzuna_5899052842,scikit-learn,ML Framework
+adzuna_5899052842,TensorFlow,ML Framework
+adzuna_5899052842,PyTorch,ML Framework
+adzuna_5899052842,FastAPI,MLOps
+adzuna_5840228955,Java,Language
+adzuna_5840228955,Kafka,Big Data
+adzuna_5836636993,Redshift,Warehouse
+adzuna_5836636993,AWS,Cloud
+adzuna_5840228851,Java,Language
+adzuna_5840228851,Kafka,Big Data
+adzuna_5871029905,Spark,Big Data
+adzuna_5871029905,Databricks,Warehouse
+adzuna_5904130910,Azure,Cloud
+adzuna_5904130910,Machine Learning,ML Area
+adzuna_5841764105,Kafka,Big Data
+adzuna_5794129450,Python,Language
+adzuna_5794129450,Azure,Cloud
+adzuna_5794129450,GCP,Cloud
+adzuna_5794129450,Vertex AI,MLOps
+adzuna_5841764182,Kafka,Big Data
+adzuna_5888927565,SQL,Language
+adzuna_5888927565,Python,Language
+adzuna_5888927565,AWS,Cloud
+adzuna_5888927565,Pandas,Library
+adzuna_5841762920,Machine Learning,ML Area
+adzuna_5871674701,SQL,Language
+adzuna_5871674701,Python,Language
+adzuna_5871674701,Java,Language
+adzuna_5871674701,Azure,Cloud
+adzuna_5888927778,SQL,Language
+adzuna_5888927778,Python,Language
+adzuna_5888927778,GCP,Cloud
+adzuna_5888927778,TensorFlow,ML Framework
+adzuna_5888927778,PyTorch,ML Framework
+adzuna_5888927778,Machine Learning,ML Area
+adzuna_5870989068,Python,Language
+adzuna_5870989068,GCP,Cloud
+adzuna_5870989068,LLM / GenAI,ML Area
+adzuna_5883917751,Machine Learning,ML Area
+adzuna_5883917751,MLOps,MLOps
+adzuna_5890334317,Python,Language
+adzuna_5890334317,Spark,Big Data
+adzuna_5890334317,Snowflake,Warehouse
+adzuna_5890334317,Power BI,BI
+adzuna_5890334317,Pandas,Library
+adzuna_5890334317,NumPy,Library
+adzuna_5890334317,scikit-learn,ML Framework
+adzuna_5890334317,XGBoost/LightGBM,ML Framework
+adzuna_5890334317,NLP,ML Area
+adzuna_5890334317,LLM / GenAI,ML Area
+adzuna_5890334317,Time Series,ML Area
+adzuna_5890334317,MLflow,MLOps
+adzuna_5890334313,Python,Language
+adzuna_5890334313,Spark,Big Data
+adzuna_5890334313,Snowflake,Warehouse
+adzuna_5890334313,Power BI,BI
+adzuna_5890334313,Pandas,Library
+adzuna_5890334313,NumPy,Library
+adzuna_5890334313,scikit-learn,ML Framework
+adzuna_5890334313,XGBoost/LightGBM,ML Framework
+adzuna_5890334313,NLP,ML Area
+adzuna_5890334313,LLM / GenAI,ML Area
+adzuna_5890334313,Time Series,ML Area
+adzuna_5890334313,MLflow,MLOps
+adzuna_5890334320,Python,Language
+adzuna_5890334320,Spark,Big Data
+adzuna_5890334320,Snowflake,Warehouse
+adzuna_5890334320,Power BI,BI
+adzuna_5890334320,Pandas,Library
+adzuna_5890334320,NumPy,Library
+adzuna_5890334320,scikit-learn,ML Framework
+adzuna_5890334320,XGBoost/LightGBM,ML Framework
+adzuna_5890334320,NLP,ML Area
+adzuna_5890334320,LLM / GenAI,ML Area
+adzuna_5890334320,Time Series,ML Area
+adzuna_5890334320,MLflow,MLOps
+adzuna_5890334321,Python,Language
+adzuna_5890334321,Spark,Big Data
+adzuna_5890334321,Snowflake,Warehouse
+adzuna_5890334321,Power BI,BI
+adzuna_5890334321,Pandas,Library
+adzuna_5890334321,NumPy,Library
+adzuna_5890334321,scikit-learn,ML Framework
+adzuna_5890334321,XGBoost/LightGBM,ML Framework
+adzuna_5890334321,NLP,ML Area
+adzuna_5890334321,LLM / GenAI,ML Area
+adzuna_5890334321,Time Series,ML Area
+adzuna_5890334321,MLflow,MLOps
+adzuna_5890334308,Python,Language
+adzuna_5890334308,Spark,Big Data
+adzuna_5890334308,Snowflake,Warehouse
+adzuna_5890334308,Power BI,BI
+adzuna_5890334308,Pandas,Library
+adzuna_5890334308,NumPy,Library
+adzuna_5890334308,scikit-learn,ML Framework
+adzuna_5890334308,XGBoost/LightGBM,ML Framework
+adzuna_5890334308,NLP,ML Area
+adzuna_5890334308,LLM / GenAI,ML Area
+adzuna_5890334308,Time Series,ML Area
+adzuna_5890334308,MLflow,MLOps
+adzuna_5890334309,Python,Language
+adzuna_5890334309,Spark,Big Data
+adzuna_5890334309,Snowflake,Warehouse
+adzuna_5890334309,Power BI,BI
+adzuna_5890334309,Pandas,Library
+adzuna_5890334309,NumPy,Library
+adzuna_5890334309,scikit-learn,ML Framework
+adzuna_5890334309,XGBoost/LightGBM,ML Framework
+adzuna_5890334309,NLP,ML Area
+adzuna_5890334309,LLM / GenAI,ML Area
+adzuna_5890334309,Time Series,ML Area
+adzuna_5890334309,MLflow,MLOps
+adzuna_5890334310,Python,Language
+adzuna_5890334310,Spark,Big Data
+adzuna_5890334310,Snowflake,Warehouse
+adzuna_5890334310,Power BI,BI
+adzuna_5890334310,Pandas,Library
+adzuna_5890334310,NumPy,Library
+adzuna_5890334310,scikit-learn,ML Framework
+adzuna_5890334310,XGBoost/LightGBM,ML Framework
+adzuna_5890334310,NLP,ML Area
+adzuna_5890334310,LLM / GenAI,ML Area
+adzuna_5890334310,Time Series,ML Area
+adzuna_5890334310,MLflow,MLOps
+adzuna_5890334312,Python,Language
+adzuna_5890334312,Spark,Big Data
+adzuna_5890334312,Snowflake,Warehouse
+adzuna_5890334312,Power BI,BI
+adzuna_5890334312,Pandas,Library
+adzuna_5890334312,NumPy,Library
+adzuna_5890334312,scikit-learn,ML Framework
+adzuna_5890334312,XGBoost/LightGBM,ML Framework
+adzuna_5890334312,NLP,ML Area
+adzuna_5890334312,LLM / GenAI,ML Area
+adzuna_5890334312,Time Series,ML Area
+adzuna_5890334312,MLflow,MLOps
+adzuna_5890334314,Python,Language
+adzuna_5890334314,Spark,Big Data
+adzuna_5890334314,Snowflake,Warehouse
+adzuna_5890334314,Power BI,BI
+adzuna_5890334314,Pandas,Library
+adzuna_5890334314,NumPy,Library
+adzuna_5890334314,scikit-learn,ML Framework
+adzuna_5890334314,XGBoost/LightGBM,ML Framework
+adzuna_5890334314,NLP,ML Area
+adzuna_5890334314,LLM / GenAI,ML Area
+adzuna_5890334314,Time Series,ML Area
+adzuna_5890334314,MLflow,MLOps
+adzuna_5890334316,Python,Language
+adzuna_5890334316,Spark,Big Data
+adzuna_5890334316,Snowflake,Warehouse
+adzuna_5890334316,Power BI,BI
+adzuna_5890334316,Pandas,Library
+adzuna_5890334316,NumPy,Library
+adzuna_5890334316,scikit-learn,ML Framework
+adzuna_5890334316,XGBoost/LightGBM,ML Framework
+adzuna_5890334316,NLP,ML Area
+adzuna_5890334316,LLM / GenAI,ML Area
+adzuna_5890334316,Time Series,ML Area
+adzuna_5890334316,MLflow,MLOps
+adzuna_5890334319,Python,Language
+adzuna_5890334319,Spark,Big Data
+adzuna_5890334319,Snowflake,Warehouse
+adzuna_5890334319,Power BI,BI
+adzuna_5890334319,Pandas,Library
+adzuna_5890334319,NumPy,Library
+adzuna_5890334319,scikit-learn,ML Framework
+adzuna_5890334319,XGBoost/LightGBM,ML Framework
+adzuna_5890334319,NLP,ML Area
+adzuna_5890334319,LLM / GenAI,ML Area
+adzuna_5890334319,Time Series,ML Area
+adzuna_5890334319,MLflow,MLOps
+adzuna_5890334311,Python,Language
+adzuna_5890334311,Spark,Big Data
+adzuna_5890334311,Snowflake,Warehouse
+adzuna_5890334311,Power BI,BI
+adzuna_5890334311,Pandas,Library
+adzuna_5890334311,NumPy,Library
+adzuna_5890334311,scikit-learn,ML Framework
+adzuna_5890334311,XGBoost/LightGBM,ML Framework
+adzuna_5890334311,NLP,ML Area
+adzuna_5890334311,LLM / GenAI,ML Area
+adzuna_5890334311,Time Series,ML Area
+adzuna_5890334311,MLflow,MLOps
+adzuna_5890334315,Python,Language
+adzuna_5890334315,Spark,Big Data
+adzuna_5890334315,Snowflake,Warehouse
+adzuna_5890334315,Power BI,BI
+adzuna_5890334315,Pandas,Library
+adzuna_5890334315,NumPy,Library
+adzuna_5890334315,scikit-learn,ML Framework
+adzuna_5890334315,XGBoost/LightGBM,ML Framework
+adzuna_5890334315,NLP,ML Area
+adzuna_5890334315,LLM / GenAI,ML Area
+adzuna_5890334315,Time Series,ML Area
+adzuna_5890334315,MLflow,MLOps
+adzuna_5890334318,Python,Language
+adzuna_5890334318,Spark,Big Data
+adzuna_5890334318,Snowflake,Warehouse
+adzuna_5890334318,Power BI,BI
+adzuna_5890334318,Pandas,Library
+adzuna_5890334318,NumPy,Library
+adzuna_5890334318,scikit-learn,ML Framework
+adzuna_5890334318,XGBoost/LightGBM,ML Framework
+adzuna_5890334318,NLP,ML Area
+adzuna_5890334318,LLM / GenAI,ML Area
+adzuna_5890334318,Time Series,ML Area
+adzuna_5890334318,MLflow,MLOps
+adzuna_5855310033,Databricks,Warehouse
+adzuna_5843275500,Snowflake,Warehouse
+adzuna_5843275500,AWS,Cloud
+adzuna_5880762997,SQL,Language
+adzuna_5880762997,Python,Language
+adzuna_5880762997,Hadoop,Big Data
+adzuna_5880762997,BigQuery,Warehouse
+adzuna_5880762997,GCP,Cloud
+adzuna_5880762997,LLM / GenAI,ML Area
+adzuna_5880762997,FastAPI,MLOps
+adzuna_5868516695,SQL,Language
+adzuna_5868516695,Python,Language
+adzuna_5868516695,Spark,Big Data
+adzuna_5868516695,AWS,Cloud
+adzuna_5885831396,SQL,Language
+adzuna_5885831396,Python,Language
+adzuna_5885831396,Snowflake,Warehouse
+adzuna_5885831396,Databricks,Warehouse
+adzuna_5885831396,Power BI,BI
+adzuna_5885831396,Azure,Cloud
+adzuna_5885831396,Git,DevOps
+adzuna_5838648034,Python,Language
+adzuna_5838648034,Spark,Big Data
+adzuna_5897761326,Python,Language
+adzuna_5897761326,Azure,Cloud
+adzuna_5897761326,FastAPI,MLOps
+adzuna_5906151413,Snowflake,Warehouse
+adzuna_5906151413,AWS,Cloud
+adzuna_5906151413,Machine Learning,ML Area
+adzuna_5823141740,SQL,Language
+adzuna_5823141740,Airflow,Orchestration
+adzuna_5823141740,dbt,Transformation
+adzuna_5823141740,Snowflake,Warehouse
+adzuna_5823141740,Git,DevOps
+adzuna_5860510486,SQL,Language
+adzuna_5860510486,Python,Language
+adzuna_5860510486,Pandas,Library
+adzuna_5860510486,NumPy,Library
+adzuna_5742747042,GCP,Cloud
+adzuna_5876875225,SQL,Language
+adzuna_5876875225,Databricks,Warehouse
+adzuna_5881188473,dbt,Transformation
+adzuna_5879136932,SQL,Language
+adzuna_5879136932,BigQuery,Warehouse
+adzuna_5879136932,LLM / GenAI,ML Area
+adzuna_5886519805,Snowflake,Warehouse
+adzuna_5886519805,Databricks,Warehouse
+adzuna_5886519805,AWS,Cloud
+adzuna_5886519805,GCP,Cloud
+adzuna_5886519805,Machine Learning,ML Area
+adzuna_5821309829,Machine Learning,ML Area
+adzuna_5796896367,Snowflake,Warehouse
+adzuna_5796896367,AWS,Cloud
+adzuna_5853748046,SQL,Language
+adzuna_5853748046,Python,Language
+adzuna_5853748046,Power BI,BI
+adzuna_5853748046,Azure,Cloud
+adzuna_5852443604,SQL,Language
+adzuna_5852443604,Python,Language
+adzuna_5852443604,Power BI,BI
+adzuna_5852443604,Azure,Cloud
+adzuna_5898061312,SQL,Language
+adzuna_5879137048,SQL,Language
+adzuna_5879137048,Tableau,BI
+adzuna_5904533512,Power BI,BI
+adzuna_5879434443,SQL,Language
+adzuna_5879434443,Power BI,BI
+adzuna_5879434443,Excel,BI
+adzuna_5828185503,Power BI,BI
+adzuna_5885168417,Power BI,BI
+adzuna_5855311207,Power BI,BI
+adzuna_5826863316,Power BI,BI
+adzuna_5826863298,Power BI,BI
+adzuna_5868518167,Power BI,BI
+adzuna_5882401537,SQL,Language
+adzuna_5882401537,Power BI,BI
+adzuna_5882401537,Azure,Cloud
+adzuna_5882401537,Git,DevOps
+adzuna_5882401535,SQL,Language
+adzuna_5882401535,Power BI,BI
+adzuna_5882401535,Azure,Cloud
+adzuna_5882401535,Git,DevOps
+adzuna_5891502095,Power BI,BI
+adzuna_5891502095,GCP,Cloud
+adzuna_5897124820,Power BI,BI
+adzuna_5858013821,SQL,Language
+adzuna_5858013821,Python,Language
+adzuna_5858013821,Spark,Big Data
+adzuna_5858013821,Power BI,BI
+adzuna_5858013821,Azure,Cloud
+adzuna_5858013821,Git,DevOps
+adzuna_5829428035,Power BI,BI
+adzuna_5855309696,Power BI,BI
+adzuna_5899445887,SQL,Language
+adzuna_5899445887,Databricks,Warehouse
+adzuna_5899445887,Azure,Cloud
+adzuna_5798339304,Looker,BI
+adzuna_5852443988,Power BI,BI
+adzuna_5852443988,Azure,Cloud
+adzuna_4905675500,Power BI,BI
+adzuna_5829011429,Power BI,BI
+adzuna_5902291769,SQL,Language
+adzuna_5902291769,Python,Language
+adzuna_5902291769,Snowflake,Warehouse
+adzuna_5830747186,Power BI,BI
+adzuna_5903636840,Power BI,BI
+adzuna_5903636840,Excel,BI
+adzuna_5882401060,SQL,Language
+adzuna_5882401060,Python,Language
+adzuna_5882401060,dbt,Transformation
+adzuna_5882401060,Snowflake,Warehouse
+adzuna_5882401060,Power BI,BI
+adzuna_5882401060,Azure,Cloud
+adzuna_5882401060,Git,DevOps
+adzuna_5834199219,Power BI,BI
+adzuna_5903635918,SQL,Language
+adzuna_5903635918,Python,Language
+adzuna_5903635918,Snowflake,Warehouse
+adzuna_5903635918,Git,DevOps
+adzuna_5880762129,SQL,Language
+adzuna_5880762129,Python,Language
+adzuna_5880762129,Airflow,Orchestration
+adzuna_5880762129,dbt,Transformation
+adzuna_5880762129,Snowflake,Warehouse
+adzuna_5880762129,Power BI,BI
+adzuna_5876475362,SQL,Language
+adzuna_5876475362,Pandas,Library
+adzuna_5876475362,NumPy,Library
+adzuna_5876475362,Machine Learning,ML Area
+adzuna_5876475362,Statistics,Statistics
+adzuna_5856185840,SQL,Language
+adzuna_5856185840,Docker,DevOps
+adzuna_5856185840,Kubernetes,DevOps
+adzuna_5856185840,Pandas,Library
+adzuna_5856185840,scikit-learn,ML Framework
+adzuna_5856185840,XGBoost/LightGBM,ML Framework
+adzuna_5856185840,Machine Learning,ML Area
+adzuna_5856185840,MLOps,MLOps
+adzuna_5886996424,Python,Language
+adzuna_5886996424,Machine Learning,ML Area
+adzuna_5886996424,NLP,ML Area
+adzuna_5886996424,LLM / GenAI,ML Area
+adzuna_5856185795,SQL,Language
+adzuna_5856185795,Python,Language
+adzuna_5856185795,Spark,Big Data
+adzuna_5856185795,Airflow,Orchestration
+adzuna_5856185795,dbt,Transformation
+adzuna_5856185795,GCP,Cloud
+adzuna_5886996421,Python,Language
+adzuna_5886996421,LLM / GenAI,ML Area
+adzuna_5843808593,SQL,Language
+adzuna_5843808593,Excel,BI
+adzuna_5583147805,SQL,Language
+adzuna_5583147805,Python,Language
+adzuna_5583147805,Spark,Big Data
+adzuna_5583147805,Pandas,Library
+adzuna_5583147805,NumPy,Library
+adzuna_5583147805,Jupyter,Library
+adzuna_5583147805,scikit-learn,ML Framework
+adzuna_5583147805,TensorFlow,ML Framework
+adzuna_5583147805,PyTorch,ML Framework
+adzuna_5583147805,Keras,ML Framework
+adzuna_5583147805,XGBoost/LightGBM,ML Framework
+adzuna_5583147805,Machine Learning,ML Area
+adzuna_5845835172,Python,Language
+adzuna_5845835172,scikit-learn,ML Framework
+adzuna_5845835172,PyTorch,ML Framework
+adzuna_5845835172,Machine Learning,ML Area
+adzuna_5845835172,NLP,ML Area
+adzuna_5845835172,LLM / GenAI,ML Area
+adzuna_5845835172,Computer Vision,ML Area
+adzuna_5890063637,Python,Language
+adzuna_5890063637,Spark,Big Data
+adzuna_5890063637,Databricks,Warehouse
+adzuna_5890063637,Machine Learning,ML Area
+adzuna_5890063637,MLflow,MLOps
+adzuna_5903298376,Python,Language
+adzuna_5903298376,Machine Learning,ML Area
+adzuna_5903298376,LLM / GenAI,ML Area
+adzuna_5869810316,LLM / GenAI,ML Area
+adzuna_5890063597,Python,Language
+adzuna_5890063597,Pandas,Library
+adzuna_5890063597,NumPy,Library
+adzuna_5890063597,scikit-learn,ML Framework
+adzuna_5890063597,Time Series,ML Area
+adzuna_5890063597,Statistics,Statistics
+adzuna_5885467620,SQL,Language
+adzuna_5885467620,Machine Learning,ML Area
+adzuna_5885467620,Time Series,ML Area
+adzuna_5885467620,Statistics,Statistics
+adzuna_5903298453,SQL,Language
+adzuna_5903298453,Python,Language
+adzuna_5903298453,Spark,Big Data
+adzuna_5903298453,Pandas,Library
+adzuna_5903298453,XGBoost/LightGBM,ML Framework
+adzuna_5903298453,Machine Learning,ML Area
+adzuna_5893454723,Python,Language
+adzuna_5893454723,Pandas,Library
+adzuna_5893454723,NumPy,Library
+adzuna_5893454723,scikit-learn,ML Framework
+adzuna_5893454723,XGBoost/LightGBM,ML Framework
+adzuna_5893454723,Machine Learning,ML Area
+adzuna_5893454723,Time Series,ML Area
+adzuna_5906882753,Statistics,Statistics
+adzuna_5795555616,Machine Learning,ML Area
+adzuna_5822519871,Machine Learning,ML Area
+adzuna_5879433833,Python,Language
+adzuna_5879433833,Scala,Language
+adzuna_5879433833,Java,Language
+adzuna_5879433833,Spark,Big Data
+adzuna_5879433833,Hadoop,Big Data
+adzuna_5879433833,Pandas,Library
+adzuna_5879433833,NumPy,Library
+adzuna_5879433833,Machine Learning,ML Area
+adzuna_5879433833,LLM / GenAI,ML Area
+adzuna_5882108963,LLM / GenAI,ML Area
+adzuna_5882108955,LLM / GenAI,ML Area
+adzuna_5890333946,SQL,Language
+adzuna_5890333946,Python,Language
+adzuna_5890333946,Spark,Big Data
+adzuna_5890333946,AWS,Cloud
+adzuna_5890333946,GCP,Cloud
+adzuna_5890333946,Docker,DevOps
+adzuna_5890333946,Machine Learning,ML Area
+adzuna_5890333946,MLOps,MLOps
+adzuna_5890333947,SQL,Language
+adzuna_5890333947,Python,Language
+adzuna_5890333947,Spark,Big Data
+adzuna_5890333947,AWS,Cloud
+adzuna_5890333947,GCP,Cloud
+adzuna_5890333947,Docker,DevOps
+adzuna_5890333947,Machine Learning,ML Area
+adzuna_5890333947,MLOps,MLOps
+adzuna_4599787936,Machine Learning,ML Area
+adzuna_5890333148,Python,Language
+adzuna_5890333148,GCP,Cloud
+adzuna_5890333148,Docker,DevOps
+adzuna_5890333148,Kubernetes,DevOps
+adzuna_5890333148,Git,DevOps
+adzuna_5801919656,Machine Learning,ML Area
+adzuna_5801919656,Statistics,Statistics
+adzuna_5801919656,A/B Testing,Statistics
+adzuna_5804813996,Machine Learning,ML Area
+adzuna_5804813996,Statistics,Statistics
+adzuna_5903637011,Python,Language
+adzuna_5903637011,NumPy,Library
+adzuna_5903637011,scikit-learn,ML Framework
+adzuna_5903637011,PyTorch,ML Framework
+adzuna_5903637011,Machine Learning,ML Area
+adzuna_5858013744,SQL,Language
+adzuna_5858013744,Python,Language
+adzuna_5858013744,Docker,DevOps
+adzuna_5858013744,Kubernetes,DevOps
+adzuna_5821044339,Machine Learning,ML Area
+adzuna_5821044339,Statistics,Statistics
+adzuna_5821044339,A/B Testing,Statistics
+adzuna_4802308720,SQL,Language
+adzuna_4802307199,SQL,Language
+adzuna_5843281616,Machine Learning,ML Area
+adzuna_5843281616,Time Series,ML Area
+adzuna_5838744528,SQL,Language
+adzuna_5838744528,Python,Language
+adzuna_5838744528,Power BI,BI
+adzuna_5838744528,Machine Learning,ML Area
+adzuna_5898718439,Machine Learning,ML Area
+adzuna_5898718439,A/B Testing,Statistics
+adzuna_5906150613,Snowflake,Warehouse
+adzuna_5906150613,AWS,Cloud
+adzuna_5831914353,Machine Learning,ML Area
+adzuna_5857133908,Spark,Big Data
+adzuna_5857133908,GCP,Cloud
+adzuna_5858488395,Machine Learning,ML Area
+adzuna_5345302464,LLM / GenAI,ML Area
+adzuna_5871029834,Machine Learning,ML Area
+adzuna_5890333955,SQL,Language
+adzuna_5890333955,Python,Language
+adzuna_5890333955,Pandas,Library
+adzuna_5890333955,NumPy,Library
+adzuna_5890333955,scikit-learn,ML Framework
+adzuna_5890333955,Machine Learning,ML Area
+adzuna_5890333413,SQL,Language
+adzuna_5890333413,Python,Language
+adzuna_5890333413,Pandas,Library
+adzuna_5890333413,NumPy,Library
+adzuna_5890333413,scikit-learn,ML Framework
+adzuna_5890333413,Machine Learning,ML Area
+adzuna_5871029325,Machine Learning,ML Area
+adzuna_5871029325,LLM / GenAI,ML Area
+adzuna_5821044360,Machine Learning,ML Area
+adzuna_5821044360,LLM / GenAI,ML Area
+adzuna_5821044360,A/B Testing,Statistics
+adzuna_5899429490,Python,Language
+adzuna_5899429490,Machine Learning,ML Area
+adzuna_5871674378,Python,Language
+adzuna_5871674378,LLM / GenAI,ML Area
+adzuna_5761851821,Deep Learning,ML Area
+adzuna_5761851821,NLP,ML Area
+adzuna_5900798613,Databricks,Warehouse
+adzuna_5876126800,Machine Learning,ML Area
+adzuna_5876126800,Statistics,Statistics
+adzuna_5877892669,Machine Learning,ML Area
+adzuna_5877892669,LLM / GenAI,ML Area
+adzuna_5804815389,Statistics,Statistics
+adzuna_5884281124,Machine Learning,ML Area
+adzuna_5884281189,Machine Learning,ML Area
+adzuna_5884281184,Machine Learning,ML Area
+adzuna_5884281149,Machine Learning,ML Area
+adzuna_5884281168,Machine Learning,ML Area
+adzuna_5884281167,Machine Learning,ML Area
+adzuna_5884281141,Machine Learning,ML Area
+adzuna_5852444085,Machine Learning,ML Area
+adzuna_5843281501,NLP,ML Area
+adzuna_5843281501,LLM / GenAI,ML Area
+adzuna_5843281501,Computer Vision,ML Area
+adzuna_5898061501,SQL,Language
+adzuna_5898061501,Python,Language
+adzuna_5898061501,AWS,Cloud
+adzuna_5898061501,GCP,Cloud
+adzuna_5898061501,Machine Learning,ML Area
+adzuna_5856528856,SQL,Language
+adzuna_5856528856,Python,Language
+adzuna_5856528856,Docker,DevOps
+adzuna_5856528856,Kubernetes,DevOps
+adzuna_5856528856,Pandas,Library
+adzuna_5856528856,scikit-learn,ML Framework
+adzuna_5856528856,XGBoost/LightGBM,ML Framework
+adzuna_5840489023,LLM / GenAI,ML Area
+adzuna_5871029828,Machine Learning,ML Area
+adzuna_5814609653,LLM / GenAI,ML Area
+adzuna_5840489640,Snowflake,Warehouse
+adzuna_5840489640,Azure,Cloud
+adzuna_5891501679,SQL,Language
+adzuna_5891501679,Python,Language
+adzuna_5891501679,Airflow,Orchestration
+adzuna_5891501679,dbt,Transformation
+adzuna_5891501679,BigQuery,Warehouse
+adzuna_5891501679,GCP,Cloud
+adzuna_5891501679,Pandas,Library
+adzuna_5891501679,scikit-learn,ML Framework
+adzuna_5891501679,XGBoost/LightGBM,ML Framework
+adzuna_5891501679,LLM / GenAI,ML Area
+adzuna_5891501679,Vertex AI,MLOps
+adzuna_5891501658,SQL,Language
+adzuna_5891501658,Python,Language
+adzuna_5891501658,Airflow,Orchestration
+adzuna_5891501658,dbt,Transformation
+adzuna_5891501658,BigQuery,Warehouse
+adzuna_5891501658,GCP,Cloud
+adzuna_5891501658,Pandas,Library
+adzuna_5891501658,scikit-learn,ML Framework
+adzuna_5891501658,XGBoost/LightGBM,ML Framework
+adzuna_5891501658,LLM / GenAI,ML Area
+adzuna_5891501658,Vertex AI,MLOps
+adzuna_5891500581,SQL,Language
+adzuna_5891500581,Python,Language
+adzuna_5891500581,BigQuery,Warehouse
+adzuna_5891500581,GCP,Cloud
+adzuna_5891500581,Machine Learning,ML Area
+adzuna_5891500581,A/B Testing,Statistics
+adzuna_5891500581,Vertex AI,MLOps
+adzuna_5891500506,SQL,Language
+adzuna_5891500506,Python,Language
+adzuna_5891500506,BigQuery,Warehouse
+adzuna_5891500506,GCP,Cloud
+adzuna_5891500506,Machine Learning,ML Area
+adzuna_5891500506,A/B Testing,Statistics
+adzuna_5891500506,Vertex AI,MLOps
+adzuna_5891500508,SQL,Language
+adzuna_5891500508,Python,Language
+adzuna_5891500508,BigQuery,Warehouse
+adzuna_5891500508,GCP,Cloud
+adzuna_5891500508,Machine Learning,ML Area
+adzuna_5891500508,A/B Testing,Statistics
+adzuna_5891500508,Vertex AI,MLOps
+adzuna_5891500650,SQL,Language
+adzuna_5891500650,Python,Language
+adzuna_5891500650,BigQuery,Warehouse
+adzuna_5891500650,GCP,Cloud
+adzuna_5891500650,Machine Learning,ML Area
+adzuna_5891500650,A/B Testing,Statistics
+adzuna_5891500650,Vertex AI,MLOps
+adzuna_5891500544,SQL,Language
+adzuna_5891500544,Python,Language
+adzuna_5891500544,BigQuery,Warehouse
+adzuna_5891500544,GCP,Cloud
+adzuna_5891500544,Machine Learning,ML Area
+adzuna_5891500544,A/B Testing,Statistics
+adzuna_5891500544,Vertex AI,MLOps
+adzuna_5867271834,Machine Learning,ML Area
+adzuna_5867271834,LLM / GenAI,ML Area
+adzuna_5841098266,Machine Learning,ML Area
+adzuna_5899445467,SQL,Language
+adzuna_5899445467,Python,Language
+adzuna_5899445467,Spark,Big Data
+adzuna_5899445467,Pandas,Library
+adzuna_5899445467,Machine Learning,ML Area
+adzuna_5861998879,Machine Learning,ML Area
+adzuna_5861998879,NLP,ML Area
+adzuna_5861998791,Machine Learning,ML Area
+adzuna_5861998791,NLP,ML Area
+adzuna_5905235534,Machine Learning,ML Area
+adzuna_5905235534,NLP,ML Area
+adzuna_5905235533,Machine Learning,ML Area
+adzuna_5905235533,NLP,ML Area
+adzuna_5885831812,SQL,Language
+adzuna_5885831812,Python,Language
+adzuna_5885831812,Git,DevOps
+adzuna_5885832108,SQL,Language
+adzuna_5885832108,Python,Language
+adzuna_5885832108,Git,DevOps
+adzuna_5878157160,SQL,Language
+adzuna_5878157160,Statistics,Statistics
+adzuna_5833691207,Deep Learning,ML Area
+adzuna_5833691207,Time Series,ML Area
+adzuna_5833691299,Deep Learning,ML Area
+adzuna_5833691299,Time Series,ML Area
+adzuna_5833692489,Deep Learning,ML Area
+adzuna_5833692489,Time Series,ML Area
+adzuna_5900449327,SQL,Language
+adzuna_5900449327,Python,Language
+adzuna_5900449327,GCP,Cloud
+adzuna_5841098274,Machine Learning,ML Area
+adzuna_5790509861,Statistics,Statistics
+adzuna_5897130370,Python,Language
+adzuna_5885168393,Machine Learning,ML Area
+adzuna_5885168393,LLM / GenAI,ML Area
+adzuna_5885168393,Statistics,Statistics
+adzuna_5853437069,Machine Learning,ML Area
+adzuna_5853437069,Deep Learning,ML Area
+adzuna_5906151122,Machine Learning,ML Area
+adzuna_5857133830,Azure,Cloud
+adzuna_5857133830,Machine Learning,ML Area
+adzuna_5857133830,LLM / GenAI,ML Area
+adzuna_5907496519,Machine Learning,ML Area
+adzuna_5896530069,Python,Language
+adzuna_5896530069,Snowflake,Warehouse
+adzuna_5896530069,Pandas,Library
+adzuna_5896530069,NumPy,Library
+adzuna_5896530069,Machine Learning,ML Area
+adzuna_5896530069,LLM / GenAI,ML Area
+adzuna_5896530069,Computer Vision,ML Area
+adzuna_5896530072,Python,Language
+adzuna_5896530072,Snowflake,Warehouse
+adzuna_5896530072,Pandas,Library
+adzuna_5896530072,NumPy,Library
+adzuna_5896530072,Machine Learning,ML Area
+adzuna_5896530072,LLM / GenAI,ML Area
+adzuna_5896530072,Computer Vision,ML Area
+adzuna_5896530101,Python,Language
+adzuna_5896530101,Snowflake,Warehouse
+adzuna_5896530101,Pandas,Library
+adzuna_5896530101,NumPy,Library
+adzuna_5896530101,Machine Learning,ML Area
+adzuna_5896530101,LLM / GenAI,ML Area
+adzuna_5896530101,Computer Vision,ML Area
+adzuna_5896530127,Python,Language
+adzuna_5896530127,Snowflake,Warehouse
+adzuna_5896530127,Pandas,Library
+adzuna_5896530127,NumPy,Library
+adzuna_5896530127,Machine Learning,ML Area
+adzuna_5896530127,LLM / GenAI,ML Area
+adzuna_5896530127,Computer Vision,ML Area
+adzuna_5896530153,Python,Language
+adzuna_5896530153,Snowflake,Warehouse
+adzuna_5896530153,Pandas,Library
+adzuna_5896530153,NumPy,Library
+adzuna_5896530153,Machine Learning,ML Area
+adzuna_5896530153,LLM / GenAI,ML Area
+adzuna_5896530153,Computer Vision,ML Area
+adzuna_5896529923,Python,Language
+adzuna_5896529923,Snowflake,Warehouse
+adzuna_5896529923,Pandas,Library
+adzuna_5896529923,NumPy,Library
+adzuna_5896529923,Machine Learning,ML Area
+adzuna_5896529923,LLM / GenAI,ML Area
+adzuna_5896529923,Computer Vision,ML Area
+adzuna_5896530062,Python,Language
+adzuna_5896530062,Snowflake,Warehouse
+adzuna_5896530062,Pandas,Library
+adzuna_5896530062,NumPy,Library
+adzuna_5896530062,Machine Learning,ML Area
+adzuna_5896530062,LLM / GenAI,ML Area
+adzuna_5896530062,Computer Vision,ML Area
+adzuna_5896530111,Python,Language
+adzuna_5896530111,Snowflake,Warehouse
+adzuna_5896530111,Pandas,Library
+adzuna_5896530111,NumPy,Library
+adzuna_5896530111,Machine Learning,ML Area
+adzuna_5896530111,LLM / GenAI,ML Area
+adzuna_5896530111,Computer Vision,ML Area
+adzuna_5896530196,Python,Language
+adzuna_5896530196,Snowflake,Warehouse
+adzuna_5896530196,Pandas,Library
+adzuna_5896530196,NumPy,Library
+adzuna_5896530196,Machine Learning,ML Area
+adzuna_5896530196,LLM / GenAI,ML Area
+adzuna_5896530196,Computer Vision,ML Area
+adzuna_5896530131,Python,Language
+adzuna_5896530131,Snowflake,Warehouse
+adzuna_5896530131,Pandas,Library
+adzuna_5896530131,NumPy,Library
+adzuna_5896530131,Machine Learning,ML Area
+adzuna_5896530131,LLM / GenAI,ML Area
+adzuna_5896530131,Computer Vision,ML Area
+adzuna_5896530051,Python,Language
+adzuna_5896530051,Snowflake,Warehouse
+adzuna_5896530051,Pandas,Library
+adzuna_5896530051,NumPy,Library
+adzuna_5896530051,Machine Learning,ML Area
+adzuna_5896530051,LLM / GenAI,ML Area
+adzuna_5896530051,Computer Vision,ML Area
+adzuna_5896530100,Python,Language
+adzuna_5896530100,Snowflake,Warehouse
+adzuna_5896530100,Pandas,Library
+adzuna_5896530100,NumPy,Library
+adzuna_5896530100,Machine Learning,ML Area
+adzuna_5896530100,LLM / GenAI,ML Area
+adzuna_5896530100,Computer Vision,ML Area
+adzuna_5896530133,Python,Language
+adzuna_5896530133,Snowflake,Warehouse
+adzuna_5896530133,Pandas,Library
+adzuna_5896530133,NumPy,Library
+adzuna_5896530133,Machine Learning,ML Area
+adzuna_5896530133,LLM / GenAI,ML Area
+adzuna_5896530133,Computer Vision,ML Area
+adzuna_5896530109,Python,Language
+adzuna_5896530109,Snowflake,Warehouse
+adzuna_5896530109,Pandas,Library
+adzuna_5896530109,NumPy,Library
+adzuna_5896530109,Machine Learning,ML Area
+adzuna_5896530109,LLM / GenAI,ML Area
+adzuna_5896530109,Computer Vision,ML Area
+adzuna_5829012444,Machine Learning,ML Area
+adzuna_5859471541,SQL,Language
+adzuna_5859471541,Python,Language
+adzuna_5859471541,Pandas,Library
+adzuna_5859471541,NumPy,Library
+adzuna_5859471541,scikit-learn,ML Framework
+adzuna_5859471541,Machine Learning,ML Area
+adzuna_5859471631,SQL,Language
+adzuna_5859471631,Python,Language
+adzuna_5859471631,Pandas,Library
+adzuna_5859471631,NumPy,Library
+adzuna_5859471631,scikit-learn,ML Framework
+adzuna_5859471631,Machine Learning,ML Area
+adzuna_5859471584,SQL,Language
+adzuna_5859471584,Python,Language
+adzuna_5859471584,Pandas,Library
+adzuna_5859471584,NumPy,Library
+adzuna_5859471584,scikit-learn,ML Framework
+adzuna_5859471584,Machine Learning,ML Area
+adzuna_5859471641,SQL,Language
+adzuna_5859471641,Python,Language
+adzuna_5859471641,Pandas,Library
+adzuna_5859471641,NumPy,Library
+adzuna_5859471641,scikit-learn,ML Framework
+adzuna_5859471641,Machine Learning,ML Area
+adzuna_5859471560,SQL,Language
+adzuna_5859471560,Python,Language
+adzuna_5859471560,Pandas,Library
+adzuna_5859471560,NumPy,Library
+adzuna_5859471560,scikit-learn,ML Framework
+adzuna_5859471560,Machine Learning,ML Area
+adzuna_5859471621,SQL,Language
+adzuna_5859471621,Python,Language
+adzuna_5859471621,Pandas,Library
+adzuna_5859471621,NumPy,Library
+adzuna_5859471621,scikit-learn,ML Framework
+adzuna_5859471621,Machine Learning,ML Area
+adzuna_5859471591,SQL,Language
+adzuna_5859471591,Python,Language
+adzuna_5859471591,Pandas,Library
+adzuna_5859471591,NumPy,Library
+adzuna_5859471591,scikit-learn,ML Framework
+adzuna_5859471591,Machine Learning,ML Area
+adzuna_5859471572,SQL,Language
+adzuna_5859471572,Python,Language
+adzuna_5859471572,Pandas,Library
+adzuna_5859471572,NumPy,Library
+adzuna_5859471572,scikit-learn,ML Framework
+adzuna_5859471572,Machine Learning,ML Area
+adzuna_5899446265,SQL,Language
+adzuna_5899446265,Python,Language
+adzuna_5899446265,Pandas,Library
+adzuna_5899446265,NumPy,Library
+adzuna_5899446265,scikit-learn,ML Framework
+adzuna_5899446265,Machine Learning,ML Area
+adzuna_5899446271,SQL,Language
+adzuna_5899446271,Python,Language
+adzuna_5899446271,Pandas,Library
+adzuna_5899446271,NumPy,Library
+adzuna_5899446271,scikit-learn,ML Framework
+adzuna_5899446271,Machine Learning,ML Area
+adzuna_5899446260,SQL,Language
+adzuna_5899446260,Python,Language
+adzuna_5899446260,Pandas,Library
+adzuna_5899446260,NumPy,Library
+adzuna_5899446260,scikit-learn,ML Framework
+adzuna_5899446260,Machine Learning,ML Area
+adzuna_5899446393,SQL,Language
+adzuna_5899446393,Python,Language
+adzuna_5899446393,Pandas,Library
+adzuna_5899446393,NumPy,Library
+adzuna_5899446393,scikit-learn,ML Framework
+adzuna_5899446393,Machine Learning,ML Area
+adzuna_5899446281,SQL,Language
+adzuna_5899446281,Python,Language
+adzuna_5899446281,Pandas,Library
+adzuna_5899446281,NumPy,Library
+adzuna_5899446281,scikit-learn,ML Framework
+adzuna_5899446281,Machine Learning,ML Area
+adzuna_5899446283,SQL,Language
+adzuna_5899446283,Python,Language
+adzuna_5899446283,Pandas,Library
+adzuna_5899446283,NumPy,Library
+adzuna_5899446283,scikit-learn,ML Framework
+adzuna_5899446283,Machine Learning,ML Area
+adzuna_5853437153,SQL,Language
+adzuna_5853437153,Python,Language
+adzuna_5853437153,TensorFlow,ML Framework
+adzuna_5853437153,PyTorch,ML Framework
+adzuna_5853437153,Machine Learning,ML Area
+adzuna_5825806919,Time Series,ML Area
+adzuna_5882883544,Python,Language
+adzuna_5882883544,AWS,Cloud
+adzuna_5882883544,Azure,Cloud
+adzuna_5882883544,Machine Learning,ML Area
+adzuna_5882883544,Deep Learning,ML Area
+adzuna_5882883544,LLM / GenAI,ML Area
+adzuna_5905235623,Python,Language
+adzuna_5905235623,AWS,Cloud
+adzuna_5905235623,Azure,Cloud
+adzuna_5905235623,Machine Learning,ML Area
+adzuna_5905235623,Deep Learning,ML Area
+adzuna_5905235623,LLM / GenAI,ML Area
+adzuna_5900450820,Python,Language
+adzuna_5900450820,Statistics,Statistics
+adzuna_5900450792,Python,Language
+adzuna_5900450792,Statistics,Statistics
+adzuna_5900450827,Python,Language
+adzuna_5900450827,Statistics,Statistics
+adzuna_5900450822,Python,Language
+adzuna_5900450822,Statistics,Statistics
+adzuna_5900450831,Python,Language
+adzuna_5900450831,Statistics,Statistics
+adzuna_5900450835,Python,Language
+adzuna_5900450835,Statistics,Statistics
+adzuna_5900450851,Python,Language
+adzuna_5900450851,Statistics,Statistics
+adzuna_5900450823,Python,Language
+adzuna_5900450823,Statistics,Statistics
+adzuna_5900450787,Python,Language
+adzuna_5900450787,Statistics,Statistics
+adzuna_5900450826,Python,Language
+adzuna_5900450826,Statistics,Statistics
+adzuna_5900450800,Python,Language
+adzuna_5900450800,Statistics,Statistics
+adzuna_5900450776,Python,Language
+adzuna_5900450776,Statistics,Statistics
+adzuna_5900450815,Python,Language
+adzuna_5900450815,Statistics,Statistics
+adzuna_5900450788,Python,Language
+adzuna_5900450788,Statistics,Statistics
+adzuna_5905236109,SQL,Language
+adzuna_5905236109,Python,Language
+adzuna_5905236109,Kafka,Big Data
+adzuna_5905236109,GCP,Cloud
+adzuna_5905236109,Pandas,Library
+adzuna_5905236109,LLM / GenAI,ML Area
+adzuna_5871029523,Python,Language
+adzuna_5831914295,Time Series,ML Area
+adzuna_5880762586,SQL,Language
+adzuna_5880762586,Python,Language
+adzuna_5880762586,Snowflake,Warehouse
+adzuna_5880762586,BigQuery,Warehouse
+adzuna_5880762586,Databricks,Warehouse
+adzuna_5880762586,PyTorch,ML Framework
+adzuna_5880762586,XGBoost/LightGBM,ML Framework
+adzuna_5880762586,Hugging Face,ML Framework
+adzuna_5880762586,Machine Learning,ML Area
+adzuna_5880762588,SQL,Language
+adzuna_5880762588,Python,Language
+adzuna_5880762588,Snowflake,Warehouse
+adzuna_5880762588,BigQuery,Warehouse
+adzuna_5880762588,Databricks,Warehouse
+adzuna_5880762588,PyTorch,ML Framework
+adzuna_5880762588,XGBoost/LightGBM,ML Framework
+adzuna_5880762588,Hugging Face,ML Framework
+adzuna_5880762588,Machine Learning,ML Area
+adzuna_5880762584,SQL,Language
+adzuna_5880762584,Python,Language
+adzuna_5880762584,Snowflake,Warehouse
+adzuna_5880762584,BigQuery,Warehouse
+adzuna_5880762584,Databricks,Warehouse
+adzuna_5880762584,PyTorch,ML Framework
+adzuna_5880762584,XGBoost/LightGBM,ML Framework
+adzuna_5880762584,Hugging Face,ML Framework
+adzuna_5880762584,Machine Learning,ML Area
+adzuna_5880762595,SQL,Language
+adzuna_5880762595,Python,Language
+adzuna_5880762595,Snowflake,Warehouse
+adzuna_5880762595,BigQuery,Warehouse
+adzuna_5880762595,Databricks,Warehouse
+adzuna_5880762595,PyTorch,ML Framework
+adzuna_5880762595,XGBoost/LightGBM,ML Framework
+adzuna_5880762595,Hugging Face,ML Framework
+adzuna_5880762595,Machine Learning,ML Area
+adzuna_5880762587,SQL,Language
+adzuna_5880762587,Python,Language
+adzuna_5880762587,Snowflake,Warehouse
+adzuna_5880762587,BigQuery,Warehouse
+adzuna_5880762587,Databricks,Warehouse
+adzuna_5880762587,PyTorch,ML Framework
+adzuna_5880762587,XGBoost/LightGBM,ML Framework
+adzuna_5880762587,Hugging Face,ML Framework
+adzuna_5880762587,Machine Learning,ML Area
+adzuna_5880762592,SQL,Language
+adzuna_5880762592,Python,Language
+adzuna_5880762592,Snowflake,Warehouse
+adzuna_5880762592,BigQuery,Warehouse
+adzuna_5880762592,Databricks,Warehouse
+adzuna_5880762592,PyTorch,ML Framework
+adzuna_5880762592,XGBoost/LightGBM,ML Framework
+adzuna_5880762592,Hugging Face,ML Framework
+adzuna_5880762592,Machine Learning,ML Area
+adzuna_5880762594,SQL,Language
+adzuna_5880762594,Python,Language
+adzuna_5880762594,Snowflake,Warehouse
+adzuna_5880762594,BigQuery,Warehouse
+adzuna_5880762594,Databricks,Warehouse
+adzuna_5880762594,PyTorch,ML Framework
+adzuna_5880762594,XGBoost/LightGBM,ML Framework
+adzuna_5880762594,Hugging Face,ML Framework
+adzuna_5880762594,Machine Learning,ML Area
+adzuna_5880762585,SQL,Language
+adzuna_5880762585,Python,Language
+adzuna_5880762585,Snowflake,Warehouse
+adzuna_5880762585,BigQuery,Warehouse
+adzuna_5880762585,Databricks,Warehouse
+adzuna_5880762585,PyTorch,ML Framework
+adzuna_5880762585,XGBoost/LightGBM,ML Framework
+adzuna_5880762585,Hugging Face,ML Framework
+adzuna_5880762585,Machine Learning,ML Area
+adzuna_5880762596,SQL,Language
+adzuna_5880762596,Python,Language
+adzuna_5880762596,Snowflake,Warehouse
+adzuna_5880762596,BigQuery,Warehouse
+adzuna_5880762596,Databricks,Warehouse
+adzuna_5880762596,PyTorch,ML Framework
+adzuna_5880762596,XGBoost/LightGBM,ML Framework
+adzuna_5880762596,Hugging Face,ML Framework
+adzuna_5880762596,Machine Learning,ML Area
+adzuna_5880762597,SQL,Language
+adzuna_5880762597,Python,Language
+adzuna_5880762597,Snowflake,Warehouse
+adzuna_5880762597,BigQuery,Warehouse
+adzuna_5880762597,Databricks,Warehouse
+adzuna_5880762597,PyTorch,ML Framework
+adzuna_5880762597,XGBoost/LightGBM,ML Framework
+adzuna_5880762597,Hugging Face,ML Framework
+adzuna_5880762597,Machine Learning,ML Area
+adzuna_5880762591,SQL,Language
+adzuna_5880762591,Python,Language
+adzuna_5880762591,Snowflake,Warehouse
+adzuna_5880762591,BigQuery,Warehouse
+adzuna_5880762591,Databricks,Warehouse
+adzuna_5880762591,PyTorch,ML Framework
+adzuna_5880762591,XGBoost/LightGBM,ML Framework
+adzuna_5880762591,Hugging Face,ML Framework
+adzuna_5880762591,Machine Learning,ML Area
+adzuna_5880762583,SQL,Language
+adzuna_5880762583,Python,Language
+adzuna_5880762583,Snowflake,Warehouse
+adzuna_5880762583,BigQuery,Warehouse
+adzuna_5880762583,Databricks,Warehouse
+adzuna_5880762583,PyTorch,ML Framework
+adzuna_5880762583,XGBoost/LightGBM,ML Framework
+adzuna_5880762583,Hugging Face,ML Framework
+adzuna_5880762583,Machine Learning,ML Area
+adzuna_5880762590,SQL,Language
+adzuna_5880762590,Python,Language
+adzuna_5880762590,Snowflake,Warehouse
+adzuna_5880762590,BigQuery,Warehouse
+adzuna_5880762590,Databricks,Warehouse
+adzuna_5880762590,PyTorch,ML Framework
+adzuna_5880762590,XGBoost/LightGBM,ML Framework
+adzuna_5880762590,Hugging Face,ML Framework
+adzuna_5880762590,Machine Learning,ML Area
+adzuna_5880762593,SQL,Language
+adzuna_5880762593,Python,Language
+adzuna_5880762593,Snowflake,Warehouse
+adzuna_5880762593,BigQuery,Warehouse
+adzuna_5880762593,Databricks,Warehouse
+adzuna_5880762593,PyTorch,ML Framework
+adzuna_5880762593,XGBoost/LightGBM,ML Framework
+adzuna_5880762593,Hugging Face,ML Framework
+adzuna_5880762593,Machine Learning,ML Area
+adzuna_5907674672,SQL,Language
+adzuna_5907674672,Python,Language
+adzuna_5907674672,Git,DevOps
+adzuna_5905236108,SQL,Language
+adzuna_5905236108,Python,Language
+adzuna_5905236108,Kafka,Big Data
+adzuna_5905236108,GCP,Cloud
+adzuna_5905236108,Pandas,Library
+adzuna_5905236108,LLM / GenAI,ML Area
+adzuna_5893490092,Machine Learning,ML Area
+adzuna_5884167569,Python,Language
+adzuna_5884167569,Azure,Cloud
+adzuna_5884167569,Machine Learning,ML Area
+adzuna_5884167569,LLM / GenAI,ML Area
+adzuna_5884167569,MLOps,MLOps
+adzuna_5855528980,Statistics,Statistics
+adzuna_5873773116,Machine Learning,ML Area
+adzuna_5873773116,LLM / GenAI,ML Area
+adzuna_5873773116,Statistics,Statistics
+adzuna_5903636417,SQL,Language
+adzuna_5903636417,Python,Language
+adzuna_5903636417,Azure,Cloud
+adzuna_5903636417,Docker,DevOps
+adzuna_5903636417,Kubernetes,DevOps
+adzuna_5903636417,LLM / GenAI,ML Area
+adzuna_5903636417,FastAPI,MLOps
+adzuna_5903636429,SQL,Language
+adzuna_5903636429,Python,Language
+adzuna_5903636429,Azure,Cloud
+adzuna_5903636429,Docker,DevOps
+adzuna_5903636429,Kubernetes,DevOps
+adzuna_5903636429,LLM / GenAI,ML Area
+adzuna_5903636429,FastAPI,MLOps
+adzuna_5898746670,Python,Language
+adzuna_5898746670,Azure,Cloud
+adzuna_5898746670,LLM / GenAI,ML Area
+adzuna_5898746670,FastAPI,MLOps
+adzuna_5898061391,SQL,Language
+adzuna_5898061391,Python,Language
+adzuna_5898061391,Azure,Cloud
+adzuna_5898061391,LLM / GenAI,ML Area
+adzuna_5900449790,SQL,Language
+adzuna_5900449790,Python,Language
+adzuna_5900449790,Kafka,Big Data
+adzuna_5900449790,Azure,Cloud
+adzuna_5900449790,Docker,DevOps
+adzuna_5900449790,Kubernetes,DevOps
+adzuna_5900449790,Pandas,Library
+adzuna_5900449790,scikit-learn,ML Framework
+adzuna_5900449790,TensorFlow,ML Framework
+adzuna_5900449790,PyTorch,ML Framework
+adzuna_5900449790,FastAPI,MLOps
+adzuna_5891501464,SQL,Language
+adzuna_5899446102,Python,Language
+adzuna_5899446102,Kafka,Big Data
+adzuna_5899446102,Azure,Cloud
+adzuna_5899446102,Docker,DevOps
+adzuna_5899446102,Kubernetes,DevOps
+adzuna_5899446102,Pandas,Library
+adzuna_5899446102,scikit-learn,ML Framework
+adzuna_5899446102,TensorFlow,ML Framework
+adzuna_5899446102,PyTorch,ML Framework
+adzuna_5899446102,MLflow,MLOps
+adzuna_5899446102,FastAPI,MLOps
+adzuna_5872872218,SQL,Language
+adzuna_5872872218,Python,Language
+adzuna_5872872218,Airflow,Orchestration
+adzuna_5872872218,Databricks,Warehouse
+adzuna_5872872218,GCP,Cloud
+adzuna_5872872218,Git,DevOps
+adzuna_5872872218,TensorFlow,ML Framework
+adzuna_5872872218,PyTorch,ML Framework
+adzuna_5872872218,Machine Learning,ML Area
+adzuna_5871030262,MLOps,MLOps
+adzuna_5885831418,SQL,Language
+adzuna_5885831418,Docker,DevOps
+adzuna_5885831418,Kubernetes,DevOps
+adzuna_5891501618,SQL,Language
+adzuna_5891501618,Spark,Big Data
+adzuna_5891501618,Kafka,Big Data
+adzuna_5891501618,Databricks,Warehouse
+adzuna_5891501618,AWS,Cloud
+adzuna_5891501618,Azure,Cloud
+adzuna_5891501618,GCP,Cloud
+adzuna_5885831033,Python,Language
+adzuna_5885831033,LLM / GenAI,ML Area
+adzuna_5891501640,Python,Language
+adzuna_5891501640,Kafka,Big Data
+adzuna_5891501640,Airflow,Orchestration
+adzuna_5891501640,AWS,Cloud
+adzuna_5891501640,Azure,Cloud
+adzuna_5891501640,GCP,Cloud
+adzuna_5891501640,Docker,DevOps
+adzuna_5891501640,Kubernetes,DevOps
+adzuna_5891501640,Git,DevOps
+adzuna_5891501640,TensorFlow,ML Framework
+adzuna_5891501640,PyTorch,ML Framework
+adzuna_5891501640,LLM / GenAI,ML Area
+adzuna_5891501640,MLOps,MLOps
+adzuna_5891501640,MLflow,MLOps
+adzuna_5904130113,Statistics,Statistics
+adzuna_5890333805,Python,Language
+adzuna_5890333805,AWS,Cloud
+adzuna_5890333805,Machine Learning,ML Area
+adzuna_5890333805,NLP,ML Area
+adzuna_5880763461,Scala,Language
+adzuna_5880763461,Kafka,Big Data
+adzuna_5880763461,Azure,Cloud
+adzuna_5880763461,GCP,Cloud
+adzuna_5880763461,Kubernetes,DevOps
+adzuna_5898061337,SQL,Language
+adzuna_5898061337,Python,Language
+adzuna_5898061337,Spark,Big Data
+adzuna_5898061337,Kafka,Big Data
+adzuna_5898061337,Airflow,Orchestration
+adzuna_5856528884,Spark,Big Data
+adzuna_5856528884,Kafka,Big Data
+adzuna_5856528884,MLflow,MLOps
+adzuna_5861998591,Python,Language
+adzuna_5861998591,Java,Language
+adzuna_5861998525,Python,Language
+adzuna_5861998525,Java,Language
+adzuna_5861998533,Python,Language
+adzuna_5861998533,Java,Language
+adzuna_5903636462,Spark,Big Data
+adzuna_5903636462,Kafka,Big Data
+adzuna_5903636462,MLflow,MLOps
+adzuna_5876874074,SQL,Language
+adzuna_5896529953,Machine Learning,ML Area
+adzuna_5890333794,SQL,Language
+adzuna_5890333794,Python,Language
+adzuna_5890333794,Azure,Cloud
+adzuna_5890333794,GCP,Cloud
+adzuna_5890333794,Docker,DevOps
+adzuna_5890333794,Kubernetes,DevOps
+adzuna_5890333794,Pandas,Library
+adzuna_5890333794,TensorFlow,ML Framework
+adzuna_5890333794,PyTorch,ML Framework
+adzuna_5890333794,LLM / GenAI,ML Area
+adzuna_5890333794,FastAPI,MLOps
+adzuna_5853437575,SQL,Language
+adzuna_5853437575,Python,Language
+adzuna_5853437575,Spark,Big Data
+adzuna_5853437575,Databricks,Warehouse
+adzuna_5853437575,Power BI,BI
+adzuna_5853437575,Azure,Cloud
+adzuna_5853437575,Git,DevOps
+adzuna_5853437575,TensorFlow,ML Framework
+adzuna_5853437575,PyTorch,ML Framework
+adzuna_5853437575,Keras,ML Framework
+adzuna_5858014026,SQL,Language
+adzuna_5858014026,Azure,Cloud
+adzuna_5858014026,Docker,DevOps
+adzuna_5858014024,SQL,Language
+adzuna_5858014024,Azure,Cloud
+adzuna_5858014024,Docker,DevOps
+adzuna_5861998547,Java,Language
+adzuna_5861998561,Java,Language
+adzuna_5861998540,Java,Language
+adzuna_5890333444,Python,Language
+adzuna_5890333444,AWS,Cloud
+adzuna_5890333444,Docker,DevOps
+adzuna_5891501170,Python,Language
+adzuna_5891501170,Spark,Big Data
+adzuna_5891501170,GCP,Cloud
+adzuna_5891501170,Docker,DevOps
+adzuna_5860870310,Python,Language
+adzuna_5860870310,AWS,Cloud
+adzuna_5879433974,SQL,Language
+adzuna_5879433974,Python,Language
+adzuna_5879433974,Databricks,Warehouse
+adzuna_5879433974,GCP,Cloud
+adzuna_5879433974,Git,DevOps
+adzuna_5879433974,FastAPI,MLOps
+adzuna_5891501353,Spark,Big Data
+adzuna_5891501353,Kafka,Big Data
+adzuna_5891501353,Airflow,Orchestration
+adzuna_5891501353,AWS,Cloud
+adzuna_5891501353,Kubernetes,DevOps
+adzuna_5880762940,SQL,Language
+adzuna_5880762940,Python,Language
+adzuna_5880762940,FastAPI,MLOps
+adzuna_5885833105,Java,Language
+adzuna_5885833105,Spark,Big Data
+adzuna_5900450013,SQL,Language
+adzuna_5900450013,Python,Language
+adzuna_5900450013,Azure,Cloud
+adzuna_5900450013,Docker,DevOps
+adzuna_5900450013,Kubernetes,DevOps
+adzuna_5900450013,Pandas,Library
+adzuna_5900450013,scikit-learn,ML Framework
+adzuna_5900450013,TensorFlow,ML Framework
+adzuna_5900450013,PyTorch,ML Framework
+adzuna_5900450013,Machine Learning,ML Area
+adzuna_5900450013,MLflow,MLOps
+adzuna_5900450013,FastAPI,MLOps
+adzuna_5880763399,Python,Language
+adzuna_5899905848,Machine Learning,ML Area
+adzuna_5890334346,SQL,Language
+adzuna_5890334346,Kafka,Big Data
+adzuna_5890334346,Power BI,BI
+adzuna_5890333238,SQL,Language
+adzuna_5890333238,Python,Language
+adzuna_5890333238,Docker,DevOps
+adzuna_5890333238,Kubernetes,DevOps
+adzuna_5890333238,Git,DevOps
+adzuna_5890334270,Python,Language
+adzuna_5890334270,Java,Language
+adzuna_5890333242,SQL,Language
+adzuna_5890333242,Python,Language
+adzuna_5890333242,Docker,DevOps
+adzuna_5890333242,Kubernetes,DevOps
+adzuna_5890333242,Git,DevOps
+adzuna_5890333240,SQL,Language
+adzuna_5890333240,Python,Language
+adzuna_5890333240,Docker,DevOps
+adzuna_5890333240,Kubernetes,DevOps
+adzuna_5890333240,Git,DevOps
+adzuna_5769862313,Machine Learning,ML Area
+adzuna_5769862313,Time Series,ML Area
+adzuna_5907675414,Hugging Face,ML Framework
+adzuna_5885832110,Java,Language
+adzuna_5885832110,Git,DevOps
+adzuna_5872873586,Python,Language
+adzuna_5872873586,Docker,DevOps
+adzuna_5872873586,Git,DevOps
+adzuna_5872873586,Machine Learning,ML Area
+adzuna_5872873586,LLM / GenAI,ML Area
+adzuna_5872873586,MLOps,MLOps
+adzuna_5891501685,Python,Language
+adzuna_5891501685,Docker,DevOps
+adzuna_5891501685,Git,DevOps
+adzuna_5891501685,Machine Learning,ML Area
+adzuna_5891501685,LLM / GenAI,ML Area
+adzuna_5891501685,MLOps,MLOps
+adzuna_5872873590,Python,Language
+adzuna_5872873590,Docker,DevOps
+adzuna_5872873590,Git,DevOps
+adzuna_5872873590,Machine Learning,ML Area
+adzuna_5872873590,LLM / GenAI,ML Area
+adzuna_5872873590,MLOps,MLOps
+adzuna_5891501684,Python,Language
+adzuna_5891501684,Docker,DevOps
+adzuna_5891501684,Git,DevOps
+adzuna_5891501684,Machine Learning,ML Area
+adzuna_5891501684,LLM / GenAI,ML Area
+adzuna_5891501684,MLOps,MLOps
+adzuna_5895689624,Python,Language
+adzuna_5895689624,Docker,DevOps
+adzuna_5895689624,Git,DevOps
+adzuna_5895689624,Machine Learning,ML Area
+adzuna_5895689624,LLM / GenAI,ML Area
+adzuna_5895689624,MLOps,MLOps
+adzuna_5872873539,Python,Language
+adzuna_5872873539,Docker,DevOps
+adzuna_5872873539,Git,DevOps
+adzuna_5872873539,Machine Learning,ML Area
+adzuna_5872873539,LLM / GenAI,ML Area
+adzuna_5872873539,MLOps,MLOps
+adzuna_5891501686,Python,Language
+adzuna_5891501686,Docker,DevOps
+adzuna_5891501686,Git,DevOps
+adzuna_5891501686,Machine Learning,ML Area
+adzuna_5891501686,LLM / GenAI,ML Area
+adzuna_5891501686,MLOps,MLOps
+adzuna_5891501688,Python,Language
+adzuna_5891501688,Docker,DevOps
+adzuna_5891501688,Git,DevOps
+adzuna_5891501688,Machine Learning,ML Area
+adzuna_5891501688,LLM / GenAI,ML Area
+adzuna_5891501688,MLOps,MLOps
+adzuna_5891501683,Python,Language
+adzuna_5891501683,Docker,DevOps
+adzuna_5891501683,Git,DevOps
+adzuna_5891501683,Machine Learning,ML Area
+adzuna_5891501683,LLM / GenAI,ML Area
+adzuna_5891501683,MLOps,MLOps
+adzuna_5891498743,Python,Language
+adzuna_5891498743,Docker,DevOps
+adzuna_5891498743,Git,DevOps
+adzuna_5891498743,Machine Learning,ML Area
+adzuna_5891498743,LLM / GenAI,ML Area
+adzuna_5891498743,MLOps,MLOps
+adzuna_5895689622,Python,Language
+adzuna_5895689622,Docker,DevOps
+adzuna_5895689622,Git,DevOps
+adzuna_5895689622,Machine Learning,ML Area
+adzuna_5895689622,LLM / GenAI,ML Area
+adzuna_5895689622,MLOps,MLOps
+adzuna_5892032541,Python,Language
+adzuna_5892032541,Docker,DevOps
+adzuna_5892032541,Git,DevOps
+adzuna_5892032541,Machine Learning,ML Area
+adzuna_5892032541,LLM / GenAI,ML Area
+adzuna_5892032541,MLOps,MLOps
+adzuna_5822521198,Machine Learning,ML Area
+adzuna_5845835248,Python,Language
+adzuna_5845835248,Databricks,Warehouse
+adzuna_5845835248,AWS,Cloud
+adzuna_5845835248,Azure,Cloud
+adzuna_5845835248,GCP,Cloud
+adzuna_5845835248,Git,DevOps
+adzuna_5845835248,Machine Learning,ML Area
+adzuna_5819152151,SQL,Language
+adzuna_5819152151,Python,Language
+adzuna_5819152151,Pandas,Library
+adzuna_5819152151,NumPy,Library
+adzuna_5819152151,scikit-learn,ML Framework
+adzuna_5819152151,XGBoost/LightGBM,ML Framework
+adzuna_5819152151,Machine Learning,ML Area
+adzuna_5871267973,Python,Language
+adzuna_5871267973,Git,DevOps
+adzuna_5871267973,scikit-learn,ML Framework
+adzuna_5871267973,TensorFlow,ML Framework
+adzuna_5871267973,PyTorch,ML Framework
+adzuna_5871267973,XGBoost/LightGBM,ML Framework
+adzuna_5871267973,Machine Learning,ML Area
+adzuna_5902291585,Python,Language
+adzuna_5902291585,Machine Learning,ML Area
+adzuna_5902291585,LLM / GenAI,ML Area
+adzuna_5814793305,Python,Language
+adzuna_5814793305,scikit-learn,ML Framework
+adzuna_5814793305,TensorFlow,ML Framework
+adzuna_5814793305,PyTorch,ML Framework
+adzuna_5814793305,Machine Learning,ML Area
+adzuna_5814793305,Deep Learning,ML Area
+adzuna_5814793305,LLM / GenAI,ML Area
+adzuna_5814793305,MLOps,MLOps
+adzuna_5893454716,Snowflake,Warehouse
+adzuna_5893454716,Databricks,Warehouse
+adzuna_5893454716,Azure,Cloud
+adzuna_5893454716,GCP,Cloud
+adzuna_5893454716,Git,DevOps
+adzuna_5893454716,scikit-learn,ML Framework
+adzuna_5893454716,Machine Learning,ML Area
+adzuna_5876475354,Python,Language
+adzuna_5876475354,Pandas,Library
+adzuna_5876475354,scikit-learn,ML Framework
+adzuna_5876475354,PyTorch,ML Framework
+adzuna_5876475354,Machine Learning,ML Area
+adzuna_5876475354,FastAPI,MLOps
+adzuna_5856185720,Machine Learning,ML Area
+adzuna_5856185720,LLM / GenAI,ML Area
+adzuna_5896111428,Python,Language
+adzuna_5896111428,Spark,Big Data
+adzuna_5896111428,Airflow,Orchestration
+adzuna_5896111428,Tableau,BI
+adzuna_5896111428,Power BI,BI
+adzuna_5896111428,Git,DevOps
+adzuna_5896111428,Pandas,Library
+adzuna_5896111428,scikit-learn,ML Framework
+adzuna_5896111428,Machine Learning,ML Area
+adzuna_5896111428,LLM / GenAI,ML Area
+adzuna_5896111428,MLOps,MLOps
+adzuna_5896111428,MLflow,MLOps
+adzuna_5768681619,Machine Learning,ML Area
+adzuna_5889647605,Machine Learning,ML Area
+adzuna_5889647605,LLM / GenAI,ML Area
+adzuna_5889647605,Computer Vision,ML Area
+adzuna_5877362747,Machine Learning,ML Area
+adzuna_5830371038,Machine Learning,ML Area
+adzuna_5441511402,Spark,Big Data
+adzuna_5441511402,Machine Learning,ML Area
+adzuna_5882799380,Machine Learning,ML Area
+adzuna_5826863293,Machine Learning,ML Area
+adzuna_5826863293,MLOps,MLOps
+adzuna_5795554694,Machine Learning,ML Area
+adzuna_5890063610,Machine Learning,ML Area
+adzuna_5890063610,Statistics,Statistics
+adzuna_5890063610,A/B Testing,Statistics
+adzuna_5343543574,Machine Learning,ML Area
+adzuna_5343543574,LLM / GenAI,ML Area
+adzuna_5861037217,Machine Learning,ML Area
+adzuna_5859624382,Machine Learning,ML Area
+adzuna_5853436540,Python,Language
+adzuna_5853436540,PyTorch,ML Framework
+adzuna_5853436540,Machine Learning,ML Area
+adzuna_5884276897,AWS,Cloud
+adzuna_5884276897,Machine Learning,ML Area
+adzuna_5884276897,MLOps,MLOps
+adzuna_5810817826,Machine Learning,ML Area
+adzuna_5857134043,Machine Learning,ML Area
+adzuna_5905234117,Python,Language
+adzuna_5905234117,Docker,DevOps
+adzuna_5905234117,Git,DevOps
+adzuna_5905234117,Machine Learning,ML Area
+adzuna_5896531010,Machine Learning,ML Area
+adzuna_5896531010,LLM / GenAI,ML Area
+adzuna_5888928214,Python,Language
+adzuna_5888928214,Git,DevOps
+adzuna_5888928214,Machine Learning,ML Area
+adzuna_5888928214,LLM / GenAI,ML Area
+adzuna_5888928212,Python,Language
+adzuna_5888928212,Git,DevOps
+adzuna_5888928212,Machine Learning,ML Area
+adzuna_5888928212,LLM / GenAI,ML Area
+adzuna_5768684253,Machine Learning,ML Area
+adzuna_5847010224,Machine Learning,ML Area
+adzuna_5810001507,Machine Learning,ML Area
+adzuna_5882799818,Machine Learning,ML Area
+adzuna_5891926346,Machine Learning,ML Area
+adzuna_5891926346,Computer Vision,ML Area
+adzuna_5821310050,Machine Learning,ML Area
+adzuna_5821310050,Deep Learning,ML Area
+adzuna_5834803421,Machine Learning,ML Area
+adzuna_5849807093,Machine Learning,ML Area
+adzuna_5907675532,SQL,Language
+adzuna_5907675532,Python,Language
+adzuna_5907675532,Machine Learning,ML Area
+adzuna_5889647195,Databricks,Warehouse
+adzuna_5889647195,Machine Learning,ML Area
+adzuna_5855309663,Databricks,Warehouse
+adzuna_5855309663,Machine Learning,ML Area
+adzuna_5768850120,Machine Learning,ML Area
+adzuna_5798339244,Machine Learning,ML Area
+adzuna_5798339244,LLM / GenAI,ML Area
+adzuna_5819358998,Pandas,Library
+adzuna_5819358998,NumPy,Library
+adzuna_5819358998,scikit-learn,ML Framework
+adzuna_5819358998,TensorFlow,ML Framework
+adzuna_5819358998,PyTorch,ML Framework
+adzuna_5819358998,Keras,ML Framework
+adzuna_5819358998,Hugging Face,ML Framework
+adzuna_5819358998,Machine Learning,ML Area
+adzuna_5877363283,Machine Learning,ML Area
+adzuna_5869523350,Machine Learning,ML Area
+adzuna_5853748308,Machine Learning,ML Area
+adzuna_5834804564,Machine Learning,ML Area
+adzuna_5589774792,Machine Learning,ML Area
+adzuna_5793409429,Machine Learning,ML Area
+adzuna_5856737633,Machine Learning,ML Area
+adzuna_5761852766,Machine Learning,ML Area
+adzuna_5891925333,Machine Learning,ML Area
+adzuna_5894946975,Python,Language
+adzuna_5894946975,PyTorch,ML Framework
+adzuna_5894946975,Machine Learning,ML Area
+adzuna_5838583886,Machine Learning,ML Area
+adzuna_5833388721,Machine Learning,ML Area
+adzuna_5893454704,Python,Language
+adzuna_5893454704,Machine Learning,ML Area
+adzuna_5893454704,LLM / GenAI,ML Area
+adzuna_5893454704,MLOps,MLOps
+adzuna_5496117951,Machine Learning,ML Area
+adzuna_5829869796,Python,Language
+adzuna_5829869796,AWS,Cloud
+adzuna_5829869796,Azure,Cloud
+adzuna_5829869796,GCP,Cloud
+adzuna_5829869796,Machine Learning,ML Area
+adzuna_5848524691,Machine Learning,ML Area
+adzuna_5852444177,Machine Learning,ML Area
+adzuna_5852444159,Machine Learning,ML Area
+adzuna_5848094223,Machine Learning,ML Area
+adzuna_5848094223,MLOps,MLOps
+adzuna_5645468226,Python,Language
+adzuna_5645468226,LLM / GenAI,ML Area
+adzuna_5809265679,Machine Learning,ML Area
+adzuna_5809265679,LLM / GenAI,ML Area
+adzuna_5906321563,Docker,DevOps
+adzuna_5906321563,Kubernetes,DevOps
+adzuna_5906321563,Git,DevOps
+adzuna_5906321563,TensorFlow,ML Framework
+adzuna_5906321563,Machine Learning,ML Area
+adzuna_5906321563,MLOps,MLOps
+adzuna_5906321563,MLflow,MLOps
+adzuna_5850473180,Machine Learning,ML Area
+adzuna_5852678244,Machine Learning,ML Area
+adzuna_5885832010,Python,Language
+adzuna_5885832010,TensorFlow,ML Framework
+adzuna_5885832010,PyTorch,ML Framework
+adzuna_5885832010,LLM / GenAI,ML Area
+adzuna_5904132216,MLOps,MLOps
+adzuna_5830372251,LLM / GenAI,ML Area
+adzuna_5830372251,MLOps,MLOps
+adzuna_5903636485,Airflow,Orchestration
+adzuna_5903636485,AWS,Cloud
+adzuna_5903636485,Azure,Cloud
+adzuna_5903636485,GCP,Cloud
+adzuna_5903636485,Docker,DevOps
+adzuna_5903636485,Git,DevOps
+adzuna_5903636485,MLOps,MLOps
+adzuna_5903636485,MLflow,MLOps
+adzuna_5903636485,Kubeflow,MLOps
+adzuna_5855309807,GCP,Cloud
+adzuna_5855309807,Machine Learning,ML Area
+adzuna_5855309807,MLOps,MLOps
+adzuna_5848522300,Machine Learning,ML Area
+adzuna_5636067372,Machine Learning,ML Area
+adzuna_5903050791,Python,Language
+adzuna_5903050791,AWS,Cloud
+adzuna_5903050791,Azure,Cloud
+adzuna_5903050791,GCP,Cloud
+adzuna_5903050791,TensorFlow,ML Framework
+adzuna_5903050791,PyTorch,ML Framework
+adzuna_5903050791,Keras,ML Framework
+adzuna_5903050791,Machine Learning,ML Area
+adzuna_5775456656,Machine Learning,ML Area
+adzuna_5775456656,LLM / GenAI,ML Area
+adzuna_5861998856,Python,Language
+adzuna_5861998856,GCP,Cloud
+adzuna_5861998856,LLM / GenAI,ML Area
+adzuna_5694913457,Machine Learning,ML Area
+adzuna_5890869244,GCP,Cloud
+adzuna_5890869244,Machine Learning,ML Area
+adzuna_5855309703,GCP,Cloud
+adzuna_5855309703,Machine Learning,ML Area
+adzuna_5855309703,MLOps,MLOps
+adzuna_5855309703,Vertex AI,MLOps
+adzuna_5690217757,GCP,Cloud
+adzuna_5692218771,GCP,Cloud
+adzuna_5832178720,MLOps,MLOps
+adzuna_5891415407,GCP,Cloud
+adzuna_5891415415,GCP,Cloud
+adzuna_5421337378,LLM / GenAI,ML Area
+adzuna_5801917975,Machine Learning,ML Area

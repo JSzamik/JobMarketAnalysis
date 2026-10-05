@@ -1,0 +1,201 @@
+role_name,skill_name,category,postings,pct_of_role_postings
+Analytics Engineer,Airflow,Orchestration,1,5.9
+Analytics Engineer,Databricks,Warehouse,1,5.9
+Analytics Engineer,GCP,Cloud,2,11.8
+Analytics Engineer,Git,DevOps,1,5.9
+Analytics Engineer,NumPy,Library,1,5.9
+Analytics Engineer,Pandas,Library,1,5.9
+Analytics Engineer,Power BI,BI,2,11.8
+Analytics Engineer,Python,Language,1,5.9
+Analytics Engineer,SQL,Language,3,17.6
+Analytics Engineer,Snowflake,Warehouse,1,5.9
+Analytics Engineer,dbt,Transformation,2,11.8
+BI Developer,Airflow,Orchestration,1,2.3
+BI Developer,Azure,Cloud,9,20.5
+BI Developer,BigQuery,Warehouse,1,2.3
+BI Developer,Databricks,Warehouse,1,2.3
+BI Developer,Excel,BI,1,2.3
+BI Developer,GCP,Cloud,1,2.3
+BI Developer,Git,DevOps,5,11.4
+BI Developer,Kafka,Big Data,1,2.3
+BI Developer,Looker,BI,2,4.5
+BI Developer,Pandas,Library,1,2.3
+BI Developer,Power BI,BI,27,61.4
+BI Developer,Python,Language,6,13.6
+BI Developer,SQL,Language,14,31.8
+BI Developer,Snowflake,Warehouse,5,11.4
+BI Developer,Spark,Big Data,2,4.5
+BI Developer,Tableau,BI,5,11.4
+BI Developer,dbt,Transformation,2,4.5
+Data Analyst,AWS,Cloud,2,0.7
+Data Analyst,Airflow,Orchestration,2,0.7
+Data Analyst,Azure,Cloud,7,2.5
+Data Analyst,BigQuery,Warehouse,6,2.2
+Data Analyst,Databricks,Warehouse,8,2.9
+Data Analyst,Excel,BI,17,6.1
+Data Analyst,FastAPI,MLOps,1,0.4
+Data Analyst,GCP,Cloud,12,4.3
+Data Analyst,Git,DevOps,5,1.8
+Data Analyst,Hadoop,Big Data,8,2.9
+Data Analyst,Java,Language,3,1.1
+Data Analyst,Kafka,Big Data,1,0.4
+Data Analyst,LLM / GenAI,ML Area,3,1.1
+Data Analyst,Looker,BI,8,2.9
+Data Analyst,Machine Learning,ML Area,2,0.7
+Data Analyst,NumPy,Library,1,0.4
+Data Analyst,Pandas,Library,1,0.4
+Data Analyst,Power BI,BI,13,4.7
+Data Analyst,Python,Language,26,9.3
+Data Analyst,Redshift,Warehouse,1,0.4
+Data Analyst,SQL,Language,61,21.9
+Data Analyst,Scala,Language,3,1.1
+Data Analyst,Snowflake,Warehouse,8,2.9
+Data Analyst,Spark,Big Data,10,3.6
+Data Analyst,Statistics,Statistics,6,2.2
+Data Analyst,Tableau,BI,6,2.2
+Data Analyst,dbt,Transformation,3,1.1
+Data Engineer,AWS,Cloud,127,15.2
+Data Engineer,Airflow,Orchestration,147,17.6
+Data Engineer,Azure,Cloud,226,27.0
+Data Engineer,BigQuery,Warehouse,57,6.8
+Data Engineer,Databricks,Warehouse,300,35.8
+Data Engineer,Docker,DevOps,66,7.9
+Data Engineer,Excel,BI,4,0.5
+Data Engineer,FastAPI,MLOps,4,0.5
+Data Engineer,GCP,Cloud,115,13.7
+Data Engineer,Git,DevOps,61,7.3
+Data Engineer,Hadoop,Big Data,31,3.7
+Data Engineer,Java,Language,82,9.8
+Data Engineer,Kafka,Big Data,122,14.6
+Data Engineer,Kubernetes,DevOps,65,7.8
+Data Engineer,LLM / GenAI,ML Area,35,4.2
+Data Engineer,Looker,BI,2,0.2
+Data Engineer,MLflow,MLOps,15,1.8
+Data Engineer,Machine Learning,ML Area,26,3.1
+Data Engineer,NLP,ML Area,15,1.8
+Data Engineer,NumPy,Library,15,1.8
+Data Engineer,Pandas,Library,37,4.4
+Data Engineer,Power BI,BI,68,8.1
+Data Engineer,PyTorch,ML Framework,6,0.7
+Data Engineer,Python,Language,398,47.6
+Data Engineer,Redshift,Warehouse,6,0.7
+Data Engineer,SQL,Language,324,38.7
+Data Engineer,SageMaker,MLOps,1,0.1
+Data Engineer,Scala,Language,74,8.8
+Data Engineer,Snowflake,Warehouse,148,17.7
+Data Engineer,Spark,Big Data,267,31.9
+Data Engineer,Statistics,Statistics,2,0.2
+Data Engineer,Tableau,BI,7,0.8
+Data Engineer,Time Series,ML Area,17,2.0
+Data Engineer,XGBoost/LightGBM,ML Framework,14,1.7
+Data Engineer,dbt,Transformation,24,2.9
+Data Engineer,scikit-learn,ML Framework,14,1.7
+Data Scientist,A/B Testing,Statistics,10,3.3
+Data Scientist,AWS,Cloud,16,5.2
+Data Scientist,Airflow,Orchestration,4,1.3
+Data Scientist,Azure,Cloud,17,5.5
+Data Scientist,BigQuery,Warehouse,22,7.2
+Data Scientist,Computer Vision,ML Area,16,5.2
+Data Scientist,Databricks,Warehouse,19,6.2
+Data Scientist,Deep Learning,ML Area,7,2.3
+Data Scientist,Docker,DevOps,10,3.3
+Data Scientist,Excel,BI,1,0.3
+Data Scientist,FastAPI,MLOps,6,2.0
+Data Scientist,GCP,Cloud,30,9.8
+Data Scientist,Git,DevOps,9,2.9
+Data Scientist,Hadoop,Big Data,2,0.7
+Data Scientist,Hugging Face,ML Framework,15,4.9
+Data Scientist,Java,Language,2,0.7
+Data Scientist,Jupyter,Library,1,0.3
+Data Scientist,Kafka,Big Data,3,1.0
+Data Scientist,Keras,ML Framework,2,0.7
+Data Scientist,Kubernetes,DevOps,8,2.6
+Data Scientist,LLM / GenAI,ML Area,56,18.2
+Data Scientist,Looker,BI,1,0.3
+Data Scientist,MLOps,MLOps,6,2.0
+Data Scientist,MLflow,MLOps,2,0.7
+Data Scientist,Machine Learning,ML Area,134,43.6
+Data Scientist,NLP,ML Area,10,3.3
+Data Scientist,NumPy,Library,36,11.7
+Data Scientist,Pandas,Library,46,15.0
+Data Scientist,Power BI,BI,4,1.3
+Data Scientist,PyTorch,ML Framework,23,7.5
+Data Scientist,Python,Language,117,38.1
+Data Scientist,SQL,Language,73,23.8
+Data Scientist,Scala,Language,2,0.7
+Data Scientist,Snowflake,Warehouse,35,11.4
+Data Scientist,Spark,Big Data,11,3.6
+Data Scientist,Statistics,Statistics,30,9.8
+Data Scientist,Tableau,BI,3,1.0
+Data Scientist,TensorFlow,ML Framework,6,2.0
+Data Scientist,Time Series,ML Area,10,3.3
+Data Scientist,Vertex AI,MLOps,9,2.9
+Data Scientist,XGBoost/LightGBM,ML Framework,21,6.8
+Data Scientist,dbt,Transformation,3,1.0
+Data Scientist,scikit-learn,ML Framework,27,8.8
+ML Engineer,AWS,Cloud,26,19.3
+ML Engineer,Airflow,Orchestration,4,3.0
+ML Engineer,Azure,Cloud,14,10.4
+ML Engineer,BigQuery,Warehouse,1,0.7
+ML Engineer,Computer Vision,ML Area,5,3.7
+ML Engineer,Databricks,Warehouse,7,5.2
+ML Engineer,Deep Learning,ML Area,4,3.0
+ML Engineer,Docker,DevOps,36,26.7
+ML Engineer,FastAPI,MLOps,5,3.7
+ML Engineer,GCP,Cloud,12,8.9
+ML Engineer,Git,DevOps,23,17.0
+ML Engineer,Hadoop,Big Data,2,1.5
+ML Engineer,Hugging Face,ML Framework,1,0.7
+ML Engineer,Java,Language,1,0.7
+ML Engineer,Kafka,Big Data,3,2.2
+ML Engineer,Keras,ML Framework,3,2.2
+ML Engineer,Kubeflow,MLOps,1,0.7
+ML Engineer,Kubernetes,DevOps,10,7.4
+ML Engineer,LLM / GenAI,ML Area,56,41.5
+ML Engineer,MLOps,MLOps,41,30.4
+ML Engineer,MLflow,MLOps,5,3.7
+ML Engineer,Machine Learning,ML Area,108,80.0
+ML Engineer,NLP,ML Area,5,3.7
+ML Engineer,NumPy,Library,3,2.2
+ML Engineer,Pandas,Library,7,5.2
+ML Engineer,Power BI,BI,1,0.7
+ML Engineer,PyTorch,ML Framework,22,16.3
+ML Engineer,Python,Language,63,46.7
+ML Engineer,SQL,Language,9,6.7
+ML Engineer,Snowflake,Warehouse,2,1.5
+ML Engineer,Spark,Big Data,4,3.0
+ML Engineer,Statistics,Statistics,1,0.7
+ML Engineer,Tableau,BI,1,0.7
+ML Engineer,TensorFlow,ML Framework,21,15.6
+ML Engineer,XGBoost/LightGBM,ML Framework,2,1.5
+ML Engineer,scikit-learn,ML Framework,12,8.9
+Other,A/B Testing,Statistics,2,1.1
+Other,AWS,Cloud,18,9.6
+Other,Airflow,Orchestration,4,2.1
+Other,Azure,Cloud,18,9.6
+Other,BigQuery,Warehouse,5,2.7
+Other,Databricks,Warehouse,10,5.3
+Other,Docker,DevOps,8,4.3
+Other,Excel,BI,1,0.5
+Other,FastAPI,MLOps,2,1.1
+Other,GCP,Cloud,14,7.4
+Other,Git,DevOps,15,8.0
+Other,Hadoop,Big Data,1,0.5
+Other,Java,Language,15,8.0
+Other,Kafka,Big Data,7,3.7
+Other,Kubernetes,DevOps,8,4.3
+Other,LLM / GenAI,ML Area,3,1.6
+Other,MLOps,MLOps,1,0.5
+Other,MLflow,MLOps,2,1.1
+Other,Machine Learning,ML Area,2,1.1
+Other,Pandas,Library,2,1.1
+Other,Power BI,BI,7,3.7
+Other,Python,Language,34,18.1
+Other,Redshift,Warehouse,1,0.5
+Other,SQL,Language,35,18.6
+Other,Scala,Language,2,1.1
+Other,Snowflake,Warehouse,10,5.3
+Other,Spark,Big Data,15,8.0
+Other,Statistics,Statistics,2,1.1
+Other,Vertex AI,MLOps,1,0.5
+Other,dbt,Transformation,3,1.6

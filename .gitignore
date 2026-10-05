@@ -1,0 +1,24 @@
+# Secrets (klucze Adzuna!)
+.env
+_env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dane generowane przez pipeline (odtwarzalne: python job_pipeline.py && python load_to_db.py)
+data/raw_*.json
+data/jobs.db
+
+# Power BI / Tableau - pliki tymczasowe i cache
+*.pbix.tmp
+.pbi/
+*.twbx
+
+# OS / edytory
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

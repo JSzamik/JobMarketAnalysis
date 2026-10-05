@@ -1,0 +1,100 @@
+skill_name,role_name,n_with_salary,avg_salary_pln,min_salary_pln,max_salary_pln
+A/B Testing,Data Scientist,4,28543.0,20240.0,36000.0
+A/B Testing,Other,2,29625.0,23000.0,36300.0
+AWS,Data Engineer,11,22743.0,10000.0,37434.0
+AWS,Data Scientist,4,21505.0,10000.0,33000.0
+AWS,Other,5,21940.0,3200.0,31900.0
+Airflow,Analytics Engineer,1,22267.0,20833.0,23700.0
+Airflow,Data Engineer,17,24102.0,14000.0,42000.0
+Azure,BI Developer,2,24780.0,21840.0,28560.0
+Azure,Data Engineer,25,21697.0,7000.0,31500.0
+Azure,Data Scientist,2,25050.0,18500.0,33000.0
+Azure,ML Engineer,1,26750.0,24000.0,29500.0
+Azure,Other,1,27720.0,26880.0,28560.0
+BigQuery,Data Engineer,8,23543.0,14000.0,33600.0
+Computer Vision,Data Scientist,1,23940.0,19320.0,28560.0
+Computer Vision,ML Engineer,3,20720.0,12600.0,28560.0
+Databricks,Data Analyst,2,21350.0,13000.0,27720.0
+Databricks,Data Engineer,28,23938.0,12000.0,35300.0
+Databricks,Data Scientist,1,29500.0,23000.0,36000.0
+Databricks,ML Engineer,1,31080.0,26880.0,35280.0
+Databricks,Other,2,30300.0,26000.0,37000.0
+Deep Learning,ML Engineer,3,29050.0,19320.0,46800.0
+Docker,Data Engineer,2,21420.0,15120.0,28560.0
+Excel,Data Analyst,1,15000.0,12000.0,18000.0
+Excel,Data Engineer,1,23940.0,21000.0,26880.0
+FastAPI,Data Scientist,1,23100.0,18500.0,27700.0
+FastAPI,ML Engineer,1,26750.0,24000.0,29500.0
+FastAPI,Other,1,23500.0,21800.0,25200.0
+GCP,Data Analyst,2,26625.0,24000.0,29000.0
+GCP,Data Engineer,14,24781.0,14000.0,37434.0
+GCP,Data Scientist,2,28200.0,21000.0,33000.0
+GCP,ML Engineer,1,26040.0,23520.0,28560.0
+Git,Analytics Engineer,1,22267.0,20833.0,23700.0
+Git,Data Engineer,5,22008.0,14000.0,32000.0
+Git,ML Engineer,1,23000.0,19000.0,27000.0
+Hadoop,Data Analyst,1,26250.0,24000.0,28500.0
+Hadoop,Data Engineer,2,21050.0,15800.0,26700.0
+Java,Data Engineer,13,24325.0,12000.0,33600.0
+Java,Other,2,30250.0,26000.0,37000.0
+Kafka,Data Engineer,13,23313.0,12000.0,37434.0
+Kubernetes,Data Engineer,5,26514.0,17400.0,35000.0
+Kubernetes,Other,2,28500.0,21800.0,37000.0
+LLM / GenAI,Data Engineer,2,26850.0,24000.0,30200.0
+LLM / GenAI,Data Scientist,8,26445.0,18500.0,50000.0
+LLM / GenAI,ML Engineer,8,32158.0,12600.0,46800.0
+Looker,Data Analyst,3,23233.0,13000.0,29000.0
+Looker,Data Engineer,1,18500.0,15000.0,22000.0
+MLOps,Data Scientist,1,29400.0,26880.0,31920.0
+MLOps,ML Engineer,6,28323.0,18900.0,46800.0
+MLOps,Other,1,32000.0,26000.0,38000.0
+MLflow,Data Scientist,1,29500.0,23000.0,36000.0
+Machine Learning,Data Engineer,5,24375.0,10000.0,37434.0
+Machine Learning,Data Scientist,27,29414.0,11200.0,100000.0
+Machine Learning,ML Engineer,19,30936.0,11000.0,46800.0
+NLP,Data Scientist,2,23595.0,19320.0,28560.0
+NLP,ML Engineer,3,20720.0,12600.0,28560.0
+NumPy,Data Scientist,2,26500.0,19000.0,36000.0
+Pandas,Data Engineer,1,43000.0,38000.0,48000.0
+Pandas,Data Scientist,3,27167.0,19000.0,36000.0
+Power BI,BI Developer,10,22541.0,13440.0,33600.0
+Power BI,Data Engineer,5,20270.0,7000.0,29000.0
+Power BI,Data Scientist,1,24000.0,18000.0,30000.0
+PyTorch,Data Scientist,1,23940.0,19320.0,28560.0
+PyTorch,ML Engineer,5,25222.0,12600.0,46800.0
+Python,BI Developer,1,23520.0,21840.0,25200.0
+Python,Data Analyst,3,25453.0,20000.0,30000.0
+Python,Data Engineer,33,22297.0,7000.0,50000.0
+Python,Data Scientist,11,25844.0,18000.0,36000.0
+Python,ML Engineer,7,25409.0,12600.0,46800.0
+Python,Other,2,27980.0,23000.0,36000.0
+Redshift,Data Engineer,2,23680.0,18480.0,28800.0
+SQL,Analytics Engineer,1,22267.0,20833.0,23700.0
+SQL,BI Developer,2,20510.0,16000.0,25200.0
+SQL,Data Analyst,5,23144.0,12000.0,30000.0
+SQL,Data Engineer,36,22378.0,7000.0,48000.0
+SQL,Data Scientist,4,21891.0,11200.0,32000.0
+SQL,Other,1,26460.0,25200.0,27720.0
+Scala,Data Engineer,13,23071.0,12000.0,33000.0
+Scala,Other,1,26460.0,25200.0,27720.0
+Snowflake,Analytics Engineer,1,22267.0,20833.0,23700.0
+Snowflake,Data Analyst,1,23900.0,21800.0,26000.0
+Snowflake,Data Engineer,18,24648.0,16000.0,34500.0
+Snowflake,Other,2,29400.0,23520.0,37000.0
+Spark,Data Engineer,26,23038.0,10000.0,37434.0
+Spark,Data Scientist,2,29000.0,23000.0,36000.0
+Spark,ML Engineer,1,25750.0,16400.0,35100.0
+Spark,Other,2,26500.0,21800.0,36000.0
+Statistics,Data Analyst,1,11800.0,9600.0,14000.0
+Statistics,Data Scientist,11,24853.0,10000.0,36000.0
+Tableau,Data Engineer,1,18500.0,15000.0,22000.0
+TensorFlow,ML Engineer,5,25222.0,12600.0,46800.0
+Time Series,Data Scientist,4,23931.0,11200.0,36000.0
+Vertex AI,Data Scientist,1,29400.0,26880.0,31920.0
+XGBoost/LightGBM,Data Scientist,2,26000.0,19000.0,32000.0
+XGBoost/LightGBM,ML Engineer,1,23000.0,19000.0,27000.0
+dbt,Analytics Engineer,2,23133.0,18000.0,30000.0
+dbt,Data Analyst,1,22800.0,15600.0,30000.0
+dbt,Data Engineer,2,21105.0,17400.0,26700.0
+scikit-learn,Data Scientist,3,25647.0,19000.0,36000.0
+scikit-learn,ML Engineer,5,25222.0,12600.0,46800.0
